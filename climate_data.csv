@@ -1,0 +1,1681 @@
+﻿city,month,country,high_temp,low_temp,mean_temp,precipitation,humidity,dew_point,wind,pressure,visibility
+Accra,January,Ghana,89 °F,75 °F,82 °F,"1.57""",75%,73 °F,14 mph,"29.85 ""Hg",5 mi
+Accra,February,Ghana,90 °F,77 °F,84 °F,"1.79""",77%,75 °F,17 mph,"29.84 ""Hg",6 mi
+Accra,March,Ghana,91 °F,78 °F,84 °F,"2.29""",78%,76 °F,17 mph,"29.83 ""Hg",7 mi
+Accra,April,Ghana,90 °F,78 °F,84 °F,"2.93""",78%,76 °F,16 mph,"29.83 ""Hg",7 mi
+Accra,May,Ghana,89 °F,77 °F,83 °F,"5.11""",80%,75 °F,15 mph,"29.87 ""Hg",8 mi
+Accra,June,Ghana,85 °F,75 °F,80 °F,"6.39""",84%,74 °F,15 mph,"29.93 ""Hg",7 mi
+Accra,July,Ghana,83 °F,75 °F,79 °F,"2.78""",84%,73 °F,19 mph,"29.95 ""Hg",7 mi
+Accra,August,Ghana,83 °F,74 °F,78 °F,"1.83""",84%,72 °F,20 mph,"29.95 ""Hg",7 mi
+Accra,September,Ghana,85 °F,75 °F,79 °F,"2.44""",84%,73 °F,19 mph,"29.92 ""Hg",7 mi
+Accra,October,Ghana,86 °F,75 °F,80 °F,"3.75""",83%,74 °F,15 mph,"29.88 ""Hg",7 mi
+Accra,November,Ghana,88 °F,76 °F,82 °F,"2.67""",80%,75 °F,13 mph,"29.86 ""Hg",7 mi
+Accra,December,Ghana,89 °F,76 °F,82 °F,"2.07""",78%,75 °F,13 mph,"29.85 ""Hg",5 mi
+Edmonton,January,Canada,21 °F,1 °F,11 °F,"0.82""",74%,5 °F,14 mph,"30.07 ""Hg",13 mi
+Edmonton,February,Canada,24 °F,2 °F,13 °F,"0.53""",73%,7 °F,14 mph,"30.08 ""Hg",13 mi
+Edmonton,March,Canada,34 °F,14 °F,24 °F,"0.74""",74%,17 °F,15 mph,"30.03 ""Hg",13 mi
+Edmonton,April,Canada,50 °F,27 °F,38 °F,"1.08""",64%,26 °F,17 mph,"29.98 ""Hg",14 mi
+Edmonton,May,Canada,64 °F,37 °F,50 °F,"2.00""",56%,34 °F,17 mph,"29.97 ""Hg",14 mi
+Edmonton,June,Canada,70 °F,46 °F,58 °F,"2.92""",67%,46 °F,15 mph,"29.91 ""Hg",14 mi
+Edmonton,July,Canada,74 °F,49 °F,61 °F,"3.46""",74%,52 °F,13 mph,"29.95 ""Hg",14 mi
+Edmonton,August,Canada,73 °F,46 °F,59 °F,"2.02""",74%,50 °F,12 mph,"29.97 ""Hg",14 mi
+Edmonton,September,Canada,65 °F,37 °F,51 °F,"1.45""",70%,40 °F,14 mph,"29.98 ""Hg",15 mi
+Edmonton,October,Canada,51 °F,26 °F,39 °F,"0.77""",70%,29 °F,15 mph,"29.98 ""Hg",15 mi
+Edmonton,November,Canada,33 °F,14 °F,24 °F,"0.85""",77%,17 °F,14 mph,"30.00 ""Hg",13 mi
+Edmonton,December,Canada,23 °F,2 °F,13 °F,"0.63""",75%,7 °F,14 mph,"30.03 ""Hg",13 mi
+Nassau,January,Bahamas,80 °F,65 °F,72 °F,"2.67""",75%,63 °F,16 mph,"30.11 ""Hg",8 mi
+Nassau,February,Bahamas,81 °F,66 °F,73 °F,"2.07""",75%,64 °F,16 mph,"30.10 ""Hg",8 mi
+Nassau,March,Bahamas,82 °F,67 °F,74 °F,"2.24""",71%,64 °F,17 mph,"30.07 ""Hg",8 mi
+Nassau,April,Bahamas,84 °F,69 °F,77 °F,"2.45""",71%,66 °F,17 mph,"30.04 ""Hg",8 mi
+Nassau,May,Bahamas,87 °F,72 °F,80 °F,"4.94""",74%,70 °F,15 mph,"30.02 ""Hg",8 mi
+Nassau,June,Bahamas,90 °F,75 °F,83 °F,"8.40""",76%,74 °F,14 mph,"30.03 ""Hg",7 mi
+Nassau,July,Bahamas,91 °F,77 °F,84 °F,"5.80""",74%,75 °F,14 mph,"30.07 ""Hg",7 mi
+Nassau,August,Bahamas,92 °F,77 °F,84 °F,"7.74""",76%,76 °F,13 mph,"30.02 ""Hg",7 mi
+Nassau,September,Bahamas,90 °F,76 °F,83 °F,"7.01""",77%,75 °F,12 mph,"29.97 ""Hg",7 mi
+Nassau,October,Bahamas,88 °F,75 °F,81 °F,"5.44""",77%,73 °F,15 mph,"29.97 ""Hg",7 mi
+Nassau,November,Bahamas,84 °F,71 °F,77 °F,"3.53""",75%,68 °F,17 mph,"30.03 ""Hg",8 mi
+Nassau,December,Bahamas,81 °F,67 °F,74 °F,"1.73""",77%,66 °F,16 mph,"30.09 ""Hg",8 mi
+Addis Ababa,January,Ethiopia,74 °F,49 °F,61 °F,"0.42""",49%,41 °F,16 mph,"29.95 ""Hg",12 mi
+Addis Ababa,February,Ethiopia,77 °F,52 °F,64 °F,"0.84""",49%,43 °F,16 mph,"29.89 ""Hg",11 mi
+Addis Ababa,March,Ethiopia,78 °F,55 °F,67 °F,"2.14""",47%,44 °F,16 mph,"29.86 ""Hg",10 mi
+Addis Ababa,April,Ethiopia,77 °F,56 °F,67 °F,"3.87""",56%,49 °F,15 mph,"29.86 ""Hg",10 mi
+Addis Ababa,May,Ethiopia,76 °F,56 °F,66 °F,"4.91""",61%,51 °F,14 mph,"29.90 ""Hg",10 mi
+Addis Ababa,June,Ethiopia,73 °F,55 °F,64 °F,"5.90""",69%,52 °F,12 mph,"29.89 ""Hg",10 mi
+Addis Ababa,July,Ethiopia,69 °F,55 °F,62 °F,"8.16""",80%,54 °F,12 mph,"29.92 ""Hg",9 mi
+Addis Ababa,August,Ethiopia,69 °F,54 °F,62 °F,"8.77""",80%,54 °F,12 mph,"29.93 ""Hg",10 mi
+Addis Ababa,September,Ethiopia,71 °F,54 °F,63 °F,"6.92""",75%,53 °F,12 mph,"29.91 ""Hg",10 mi
+Addis Ababa,October,Ethiopia,74 °F,52 °F,63 °F,"1.91""",57%,47 °F,16 mph,"29.90 ""Hg",11 mi
+Addis Ababa,November,Ethiopia,73 °F,50 °F,62 °F,"1.45""",54%,45 °F,16 mph,"29.92 ""Hg",11 mi
+Addis Ababa,December,Ethiopia,73 °F,47 °F,60 °F,"1.20""",53%,42 °F,16 mph,"29.96 ""Hg",12 mi
+Frankfurt,January,Germany,41 °F,32 °F,36 °F,"1.86""",83%,31 °F,13 mph,"30.11 ""Hg",6 mi
+Frankfurt,February,Germany,44 °F,32 °F,38 °F,"1.65""",78%,32 °F,13 mph,"30.09 ""Hg",7 mi
+Frankfurt,March,Germany,53 °F,36 °F,45 °F,"1.51""",70%,35 °F,14 mph,"30.05 ""Hg",7 mi
+Frankfurt,April,Germany,62 °F,42 °F,52 °F,"1.43""",63%,39 °F,13 mph,"29.98 ""Hg",8 mi
+Frankfurt,May,Germany,69 °F,49 °F,59 °F,"2.51""",66%,47 °F,13 mph,"30.00 ""Hg",8 mi
+Frankfurt,June,Germany,75 °F,56 °F,66 °F,"2.35""",64%,53 °F,12 mph,"30.02 ""Hg",8 mi
+Frankfurt,July,Germany,79 °F,59 °F,69 °F,"2.40""",63%,55 °F,12 mph,"30.00 ""Hg",8 mi
+Frankfurt,August,Germany,78 °F,58 °F,68 °F,"2.34""",65%,55 °F,11 mph,"30.01 ""Hg",8 mi
+Frankfurt,September,Germany,69 °F,52 °F,60 °F,"1.90""",72%,50 °F,11 mph,"30.05 ""Hg",7 mi
+Frankfurt,October,Germany,59 °F,45 °F,52 °F,"2.10""",81%,45 °F,11 mph,"30.05 ""Hg",7 mi
+Frankfurt,November,Germany,48 °F,38 °F,43 °F,"1.85""",86%,39 °F,11 mph,"30.03 ""Hg",6 mi
+Frankfurt,December,Germany,42 °F,33 °F,38 °F,"2.23""",86%,34 °F,12 mph,"30.08 ""Hg",6 mi
+New Delhi,January,India,70 °F,46 °F,58 °F,"1.84""",80%,50 °F,6 mph,"30.05 ""Hg",1 mi
+New Delhi,February,India,78 °F,51 °F,65 °F,"1.47""",69%,53 °F,8 mph,"29.98 ""Hg",1 mi
+New Delhi,March,India,88 °F,60 °F,74 °F,"2.99""",59%,58 °F,9 mph,"29.87 ""Hg",2 mi
+New Delhi,April,India,99 °F,70 °F,85 °F,"2.04""",44%,60 °F,9 mph,"29.73 ""Hg",2 mi
+New Delhi,May,India,105 °F,77 °F,91 °F,"2.28""",42%,64 °F,10 mph,"29.59 ""Hg",2 mi
+New Delhi,June,India,104 °F,82 °F,93 °F,"2.51""",54%,73 °F,11 mph,"29.47 ""Hg",2 mi
+New Delhi,July,India,98 °F,81 °F,89 °F,"8.82""",74%,79 °F,8 mph,"29.47 ""Hg",1 mi
+New Delhi,August,India,95 °F,80 °F,88 °F,"10.06""",76%,78 °F,8 mph,"29.54 ""Hg",1 mi
+New Delhi,September,India,95 °F,78 °F,86 °F,"3.92""",70%,75 °F,7 mph,"29.66 ""Hg",2 mi
+New Delhi,October,India,93 °F,67 °F,80 °F,"0.62""",63%,66 °F,4 mph,"29.83 ""Hg",1 mi
+New Delhi,November,India,83 °F,55 °F,69 °F,"0.07""",67%,56 °F,4 mph,"29.96 ""Hg",1 mi
+New Delhi,December,India,74 °F,47 °F,60 °F,"0.29""",74%,50 °F,5 mph,"30.04 ""Hg",1 mi
+Adelaide,January,Australia,87 °F,64 °F,76 °F,"0.96""",45%,50 °F,13 mph,"29.91 ""Hg",12 mi
+Adelaide,February,Australia,85 °F,63 °F,74 °F,"1.11""",49%,51 °F,12 mph,"29.96 ""Hg",12 mi
+Adelaide,March,Australia,81 °F,60 °F,71 °F,"0.98""",53%,51 °F,11 mph,"30.03 ""Hg",12 mi
+Adelaide,April,Australia,74 °F,55 °F,65 °F,"1.41""",58%,48 °F,10 mph,"30.13 ""Hg",12 mi
+Adelaide,May,Australia,66 °F,51 °F,59 °F,"2.49""",67%,46 °F,10 mph,"30.17 ""Hg",10 mi
+Adelaide,June,Australia,61 °F,46 °F,54 °F,"2.81""",74%,44 °F,9 mph,"30.20 ""Hg",10 mi
+Adelaide,July,Australia,60 °F,46 °F,53 °F,"3.09""",72%,44 °F,12 mph,"30.13 ""Hg",10 mi
+Adelaide,August,Australia,62 °F,46 °F,54 °F,"2.38""",68%,43 °F,13 mph,"30.12 ""Hg",11 mi
+Adelaide,September,Australia,68 °F,49 °F,58 °F,"1.97""",60%,43 °F,14 mph,"30.08 ""Hg",11 mi
+Adelaide,October,Australia,74 °F,53 °F,64 °F,"1.47""",53%,44 °F,14 mph,"30.04 ""Hg",11 mi
+Adelaide,November,Australia,79 °F,57 °F,68 °F,"0.90""",49%,46 °F,14 mph,"29.98 ""Hg",12 mi
+Adelaide,December,Australia,84 °F,60 °F,72 °F,"0.88""",47%,48 °F,14 mph,"29.93 ""Hg",12 mi
+Guatemala City,January,Guatemala,76 °F,57 °F,66 °F,"0.38""",73%,55 °F,24 mph,"30.10 ""Hg",8 mi
+Guatemala City,February,Guatemala,78 °F,58 °F,68 °F,"0.57""",70%,56 °F,22 mph,"30.08 ""Hg",7 mi
+Guatemala City,March,Guatemala,80 °F,59 °F,69 °F,"0.70""",69%,56 °F,21 mph,"30.05 ""Hg",7 mi
+Guatemala City,April,Guatemala,81 °F,62 °F,71 °F,"1.61""",71%,59 °F,18 mph,"30.05 ""Hg",6 mi
+Guatemala City,May,Guatemala,80 °F,63 °F,72 °F,"4.61""",77%,62 °F,15 mph,"30.04 ""Hg",6 mi
+Guatemala City,June,Guatemala,77 °F,63 °F,70 °F,"7.25""",83%,62 °F,14 mph,"30.05 ""Hg",7 mi
+Guatemala City,July,Guatemala,77 °F,63 °F,70 °F,"5.62""",79%,61 °F,19 mph,"30.09 ""Hg",8 mi
+Guatemala City,August,Guatemala,78 °F,63 °F,70 °F,"7.06""",80%,62 °F,17 mph,"30.07 ""Hg",7 mi
+Guatemala City,September,Guatemala,77 °F,63 °F,70 °F,"7.35""",84%,62 °F,13 mph,"30.05 ""Hg",7 mi
+Guatemala City,October,Guatemala,76 °F,62 °F,69 °F,"4.92""",82%,61 °F,17 mph,"30.04 ""Hg",7 mi
+Guatemala City,November,Guatemala,75 °F,59 °F,67 °F,"1.44""",77%,58 °F,23 mph,"30.07 ""Hg",8 mi
+Guatemala City,December,Guatemala,75 °F,57 °F,66 °F,"0.37""",75%,56 °F,23 mph,"30.10 ""Hg",8 mi
+New Orleans,January,USA,62 °F,48 °F,55 °F,"4.63""",74%,46 °F,20 mph,"30.15 ""Hg",9 mi
+New Orleans,February,USA,66 °F,51 °F,59 °F,"4.20""",74%,49 °F,21 mph,"30.11 ""Hg",9 mi
+New Orleans,March,USA,73 °F,58 °F,65 °F,"4.84""",73%,55 °F,20 mph,"30.07 ""Hg",9 mi
+New Orleans,April,USA,79 °F,64 °F,71 °F,"5.44""",70%,60 °F,21 mph,"30.01 ""Hg",9 mi
+New Orleans,May,USA,86 °F,71 °F,78 °F,"5.15""",70%,67 °F,18 mph,"29.99 ""Hg",9 mi
+New Orleans,June,USA,90 °F,77 °F,84 °F,"6.49""",71%,72 °F,16 mph,"29.97 ""Hg",9 mi
+New Orleans,July,USA,92 °F,79 °F,85 °F,"6.28""",73%,74 °F,15 mph,"30.02 ""Hg",10 mi
+New Orleans,August,USA,92 °F,79 °F,85 °F,"6.58""",72%,74 °F,15 mph,"29.98 ""Hg",9 mi
+New Orleans,September,USA,88 °F,76 °F,82 °F,"4.95""",72%,71 °F,17 mph,"29.97 ""Hg",9 mi
+New Orleans,October,USA,81 °F,67 °F,74 °F,"3.63""",72%,63 °F,19 mph,"30.03 ""Hg",9 mi
+New Orleans,November,USA,71 °F,57 °F,64 °F,"3.59""",73%,54 °F,19 mph,"30.12 ""Hg",9 mi
+New Orleans,December,USA,65 °F,50 °F,58 °F,"4.52""",76%,49 °F,20 mph,"30.13 ""Hg",9 mi
+Algiers,January,Algeria,63 °F,42 °F,52 °F,"3.12""",80%,44 °F,10 mph,"30.17 ""Hg",7 mi
+Algiers,February,Algeria,64 °F,42 °F,53 °F,"2.83""",78%,45 °F,10 mph,"30.15 ""Hg",7 mi
+Algiers,March,Algeria,67 °F,45 °F,56 °F,"2.48""",77%,48 °F,11 mph,"30.08 ""Hg",7 mi
+Algiers,April,Algeria,71 °F,49 °F,60 °F,"2.24""",76%,52 °F,12 mph,"29.99 ""Hg",7 mi
+Algiers,May,Algeria,77 °F,55 °F,66 °F,"1.65""",74%,57 °F,12 mph,"30.00 ""Hg",7 mi
+Algiers,June,Algeria,84 °F,61 °F,73 °F,"0.36""",71%,62 °F,12 mph,"30.01 ""Hg",6 mi
+Algiers,July,Algeria,89 °F,67 °F,78 °F,"0.08""",69%,66 °F,12 mph,"29.98 ""Hg",6 mi
+Algiers,August,Algeria,91 °F,69 °F,80 °F,"0.38""",69%,68 °F,11 mph,"29.98 ""Hg",6 mi
+Algiers,September,Algeria,85 °F,64 °F,75 °F,"1.17""",72%,64 °F,11 mph,"30.01 ""Hg",7 mi
+Algiers,October,Algeria,80 °F,57 °F,68 °F,"1.85""",74%,58 °F,9 mph,"30.05 ""Hg",7 mi
+Algiers,November,Algeria,70 °F,50 °F,60 °F,"4.31""",78%,51 °F,10 mph,"30.07 ""Hg",7 mi
+Algiers,December,Algeria,65 °F,44 °F,54 °F,"3.61""",80%,47 °F,9 mph,"30.16 ""Hg",7 mi
+Halifax,January,Canada,31 °F,15 °F,23 °F,"5.09""",83%,18 °F,22 mph,"29.91 ""Hg",11 mi
+Halifax,February,Canada,32 °F,15 °F,23 °F,"4.79""",79%,18 °F,22 mph,"29.91 ""Hg",11 mi
+Halifax,March,Canada,38 °F,22 °F,30 °F,"4.64""",76%,23 °F,22 mph,"29.94 ""Hg",11 mi
+Halifax,April,Canada,48 °F,31 °F,40 °F,"4.38""",76%,31 °F,22 mph,"29.93 ""Hg",11 mi
+Halifax,May,Canada,60 °F,40 °F,50 °F,"3.82""",76%,41 °F,19 mph,"29.98 ""Hg",11 mi
+Halifax,June,Canada,69 °F,49 °F,59 °F,"4.12""",78%,51 °F,18 mph,"29.94 ""Hg",11 mi
+Halifax,July,Canada,76 °F,57 °F,66 °F,"3.39""",80%,59 °F,16 mph,"29.95 ""Hg",11 mi
+Halifax,August,Canada,76 °F,57 °F,66 °F,"3.06""",79%,58 °F,15 mph,"29.99 ""Hg",12 mi
+Halifax,September,Canada,68 °F,50 °F,59 °F,"4.55""",81%,53 °F,17 mph,"30.04 ""Hg",12 mi
+Halifax,October,Canada,57 °F,40 °F,49 °F,"5.20""",82%,43 °F,19 mph,"30.00 ""Hg",13 mi
+Halifax,November,Canada,46 °F,32 °F,39 °F,"5.85""",83%,34 °F,20 mph,"30.01 ""Hg",12 mi
+Halifax,December,Canada,37 °F,22 °F,30 °F,"6.09""",85%,25 °F,22 mph,"29.94 ""Hg",11 mi
+New York,January,USA,40 °F,28 °F,34 °F,"3.61""",60%,21 °F,13 mph,"30.07 ""Hg",9 mi
+New York,February,USA,42 °F,29 °F,36 °F,"3.37""",57%,21 °F,13 mph,"30.06 ""Hg",9 mi
+New York,March,USA,50 °F,35 °F,43 °F,"4.25""",57%,27 °F,12 mph,"30.06 ""Hg",9 mi
+New York,April,USA,62 °F,45 °F,53 °F,"4.06""",56%,36 °F,11 mph,"30.00 ""Hg",9 mi
+New York,May,USA,71 °F,54 °F,63 °F,"4.02""",62%,48 °F,8 mph,"30.00 ""Hg",9 mi
+New York,June,USA,80 °F,64 °F,72 °F,"4.50""",65%,59 °F,7 mph,"29.96 ""Hg",9 mi
+New York,July,USA,85 °F,70 °F,77 °F,"4.83""",65%,64 °F,6 mph,"29.96 ""Hg",9 mi
+New York,August,USA,84 °F,69 °F,76 °F,"4.62""",66%,63 °F,6 mph,"30.00 ""Hg",9 mi
+New York,September,USA,76 °F,62 °F,69 °F,"4.53""",67%,57 °F,7 mph,"30.06 ""Hg",9 mi
+New York,October,USA,65 °F,51 °F,58 °F,"4.48""",66%,46 °F,8 mph,"30.06 ""Hg",9 mi
+New York,November,USA,54 °F,41 °F,48 °F,"3.56""",62%,35 °F,10 mph,"30.11 ""Hg",9 mi
+New York,December,USA,45 °F,33 °F,39 °F,"4.27""",62%,27 °F,11 mph,"30.09 ""Hg",9 mi
+Almaty,January,Kazakstan,33 °F,15 °F,24 °F,"1.20""",83%,16 °F,6 mph,"30.33 ""Hg",3 mi
+Almaty,February,Kazakstan,37 °F,20 °F,29 °F,"1.46""",81%,21 °F,7 mph,"30.26 ""Hg",3 mi
+Almaty,March,Kazakstan,50 °F,31 °F,41 °F,"2.24""",72%,31 °F,8 mph,"30.15 ""Hg",5 mi
+Almaty,April,Kazakstan,64 °F,43 °F,54 °F,"3.12""",61%,39 °F,9 mph,"30.06 ""Hg",6 mi
+Almaty,May,Kazakstan,74 °F,52 °F,63 °F,"3.27""",57%,47 °F,9 mph,"29.95 ""Hg",7 mi
+Almaty,June,Kazakstan,83 °F,60 °F,71 °F,"1.98""",50%,51 °F,9 mph,"29.78 ""Hg",7 mi
+Almaty,July,Kazakstan,87 °F,64 °F,76 °F,"1.80""",45%,52 °F,9 mph,"29.70 ""Hg",7 mi
+Almaty,August,Kazakstan,86 °F,62 °F,74 °F,"1.15""",45%,49 °F,8 mph,"29.78 ""Hg",7 mi
+Almaty,September,Kazakstan,77 °F,52 °F,64 °F,"0.85""",47%,42 °F,8 mph,"29.98 ""Hg",7 mi
+Almaty,October,Kazakstan,63 °F,40 °F,51 °F,"1.44""",63%,36 °F,7 mph,"30.19 ""Hg",6 mi
+Almaty,November,Kazakstan,47 °F,29 °F,38 °F,"1.78""",78%,28 °F,7 mph,"30.30 ""Hg",4 mi
+Almaty,December,Kazakstan,36 °F,20 °F,28 °F,"1.47""",84%,20 °F,6 mph,"30.36 ""Hg",3 mi
+Hanoi,January,Vietnam,68 °F,58 °F,63 °F,"1.53""",76%,55 °F,11 mph,"30.09 ""Hg",4 mi
+Hanoi,February,Vietnam,71 °F,61 °F,66 °F,"0.85""",76%,58 °F,13 mph,"30.04 ""Hg",4 mi
+Hanoi,March,Vietnam,76 °F,67 °F,71 °F,"2.15""",82%,65 °F,13 mph,"29.93 ""Hg",4 mi
+Hanoi,April,Vietnam,83 °F,72 °F,77 °F,"4.34""",81%,70 °F,14 mph,"29.85 ""Hg",5 mi
+Hanoi,May,Vietnam,91 °F,78 °F,84 °F,"7.30""",78%,76 °F,14 mph,"29.72 ""Hg",5 mi
+Hanoi,June,Vietnam,94 °F,80 °F,87 °F,"7.71""",74%,77 °F,12 mph,"29.62 ""Hg",5 mi
+Hanoi,July,Vietnam,93 °F,80 °F,86 °F,"11.77""",77%,77 °F,12 mph,"29.62 ""Hg",6 mi
+Hanoi,August,Vietnam,91 °F,79 °F,85 °F,"15.01""",81%,77 °F,11 mph,"29.63 ""Hg",5 mi
+Hanoi,September,Vietnam,90 °F,77 °F,84 °F,"9.60""",78%,75 °F,10 mph,"29.77 ""Hg",5 mi
+Hanoi,October,Vietnam,85 °F,73 °F,79 °F,"6.23""",72%,68 °F,11 mph,"29.92 ""Hg",5 mi
+Hanoi,November,Vietnam,79 °F,68 °F,73 °F,"1.82""",72%,63 °F,11 mph,"30.00 ""Hg",5 mi
+Hanoi,December,Vietnam,71 °F,59 °F,65 °F,"1.11""",68%,54 °F,11 mph,"30.10 ""Hg",4 mi
+Oslo,January,Norway,32 °F,24 °F,28 °F,"2.30""",85%,24 °F,11 mph,"29.81 ""Hg",21 mi
+Oslo,February,Norway,35 °F,26 °F,30 °F,"2.05""",82%,25 °F,11 mph,"29.87 ""Hg",22 mi
+Oslo,March,Norway,44 °F,30 °F,37 °F,"1.48""",69%,26 °F,12 mph,"29.90 ""Hg",28 mi
+Oslo,April,Norway,53 °F,35 °F,44 °F,"1.73""",57%,28 °F,13 mph,"29.92 ""Hg",32 mi
+Oslo,May,Norway,63 °F,45 °F,54 °F,"2.70""",63%,39 °F,13 mph,"29.93 ""Hg",29 mi
+Oslo,June,Norway,70 °F,52 °F,61 °F,"3.46""",64%,47 °F,12 mph,"29.89 ""Hg",30 mi
+Oslo,July,Norway,74 °F,56 °F,65 °F,"3.33""",65%,52 °F,11 mph,"29.86 ""Hg",32 mi
+Oslo,August,Norway,70 °F,54 °F,62 °F,"3.91""",72%,52 °F,11 mph,"29.88 ""Hg",31 mi
+Oslo,September,Norway,63 °F,48 °F,55 °F,"3.52""",75%,47 °F,11 mph,"29.92 ""Hg",30 mi
+Oslo,October,Norway,51 °F,40 °F,45 °F,"3.94""",81%,39 °F,12 mph,"29.90 ""Hg",28 mi
+Oslo,November,Norway,41 °F,33 °F,37 °F,"3.24""",86%,33 °F,11 mph,"29.83 ""Hg",24 mi
+Oslo,December,Norway,35 °F,27 °F,31 °F,"3.11""",87%,27 °F,10 mph,"29.77 ""Hg",22 mi
+Amman,January,Jordan,55 °F,40 °F,48 °F,"2.56""",71%,37 °F,11 mph,"30.08 ""Hg",4 mi
+Amman,February,Jordan,58 °F,42 °F,50 °F,"2.30""",68%,37 °F,12 mph,"30.04 ""Hg",4 mi
+Amman,March,Jordan,64 °F,46 °F,55 °F,"1.95""",60%,39 °F,12 mph,"29.97 ""Hg",4 mi
+Amman,April,Jordan,74 °F,52 °F,63 °F,"1.16""",47%,39 °F,12 mph,"29.90 ""Hg",4 mi
+Amman,May,Jordan,83 °F,60 °F,72 °F,"1.44""",39%,43 °F,13 mph,"29.83 ""Hg",4 mi
+Amman,June,Jordan,88 °F,66 °F,77 °F,"1.10""",39%,48 °F,14 mph,"29.76 ""Hg",4 mi
+Amman,July,Jordan,91 °F,70 °F,81 °F,"0.61""",40%,52 °F,15 mph,"29.68 ""Hg",4 mi
+Amman,August,Jordan,91 °F,70 °F,81 °F,"1.73""",45%,55 °F,12 mph,"29.71 ""Hg",4 mi
+Amman,September,Jordan,88 °F,66 °F,77 °F,"0.92""",50%,54 °F,10 mph,"29.82 ""Hg",4 mi
+Amman,October,Jordan,81 °F,60 °F,71 °F,"0.58""",51%,49 °F,8 mph,"29.93 ""Hg",4 mi
+Amman,November,Jordan,69 °F,51 °F,60 °F,"1.13""",59%,42 °F,8 mph,"30.03 ""Hg",4 mi
+Amman,December,Jordan,59 °F,44 °F,51 °F,"1.51""",68%,39 °F,9 mph,"30.10 ""Hg",4 mi
+Harare,January,Zimbabwe,80 °F,62 °F,71 °F,"6.86""",75%,61 °F,12 mph,"29.97 ""Hg",11 mi
+Harare,February,Zimbabwe,80 °F,62 °F,71 °F,"5.28""",75%,61 °F,12 mph,"29.99 ""Hg",11 mi
+Harare,March,Zimbabwe,80 °F,60 °F,70 °F,"3.80""",73%,59 °F,12 mph,"30.03 ""Hg",11 mi
+Harare,April,Zimbabwe,78 °F,56 °F,67 °F,"1.40""",67%,54 °F,12 mph,"30.10 ""Hg",11 mi
+Harare,May,Zimbabwe,75 °F,50 °F,63 °F,"0.72""",60%,47 °F,11 mph,"30.16 ""Hg",11 mi
+Harare,June,Zimbabwe,71 °F,47 °F,59 °F,"0.34""",59%,43 °F,12 mph,"30.22 ""Hg",11 mi
+Harare,July,Zimbabwe,71 °F,46 °F,58 °F,"0.07""",57%,41 °F,13 mph,"30.24 ""Hg",10 mi
+Harare,August,Zimbabwe,76 °F,49 °F,63 °F,"0.06""",49%,41 °F,14 mph,"30.17 ""Hg",8 mi
+Harare,September,Zimbabwe,82 °F,55 °F,69 °F,"0.09""",44%,43 °F,16 mph,"30.10 ""Hg",6 mi
+Harare,October,Zimbabwe,85 °F,59 °F,72 °F,"1.03""",48%,49 °F,17 mph,"30.04 ""Hg",8 mi
+Harare,November,Zimbabwe,84 °F,62 °F,73 °F,"3.11""",59%,55 °F,16 mph,"30.01 ""Hg",10 mi
+Harare,December,Zimbabwe,81 °F,62 °F,71 °F,"7.17""",72%,60 °F,13 mph,"29.99 ""Hg",10 mi
+Ottawa,January,Canada,23 °F,6 °F,15 °F,"2.64""",75%,8 °F,17 mph,"30.03 ""Hg",12 mi
+Ottawa,February,Canada,26 °F,9 °F,17 °F,"2.14""",70%,10 °F,17 mph,"30.03 ""Hg",12 mi
+Ottawa,March,Canada,36 °F,20 °F,28 °F,"2.51""",66%,18 °F,17 mph,"30.03 ""Hg",13 mi
+Ottawa,April,Canada,52 °F,33 °F,42 °F,"3.11""",61%,29 °F,18 mph,"29.97 ""Hg",15 mi
+Ottawa,May,Canada,67 °F,45 °F,56 °F,"2.96""",62%,42 °F,16 mph,"29.97 ""Hg",15 mi
+Ottawa,June,Canada,76 °F,55 °F,66 °F,"3.91""",69%,54 °F,14 mph,"29.92 ""Hg",14 mi
+Ottawa,July,Canada,80 °F,60 °F,70 °F,"3.76""",70%,59 °F,13 mph,"29.92 ""Hg",15 mi
+Ottawa,August,Canada,79 °F,58 °F,68 °F,"3.21""",73%,58 °F,12 mph,"29.98 ""Hg",14 mi
+Ottawa,September,Canada,70 °F,50 °F,60 °F,"3.41""",75%,52 °F,13 mph,"30.03 ""Hg",14 mi
+Ottawa,October,Canada,56 °F,39 °F,47 °F,"3.42""",76%,39 °F,15 mph,"30.02 ""Hg",14 mi
+Ottawa,November,Canada,42 °F,27 °F,35 °F,"2.77""",77%,28 °F,16 mph,"30.04 ""Hg",13 mi
+Ottawa,December,Canada,30 °F,16 °F,23 °F,"2.86""",79%,17 °F,17 mph,"30.03 ""Hg",11 mi
+Amsterdam,January,Netherlands,44 °F,34 °F,39 °F,"2.73""",88%,36 °F,24 mph,"30.00 ""Hg",7 mi
+Amsterdam,February,Netherlands,45 °F,34 °F,40 °F,"2.34""",86%,36 °F,23 mph,"30.00 ""Hg",7 mi
+Amsterdam,March,Netherlands,50 °F,37 °F,44 °F,"2.14""",82%,38 °F,22 mph,"30.00 ""Hg",7 mi
+Amsterdam,April,Netherlands,57 °F,41 °F,49 °F,"1.64""",76%,41 °F,19 mph,"29.97 ""Hg",9 mi
+Amsterdam,May,Netherlands,64 °F,47 °F,56 °F,"2.47""",75%,47 °F,19 mph,"29.99 ""Hg",10 mi
+Amsterdam,June,Netherlands,69 °F,53 °F,61 °F,"2.73""",76%,53 °F,18 mph,"30.02 ""Hg",10 mi
+Amsterdam,July,Netherlands,72 °F,56 °F,64 °F,"3.08""",78%,57 °F,17 mph,"29.98 ""Hg",10 mi
+Amsterdam,August,Netherlands,72 °F,56 °F,64 °F,"4.05""",79%,57 °F,17 mph,"29.97 ""Hg",10 mi
+Amsterdam,September,Netherlands,67 °F,52 °F,59 °F,"3.06""",82%,53 °F,17 mph,"30.00 ""Hg",9 mi
+Amsterdam,October,Netherlands,59 °F,46 °F,52 °F,"3.55""",85%,48 °F,20 mph,"29.96 ""Hg",8 mi
+Amsterdam,November,Netherlands,50 °F,40 °F,45 °F,"3.30""",89%,42 °F,20 mph,"29.93 ""Hg",7 mi
+Amsterdam,December,Netherlands,45 °F,35 °F,40 °F,"3.23""",89%,38 °F,22 mph,"29.96 ""Hg",7 mi
+Havana,January,Cuba,79 °F,61 °F,70 °F,"1.28""",78%,62 °F,14 mph,"30.09 ""Hg",5 mi
+Havana,February,Cuba,81 °F,62 °F,72 °F,"1.16""",77%,63 °F,14 mph,"30.07 ""Hg",5 mi
+Havana,March,Cuba,83 °F,63 °F,73 °F,"1.10""",74%,63 °F,15 mph,"30.05 ""Hg",5 mi
+Havana,April,Cuba,86 °F,67 °F,76 °F,"1.28""",72%,66 °F,15 mph,"30.01 ""Hg",5 mi
+Havana,May,Cuba,88 °F,70 °F,79 °F,"3.12""",76%,70 °F,13 mph,"29.98 ""Hg",5 mi
+Havana,June,Cuba,89 °F,73 °F,81 °F,"4.57""",81%,73 °F,11 mph,"30.00 ""Hg",5 mi
+Havana,July,Cuba,90 °F,73 °F,82 °F,"3.95""",80%,73 °F,11 mph,"30.03 ""Hg",5 mi
+Havana,August,Cuba,90 °F,73 °F,82 °F,"4.78""",81%,74 °F,10 mph,"29.99 ""Hg",5 mi
+Havana,September,Cuba,89 °F,73 °F,81 °F,"5.12""",83%,74 °F,10 mph,"29.95 ""Hg",5 mi
+Havana,October,Cuba,86 °F,71 °F,79 °F,"4.53""",82%,72 °F,12 mph,"29.95 ""Hg",5 mi
+Havana,November,Cuba,83 °F,66 °F,74 °F,"2.37""",80%,67 °F,13 mph,"30.02 ""Hg",5 mi
+Havana,December,Cuba,81 °F,63 °F,72 °F,"1.36""",80%,65 °F,13 mph,"30.07 ""Hg",5 mi
+Paris,January,France,45 °F,35 °F,40 °F,"1.84""",87%,37 °F,16 mph,"30.05 ""Hg",6 mi
+Paris,February,France,47 °F,35 °F,41 °F,"1.74""",78%,34 °F,17 mph,"30.05 ""Hg",6 mi
+Paris,March,France,54 °F,39 °F,46 °F,"1.67""",72%,37 °F,16 mph,"30.03 ""Hg",6 mi
+Paris,April,France,61 °F,42 °F,51 °F,"1.35""",65%,39 °F,15 mph,"29.99 ""Hg",8 mi
+Paris,May,France,66 °F,46 °F,56 °F,"2.79""",71%,47 °F,15 mph,"30.00 ""Hg",8 mi
+Paris,June,France,74 °F,53 °F,64 °F,"2.43""",70%,53 °F,14 mph,"30.02 ""Hg",8 mi
+Paris,July,France,79 °F,58 °F,68 °F,"1.57""",64%,55 °F,14 mph,"30.02 ""Hg",9 mi
+Paris,August,France,78 °F,56 °F,67 °F,"1.77""",66%,55 °F,13 mph,"30.02 ""Hg",9 mi
+Paris,September,France,71 °F,51 °F,61 °F,"1.81""",71%,52 °F,12 mph,"30.06 ""Hg",8 mi
+Paris,October,France,61 °F,47 °F,54 °F,"2.13""",82%,49 °F,14 mph,"30.02 ""Hg",7 mi
+Paris,November,France,51 °F,40 °F,46 °F,"2.10""",87%,42 °F,14 mph,"29.99 ""Hg",6 mi
+Paris,December,France,48 °F,37 °F,42 °F,"2.54""",88%,39 °F,16 mph,"30.08 ""Hg",6 mi
+Anadyr,January,Russia,-1 °F,-15 °F,-8 °F,"1.61""",81%,-12 °F,26 mph,"29.99 ""Hg",13 mi
+Anadyr,February,Russia,1 °F,-13 °F,-6 °F,"1.84""",81%,-10 °F,28 mph,"29.95 ""Hg",12 mi
+Anadyr,March,Russia,6 °F,-8 °F,-1 °F,"1.46""",81%,-5 °F,26 mph,"30.03 ""Hg",14 mi
+Anadyr,April,Russia,18 °F,4 °F,11 °F,"0.93""",82%,7 °F,22 mph,"30.00 ""Hg",15 mi
+Anadyr,May,Russia,36 °F,25 °F,31 °F,"0.47""",82%,26 °F,21 mph,"29.95 ""Hg",14 mi
+Anadyr,June,Russia,53 °F,39 °F,46 °F,"0.60""",75%,38 °F,23 mph,"29.86 ""Hg",15 mi
+Anadyr,July,Russia,61 °F,48 °F,54 °F,"1.45""",78%,47 °F,23 mph,"29.81 ""Hg",15 mi
+Anadyr,August,Russia,57 °F,45 °F,51 °F,"1.76""",80%,45 °F,22 mph,"29.82 ""Hg",14 mi
+Anadyr,September,Russia,47 °F,36 °F,42 °F,"1.30""",79%,36 °F,21 mph,"29.83 ""Hg",14 mi
+Anadyr,October,Russia,30 °F,21 °F,25 °F,"1.06""",85%,21 °F,24 mph,"29.85 ""Hg",13 mi
+Anadyr,November,Russia,17 °F,5 °F,11 °F,"1.31""",85%,7 °F,30 mph,"29.85 ""Hg",12 mi
+Anadyr,December,Russia,4 °F,-10 °F,-3 °F,"1.38""",82%,-7 °F,29 mph,"29.90 ""Hg",12 mi
+Helsinki,January,Finland,31 °F,21 °F,26 °F,"1.95""",89%,23 °F,15 mph,"29.83 ""Hg",6 mi
+Helsinki,February,Finland,30 °F,19 °F,25 °F,"1.54""",87%,21 °F,14 mph,"29.87 ""Hg",6 mi
+Helsinki,March,Finland,36 °F,24 °F,30 °F,"1.26""",80%,24 °F,14 mph,"29.87 ""Hg",7 mi
+Helsinki,April,Finland,47 °F,32 °F,40 °F,"1.22""",70%,30 °F,14 mph,"29.92 ""Hg",7 mi
+Helsinki,May,Finland,59 °F,41 °F,50 °F,"1.36""",64%,38 °F,14 mph,"29.95 ""Hg",8 mi
+Helsinki,June,Finland,67 °F,50 °F,58 °F,"1.95""",68%,48 °F,14 mph,"29.88 ""Hg",8 mi
+Helsinki,July,Finland,72 °F,56 °F,64 °F,"2.12""",71%,54 °F,13 mph,"29.87 ""Hg",8 mi
+Helsinki,August,Finland,69 °F,53 °F,61 °F,"3.02""",76%,53 °F,12 mph,"29.90 ""Hg",7 mi
+Helsinki,September,Finland,60 °F,46 °F,53 °F,"2.05""",82%,47 °F,13 mph,"29.94 ""Hg",7 mi
+Helsinki,October,Finland,48 °F,38 °F,43 °F,"2.74""",86%,39 °F,14 mph,"29.91 ""Hg",7 mi
+Helsinki,November,Finland,39 °F,31 °F,35 °F,"2.42""",89%,32 °F,14 mph,"29.89 ""Hg",6 mi
+Helsinki,December,Finland,34 °F,25 °F,30 °F,"2.38""",89%,27 °F,15 mph,"29.83 ""Hg",6 mi
+Perth,January,Australia,90 °F,64 °F,77 °F,"0.62""",49%,53 °F,23 mph,"29.88 ""Hg",11 mi
+Perth,February,Australia,90 °F,64 °F,77 °F,"0.68""",50%,54 °F,22 mph,"29.89 ""Hg",11 mi
+Perth,March,Australia,86 °F,62 °F,74 °F,"0.75""",53%,53 °F,21 mph,"29.98 ""Hg",11 mi
+Perth,April,Australia,79 °F,56 °F,68 °F,"1.18""",62%,51 °F,17 mph,"30.06 ""Hg",11 mi
+Perth,May,Australia,72 °F,51 °F,62 °F,"3.22""",69%,49 °F,15 mph,"30.10 ""Hg",10 mi
+Perth,June,Australia,67 °F,48 °F,58 °F,"4.68""",74%,47 °F,16 mph,"30.12 ""Hg",10 mi
+Perth,July,Australia,65 °F,47 °F,56 °F,"5.54""",76%,47 °F,16 mph,"30.12 ""Hg",9 mi
+Perth,August,Australia,66 °F,47 °F,57 °F,"4.75""",75%,47 °F,16 mph,"30.12 ""Hg",9 mi
+Perth,September,Australia,69 °F,48 °F,59 °F,"3.08""",71%,47 °F,17 mph,"30.07 ""Hg",10 mi
+Perth,October,Australia,74 °F,51 °F,63 °F,"1.40""",64%,48 °F,19 mph,"30.04 ""Hg",10 mi
+Perth,November,Australia,81 °F,56 °F,68 °F,"1.05""",57%,50 °F,21 mph,"29.96 ""Hg",10 mi
+Perth,December,Australia,86 °F,60 °F,73 °F,"0.34""",51%,51 °F,23 mph,"29.91 ""Hg",11 mi
+Anchorage,January,USA,23 °F,11 °F,17 °F,"0.63""",78%,12 °F,7 mph,"29.92 ""Hg",9 mi
+Anchorage,February,USA,28 °F,15 °F,21 °F,"0.68""",77%,15 °F,7 mph,"30.03 ""Hg",9 mi
+Anchorage,March,USA,34 °F,18 °F,26 °F,"0.54""",66%,16 °F,8 mph,"30.01 ""Hg",10 mi
+Anchorage,April,USA,46 °F,30 °F,38 °F,"0.39""",62%,26 °F,7 mph,"29.92 ""Hg",10 mi
+Anchorage,May,USA,58 °F,42 °F,50 °F,"0.66""",57%,35 °F,8 mph,"29.95 ""Hg",10 mi
+Anchorage,June,USA,65 °F,50 °F,58 °F,"0.95""",62%,44 °F,9 mph,"29.93 ""Hg",12 mi
+Anchorage,July,USA,68 °F,54 °F,61 °F,"1.74""",68%,50 °F,7 mph,"29.96 ""Hg",10 mi
+Anchorage,August,USA,65 °F,52 °F,59 °F,"2.87""",72%,49 °F,6 mph,"29.91 ""Hg",10 mi
+Anchorage,September,USA,57 °F,44 °F,50 °F,"3.02""",73%,42 °F,7 mph,"29.85 ""Hg",10 mi
+Anchorage,October,USA,43 °F,32 °F,38 °F,"1.75""",74%,30 °F,7 mph,"29.90 ""Hg",10 mi
+Anchorage,November,USA,29 °F,19 °F,24 °F,"0.97""",78%,18 °F,8 mph,"29.91 ""Hg",9 mi
+Anchorage,December,USA,25 °F,14 °F,19 °F,"0.95""",80%,14 °F,7 mph,"30.01 ""Hg",9 mi
+Hong Kong,January,Hong Kong,68 °F,58 °F,63 °F,"1.10""",67%,51 °F,18 mph,"30.13 ""Hg",5 mi
+Hong Kong,February,Hong Kong,69 °F,60 °F,65 °F,"1.21""",73%,55 °F,18 mph,"30.08 ""Hg",6 mi
+Hong Kong,March,Hong Kong,74 °F,64 °F,69 °F,"2.08""",76%,60 °F,19 mph,"30.00 ""Hg",6 mi
+Hong Kong,April,Hong Kong,80 °F,71 °F,76 °F,"3.12""",77%,67 °F,19 mph,"29.91 ""Hg",6 mi
+Hong Kong,May,Hong Kong,86 °F,77 °F,82 °F,"6.32""",76%,73 °F,18 mph,"29.80 ""Hg",7 mi
+Hong Kong,June,Hong Kong,89 °F,81 °F,85 °F,"8.56""",76%,76 °F,18 mph,"29.71 ""Hg",7 mi
+Hong Kong,July,Hong Kong,91 °F,81 °F,86 °F,"7.49""",75%,77 °F,18 mph,"29.70 ""Hg",7 mi
+Hong Kong,August,Hong Kong,91 °F,81 °F,86 °F,"8.95""",75%,76 °F,16 mph,"29.69 ""Hg",7 mi
+Hong Kong,September,Hong Kong,89 °F,80 °F,85 °F,"5.75""",72%,74 °F,17 mph,"29.79 ""Hg",7 mi
+Hong Kong,October,Hong Kong,85 °F,76 °F,80 °F,"1.51""",66%,67 °F,18 mph,"29.95 ""Hg",6 mi
+Hong Kong,November,Hong Kong,79 °F,69 °F,74 °F,"1.07""",65%,60 °F,18 mph,"30.04 ""Hg",6 mi
+Hong Kong,December,Hong Kong,71 °F,61 °F,66 °F,"1.04""",63%,52 °F,17 mph,"30.13 ""Hg",6 mi
+Philadelphia,January,USA,41 °F,27 °F,34 °F,"3.03""",63%,22 °F,16 mph,"30.10 ""Hg",9 mi
+Philadelphia,February,USA,44 °F,28 °F,36 °F,"2.90""",60%,23 °F,17 mph,"30.09 ""Hg",9 mi
+Philadelphia,March,USA,53 °F,35 °F,44 °F,"3.98""",58%,29 °F,17 mph,"30.08 ""Hg",9 mi
+Philadelphia,April,USA,64 °F,45 °F,55 °F,"3.48""",57%,39 °F,17 mph,"30.00 ""Hg",9 mi
+Philadelphia,May,USA,74 °F,55 °F,64 °F,"3.41""",62%,50 °F,14 mph,"30.01 ""Hg",9 mi
+Philadelphia,June,USA,83 °F,65 °F,74 °F,"4.04""",64%,61 °F,14 mph,"29.97 ""Hg",9 mi
+Philadelphia,July,USA,88 °F,70 °F,79 °F,"4.47""",64%,65 °F,13 mph,"29.97 ""Hg",9 mi
+Philadelphia,August,USA,86 °F,69 °F,77 °F,"4.38""",66%,64 °F,12 mph,"30.01 ""Hg",9 mi
+Philadelphia,September,USA,79 °F,62 °F,70 °F,"4.44""",67%,59 °F,13 mph,"30.06 ""Hg",9 mi
+Philadelphia,October,USA,67 °F,50 °F,59 °F,"3.56""",67%,47 °F,14 mph,"30.08 ""Hg",9 mi
+Philadelphia,November,USA,56 °F,39 °F,48 °F,"2.88""",64%,35 °F,15 mph,"30.13 ""Hg",9 mi
+Philadelphia,December,USA,46 °F,32 °F,39 °F,"3.85""",65%,28 °F,15 mph,"30.12 ""Hg",9 mi
+Ankara,January,Turkey,41 °F,26 °F,33 °F,"1.39""",80%,27 °F,7 mph,"30.13 ""Hg",5 mi
+Ankara,February,Turkey,46 °F,28 °F,37 °F,"1.26""",73%,28 °F,9 mph,"30.08 ""Hg",6 mi
+Ankara,March,Turkey,54 °F,33 °F,43 °F,"1.76""",64%,31 °F,10 mph,"29.99 ""Hg",7 mi
+Ankara,April,Turkey,63 °F,41 °F,52 °F,"1.74""",59%,37 °F,10 mph,"29.93 ""Hg",7 mi
+Ankara,May,Turkey,73 °F,49 °F,61 °F,"2.29""",57%,44 °F,10 mph,"29.91 ""Hg",7 mi
+Ankara,June,Turkey,81 °F,56 °F,68 °F,"2.19""",53%,49 °F,11 mph,"29.88 ""Hg",7 mi
+Ankara,July,Turkey,88 °F,62 °F,75 °F,"0.71""",43%,50 °F,11 mph,"29.82 ""Hg",7 mi
+Ankara,August,Turkey,88 °F,62 °F,75 °F,"0.65""",43%,50 °F,11 mph,"29.86 ""Hg",7 mi
+Ankara,September,Turkey,80 °F,53 °F,66 °F,"0.90""",49%,45 °F,9 mph,"29.95 ""Hg",7 mi
+Ankara,October,Turkey,69 °F,44 °F,56 °F,"0.96""",62%,41 °F,7 mph,"30.08 ""Hg",7 mi
+Ankara,November,Turkey,56 °F,33 °F,45 °F,"1.11""",73%,35 °F,6 mph,"30.14 ""Hg",6 mi
+Ankara,December,Turkey,44 °F,29 °F,37 °F,"1.41""",80%,31 °F,7 mph,"30.16 ""Hg",6 mi
+Honolulu,January,USA,81 °F,67 °F,74 °F,"1.95""",71%,63 °F,14 mph,"30.01 ""Hg",11 mi
+Honolulu,February,USA,81 °F,67 °F,74 °F,"2.05""",68%,62 °F,15 mph,"30.03 ""Hg",10 mi
+Honolulu,March,USA,81 °F,68 °F,75 °F,"2.35""",67%,63 °F,16 mph,"30.05 ""Hg",10 mi
+Honolulu,April,USA,83 °F,70 °F,77 °F,"0.83""",65%,64 °F,19 mph,"30.06 ""Hg",11 mi
+Honolulu,May,USA,85 °F,72 °F,78 °F,"0.89""",64%,65 °F,18 mph,"30.04 ""Hg",11 mi
+Honolulu,June,USA,87 °F,74 °F,80 °F,"0.57""",62%,66 °F,21 mph,"30.03 ""Hg",11 mi
+Honolulu,July,USA,88 °F,75 °F,82 °F,"0.59""",62%,67 °F,22 mph,"30.02 ""Hg",11 mi
+Honolulu,August,USA,89 °F,76 °F,82 °F,"0.94""",62%,67 °F,21 mph,"30.00 ""Hg",11 mi
+Honolulu,September,USA,88 °F,75 °F,82 °F,"0.89""",64%,68 °F,18 mph,"29.98 ""Hg",11 mi
+Honolulu,October,USA,87 °F,74 °F,80 °F,"1.46""",66%,68 °F,17 mph,"29.98 ""Hg",11 mi
+Honolulu,November,USA,84 °F,72 °F,78 °F,"2.26""",68%,66 °F,16 mph,"30.00 ""Hg",10 mi
+Honolulu,December,USA,82 °F,69 °F,76 °F,"2.55""",70%,65 °F,15 mph,"30.02 ""Hg",10 mi
+Phoenix,January,USA,68 °F,46 °F,57 °F,"0.88""",42%,32 °F,6 mph,"30.05 ""Hg",11 mi
+Phoenix,February,USA,71 °F,49 °F,60 °F,"0.87""",39%,33 °F,7 mph,"29.99 ""Hg",11 mi
+Phoenix,March,USA,79 °F,54 °F,66 °F,"0.78""",32%,33 °F,7 mph,"29.92 ""Hg",10 mi
+Phoenix,April,USA,86 °F,61 °F,73 °F,"0.23""",22%,31 °F,8 mph,"29.84 ""Hg",10 mi
+Phoenix,May,USA,95 °F,69 °F,82 °F,"0.13""",18%,34 °F,8 mph,"29.78 ""Hg",10 mi
+Phoenix,June,USA,105 °F,79 °F,92 °F,"0.03""",15%,37 °F,8 mph,"29.73 ""Hg",10 mi
+Phoenix,July,USA,107 °F,84 °F,96 °F,"0.98""",27%,55 °F,8 mph,"29.78 ""Hg",10 mi
+Phoenix,August,USA,105 °F,83 °F,94 °F,"1.00""",32%,59 °F,7 mph,"29.78 ""Hg",10 mi
+Phoenix,September,USA,101 °F,78 °F,89 °F,"0.59""",29%,52 °F,7 mph,"29.78 ""Hg",10 mi
+Phoenix,October,USA,90 °F,65 °F,77 °F,"0.53""",28%,41 °F,6 mph,"29.86 ""Hg",10 mi
+Phoenix,November,USA,77 °F,54 °F,65 °F,"0.54""",33%,34 °F,6 mph,"29.98 ""Hg",10 mi
+Phoenix,December,USA,67 °F,45 °F,56 °F,"0.74""",43%,32 °F,6 mph,"30.04 ""Hg",10 mi
+Antananarivo,January,Madagascar,82 °F,63 °F,72 °F,"13.33""",82%,64 °F,11 mph,"29.99 ""Hg",8 mi
+Antananarivo,February,Madagascar,81 °F,63 °F,72 °F,"11.27""",82%,64 °F,11 mph,"29.98 ""Hg",9 mi
+Antananarivo,March,Madagascar,81 °F,63 °F,72 °F,"8.36""",81%,63 °F,11 mph,"30.02 ""Hg",9 mi
+Antananarivo,April,Madagascar,80 °F,60 °F,70 °F,"2.85""",79%,61 °F,10 mph,"30.08 ""Hg",10 mi
+Antananarivo,May,Madagascar,76 °F,56 °F,66 °F,"1.36""",80%,57 °F,9 mph,"30.14 ""Hg",9 mi
+Antananarivo,June,Madagascar,72 °F,51 °F,61 °F,"0.32""",80%,53 °F,10 mph,"30.20 ""Hg",9 mi
+Antananarivo,July,Madagascar,70 °F,50 °F,60 °F,"0.43""",79%,51 °F,12 mph,"30.23 ""Hg",9 mi
+Antananarivo,August,Madagascar,73 °F,50 °F,61 °F,"0.30""",76%,51 °F,12 mph,"30.22 ""Hg",9 mi
+Antananarivo,September,Madagascar,77 °F,52 °F,65 °F,"0.64""",71%,52 °F,13 mph,"30.19 ""Hg",10 mi
+Antananarivo,October,Madagascar,81 °F,56 °F,69 °F,"2.19""",70%,56 °F,13 mph,"30.13 ""Hg",9 mi
+Antananarivo,November,Madagascar,83 °F,60 °F,71 °F,"6.24""",73%,59 °F,11 mph,"30.07 ""Hg",8 mi
+Antananarivo,December,Madagascar,83 °F,62 °F,72 °F,"11.06""",78%,63 °F,11 mph,"30.03 ""Hg",8 mi
+Houston,January,USA,64 °F,46 °F,55 °F,"3.85""",71%,45 °F,15 mph,"30.15 ""Hg",9 mi
+Houston,February,USA,68 °F,50 °F,59 °F,"2.87""",72%,49 °F,15 mph,"30.10 ""Hg",9 mi
+Houston,March,USA,74 °F,56 °F,65 °F,"3.30""",71%,55 °F,15 mph,"30.05 ""Hg",9 mi
+Houston,April,USA,80 °F,62 °F,71 °F,"3.81""",71%,60 °F,15 mph,"29.98 ""Hg",10 mi
+Houston,May,USA,86 °F,69 °F,78 °F,"5.50""",72%,67 °F,14 mph,"29.96 ""Hg",10 mi
+Houston,June,USA,91 °F,75 °F,83 °F,"5.94""",72%,73 °F,11 mph,"29.94 ""Hg",10 mi
+Houston,July,USA,93 °F,76 °F,85 °F,"4.78""",71%,74 °F,10 mph,"30.00 ""Hg",10 mi
+Houston,August,USA,94 °F,77 °F,85 °F,"5.31""",70%,74 °F,9 mph,"29.98 ""Hg",10 mi
+Houston,September,USA,90 °F,73 °F,81 °F,"5.48""",70%,70 °F,10 mph,"29.97 ""Hg",10 mi
+Houston,October,USA,83 °F,64 °F,73 °F,"5.80""",69%,62 °F,12 mph,"30.03 ""Hg",10 mi
+Houston,November,USA,73 °F,54 °F,64 °F,"3.76""",72%,54 °F,13 mph,"30.12 ""Hg",10 mi
+Houston,December,USA,66 °F,48 °F,57 °F,"4.19""",73%,48 °F,14 mph,"30.13 ""Hg",9 mi
+Prague,January,Czech Republic,35 °F,26 °F,30 °F,"2.10""",86%,27 °F,18 mph,"30.10 ""Hg",8 mi
+Prague,February,Czech Republic,39 °F,27 °F,33 °F,"1.40""",81%,28 °F,18 mph,"30.08 ""Hg",9 mi
+Prague,March,Czech Republic,47 °F,32 °F,39 °F,"1.22""",76%,31 °F,18 mph,"30.04 ""Hg",10 mi
+Prague,April,Czech Republic,58 °F,38 °F,48 °F,"1.11""",67%,37 °F,16 mph,"29.97 ""Hg",12 mi
+Prague,May,Czech Republic,66 °F,46 °F,56 °F,"2.42""",70%,46 °F,15 mph,"29.99 ""Hg",13 mi
+Prague,June,Czech Republic,72 °F,52 °F,62 °F,"2.65""",71%,52 °F,14 mph,"30.00 ""Hg",14 mi
+Prague,July,Czech Republic,76 °F,55 °F,66 °F,"2.91""",69%,54 °F,15 mph,"29.98 ""Hg",14 mi
+Prague,August,Czech Republic,76 °F,55 °F,65 °F,"2.56""",69%,54 °F,14 mph,"30.00 ""Hg",14 mi
+Prague,September,Czech Republic,66 °F,48 °F,57 °F,"1.59""",76%,49 °F,14 mph,"30.04 ""Hg",12 mi
+Prague,October,Czech Republic,55 °F,41 °F,48 °F,"1.34""",83%,42 °F,15 mph,"30.07 ""Hg",9 mi
+Prague,November,Czech Republic,44 °F,34 °F,39 °F,"1.13""",88%,35 °F,15 mph,"30.04 ""Hg",7 mi
+Prague,December,Czech Republic,37 °F,28 °F,33 °F,"1.21""",87%,30 °F,17 mph,"30.09 ""Hg",8 mi
+Asuncion,January,Paraguay,95 °F,73 °F,84 °F,"5.28""",69%,70 °F,13 mph,"29.79 ""Hg",8 mi
+Asuncion,February,Paraguay,93 °F,72 °F,83 °F,"5.88""",71%,70 °F,13 mph,"29.82 ""Hg",8 mi
+Asuncion,March,Paraguay,91 °F,70 °F,81 °F,"5.07""",72%,68 °F,12 mph,"29.86 ""Hg",8 mi
+Asuncion,April,Paraguay,87 °F,66 °F,76 °F,"5.68""",75%,65 °F,12 mph,"29.92 ""Hg",8 mi
+Asuncion,May,Paraguay,79 °F,59 °F,69 °F,"4.92""",78%,59 °F,13 mph,"30.00 ""Hg",8 mi
+Asuncion,June,Paraguay,77 °F,57 °F,67 °F,"2.87""",77%,57 °F,14 mph,"30.01 ""Hg",7 mi
+Asuncion,July,Paraguay,77 °F,54 °F,66 °F,"1.98""",70%,53 °F,15 mph,"30.04 ""Hg",7 mi
+Asuncion,August,Paraguay,82 °F,57 °F,70 °F,"1.49""",63%,54 °F,17 mph,"30.00 ""Hg",7 mi
+Asuncion,September,Paraguay,85 °F,61 °F,73 °F,"2.52""",62%,56 °F,17 mph,"29.94 ""Hg",7 mi
+Asuncion,October,Paraguay,89 °F,66 °F,78 °F,"5.52""",68%,63 °F,17 mph,"29.86 ""Hg",8 mi
+Asuncion,November,Paraguay,90 °F,68 °F,79 °F,"6.97""",67%,65 °F,15 mph,"29.82 ""Hg",8 mi
+Asuncion,December,Paraguay,93 °F,72 °F,82 °F,"6.00""",69%,69 °F,14 mph,"29.79 ""Hg",8 mi
+Indianapolis,January,USA,36 °F,21 °F,29 °F,"3.14""",77%,22 °F,18 mph,"30.13 ""Hg",8 mi
+Indianapolis,February,USA,41 °F,24 °F,33 °F,"2.49""",72%,24 °F,18 mph,"30.11 ""Hg",8 mi
+Indianapolis,March,USA,52 °F,33 °F,42 °F,"3.60""",66%,31 °F,18 mph,"30.08 ""Hg",9 mi
+Indianapolis,April,USA,64 °F,43 °F,53 °F,"4.34""",63%,40 °F,18 mph,"29.98 ""Hg",9 mi
+Indianapolis,May,USA,74 °F,54 °F,64 °F,"4.73""",67%,52 °F,15 mph,"29.99 ""Hg",9 mi
+Indianapolis,June,USA,82 °F,63 °F,73 °F,"5.19""",68%,61 °F,13 mph,"29.96 ""Hg",9 mi
+Indianapolis,July,USA,85 °F,67 °F,76 °F,"4.59""",70%,65 °F,12 mph,"29.99 ""Hg",9 mi
+Indianapolis,August,USA,85 °F,65 °F,75 °F,"3.15""",69%,64 °F,11 mph,"30.01 ""Hg",9 mi
+Indianapolis,September,USA,78 °F,58 °F,68 °F,"3.30""",67%,56 °F,12 mph,"30.04 ""Hg",9 mi
+Indianapolis,October,USA,66 °F,46 °F,56 °F,"3.31""",68%,45 °F,15 mph,"30.07 ""Hg",10 mi
+Indianapolis,November,USA,52 °F,35 °F,43 °F,"3.39""",71%,34 °F,17 mph,"30.12 ""Hg",9 mi
+Indianapolis,December,USA,41 °F,26 °F,34 °F,"3.03""",77%,27 °F,17 mph,"30.12 ""Hg",8 mi
+Reykjavik,January,Iceland,38 °F,29 °F,33 °F,"3.89""",79%,27 °F,24 mph,"29.47 ""Hg",12 mi
+Reykjavik,February,Iceland,38 °F,29 °F,33 °F,"3.86""",77%,26 °F,25 mph,"29.50 ""Hg",11 mi
+Reykjavik,March,Iceland,39 °F,30 °F,35 °F,"3.81""",76%,27 °F,24 mph,"29.63 ""Hg",12 mi
+Reykjavik,April,Iceland,44 °F,34 °F,39 °F,"2.85""",73%,31 °F,23 mph,"29.82 ""Hg",12 mi
+Reykjavik,May,Iceland,49 °F,39 °F,44 °F,"2.37""",72%,35 °F,20 mph,"29.92 ""Hg",13 mi
+Reykjavik,June,Iceland,55 °F,45 °F,50 °F,"2.05""",76%,42 °F,18 mph,"29.90 ""Hg",13 mi
+Reykjavik,July,Iceland,58 °F,49 °F,53 °F,"2.55""",79%,46 °F,16 mph,"29.81 ""Hg",13 mi
+Reykjavik,August,Iceland,57 °F,48 °F,52 °F,"3.21""",80%,46 °F,17 mph,"29.77 ""Hg",13 mi
+Reykjavik,September,Iceland,52 °F,43 °F,48 °F,"3.99""",79%,41 °F,21 mph,"29.68 ""Hg",12 mi
+Reykjavik,October,Iceland,45 °F,37 °F,41 °F,"3.38""",77%,34 °F,21 mph,"29.65 ""Hg",13 mi
+Reykjavik,November,Iceland,40 °F,32 °F,36 °F,"3.80""",78%,30 °F,23 mph,"29.57 ""Hg",13 mi
+Reykjavik,December,Iceland,38 °F,29 °F,34 °F,"4.29""",79%,27 °F,24 mph,"29.51 ""Hg",12 mi
+Athens,January,Greece,57 °F,44 °F,50 °F,"2.04""",68%,40 °F,8 mph,"30.03 ""Hg",7 mi
+Athens,February,Greece,59 °F,46 °F,53 °F,"1.67""",69%,42 °F,9 mph,"30.04 ""Hg",7 mi
+Athens,March,Greece,64 °F,49 °F,56 °F,"1.64""",63%,43 °F,9 mph,"29.98 ""Hg",7 mi
+Athens,April,Greece,71 °F,55 °F,63 °F,"0.99""",56%,47 °F,8 mph,"29.96 ""Hg",7 mi
+Athens,May,Greece,79 °F,63 °F,71 °F,"0.73""",54%,53 °F,8 mph,"29.91 ""Hg",7 mi
+Athens,June,Greece,87 °F,70 °F,79 °F,"0.72""",49%,57 °F,10 mph,"29.89 ""Hg",7 mi
+Athens,July,Greece,93 °F,76 °F,84 °F,"0.26""",41%,57 °F,11 mph,"29.85 ""Hg",7 mi
+Athens,August,Greece,93 °F,76 °F,85 °F,"0.21""",39%,56 °F,12 mph,"29.87 ""Hg",7 mi
+Athens,September,Greece,85 °F,70 °F,77 °F,"0.85""",51%,57 °F,10 mph,"29.95 ""Hg",7 mi
+Athens,October,Greece,76 °F,62 °F,69 °F,"1.12""",61%,54 °F,8 mph,"30.04 ""Hg",7 mi
+Athens,November,Greece,68 °F,55 °F,62 °F,"2.66""",68%,50 °F,8 mph,"30.06 ""Hg",7 mi
+Athens,December,Greece,59 °F,47 °F,53 °F,"2.72""",69%,43 °F,8 mph,"30.10 ""Hg",7 mi
+Islamabad,January,Pakistan,63 °F,40 °F,51 °F,"3.81""",69%,39 °F,7 mph,"30.09 ""Hg",2 mi
+Islamabad,February,Pakistan,68 °F,45 °F,56 °F,"4.31""",65%,43 °F,10 mph,"30.02 ""Hg",3 mi
+Islamabad,March,Pakistan,76 °F,53 °F,65 °F,"8.24""",59%,48 °F,12 mph,"29.93 ""Hg",4 mi
+Islamabad,April,Pakistan,87 °F,62 °F,74 °F,"3.81""",50%,53 °F,15 mph,"29.81 ""Hg",4 mi
+Islamabad,May,Pakistan,97 °F,71 °F,84 °F,"3.85""",41%,56 °F,16 mph,"29.64 ""Hg",4 mi
+Islamabad,June,Pakistan,100 °F,76 °F,88 °F,"4.47""",46%,63 °F,17 mph,"29.50 ""Hg",4 mi
+Islamabad,July,Pakistan,95 °F,77 °F,86 °F,"12.58""",67%,73 °F,15 mph,"29.49 ""Hg",4 mi
+Islamabad,August,Pakistan,92 °F,76 °F,84 °F,"10.37""",73%,74 °F,13 mph,"29.57 ""Hg",4 mi
+Islamabad,September,Pakistan,92 °F,71 °F,82 °F,"4.24""",67%,69 °F,10 mph,"29.70 ""Hg",4 mi
+Islamabad,October,Pakistan,87 °F,61 °F,74 °F,"2.99""",60%,57 °F,8 mph,"29.89 ""Hg",3 mi
+Islamabad,November,Pakistan,77 °F,49 °F,63 °F,"2.12""",63%,47 °F,6 mph,"30.02 ""Hg",3 mi
+Islamabad,December,Pakistan,68 °F,41 °F,54 °F,"1.88""",67%,41 °F,5 mph,"30.09 ""Hg",2 mi
+Rio de Janeiro,January,Brazil,87 °F,76 °F,82 °F,"3.94""",77%,73 °F,13 mph,"29.87 ""Hg",6 mi
+Rio de Janeiro,February,Brazil,88 °F,76 °F,82 °F,"3.06""",77%,73 °F,13 mph,"29.89 ""Hg",6 mi
+Rio de Janeiro,March,Brazil,86 °F,75 °F,80 °F,"4.07""",79%,73 °F,13 mph,"29.92 ""Hg",6 mi
+Rio de Janeiro,April,Brazil,83 °F,73 °F,78 °F,"2.56""",79%,70 °F,12 mph,"29.98 ""Hg",6 mi
+Rio de Janeiro,May,Brazil,79 °F,69 °F,74 °F,"1.92""",79%,66 °F,11 mph,"30.03 ""Hg",6 mi
+Rio de Janeiro,June,Brazil,78 °F,67 °F,73 °F,"1.12""",79%,65 °F,11 mph,"30.09 ""Hg",6 mi
+Rio de Janeiro,July,Brazil,77 °F,66 °F,72 °F,"0.95""",78%,64 °F,12 mph,"30.12 ""Hg",6 mi
+Rio de Janeiro,August,Brazil,78 °F,67 °F,72 °F,"0.87""",77%,64 °F,12 mph,"30.11 ""Hg",6 mi
+Rio de Janeiro,September,Brazil,79 °F,68 °F,74 °F,"1.55""",78%,65 °F,14 mph,"30.04 ""Hg",6 mi
+Rio de Janeiro,October,Brazil,80 °F,70 °F,75 °F,"2.21""",78%,67 °F,14 mph,"29.97 ""Hg",6 mi
+Rio de Janeiro,November,Brazil,82 °F,71 °F,76 °F,"4.25""",80%,69 °F,14 mph,"29.91 ""Hg",6 mi
+Rio de Janeiro,December,Brazil,85 °F,74 °F,79 °F,"4.92""",79%,72 °F,14 mph,"29.87 ""Hg",6 mi
+Atlanta,January,USA,54 °F,33 °F,44 °F,"4.21""",66%,32 °F,9 mph,"30.15 ""Hg",9 mi
+Atlanta,February,USA,58 °F,36 °F,47 °F,"4.59""",65%,35 °F,10 mph,"30.11 ""Hg",9 mi
+Atlanta,March,USA,66 °F,43 °F,54 °F,"4.42""",62%,40 °F,10 mph,"30.08 ""Hg",9 mi
+Atlanta,April,USA,74 °F,49 °F,62 °F,"3.67""",63%,48 °F,9 mph,"30.02 ""Hg",9 mi
+Atlanta,May,USA,81 °F,59 °F,70 °F,"3.62""",67%,58 °F,7 mph,"30.02 ""Hg",9 mi
+Atlanta,June,USA,87 °F,67 °F,77 °F,"3.84""",70%,66 °F,6 mph,"30.00 ""Hg",9 mi
+Atlanta,July,USA,90 °F,70 °F,80 °F,"4.82""",70%,69 °F,6 mph,"30.02 ""Hg",8 mi
+Atlanta,August,USA,89 °F,70 °F,79 °F,"3.97""",71%,68 °F,5 mph,"30.01 ""Hg",8 mi
+Atlanta,September,USA,84 °F,63 °F,74 °F,"3.52""",71%,63 °F,6 mph,"30.03 ""Hg",9 mi
+Atlanta,October,USA,75 °F,52 °F,63 °F,"3.35""",71%,53 °F,7 mph,"30.07 ""Hg",9 mi
+Atlanta,November,USA,64 °F,40 °F,52 °F,"3.80""",67%,41 °F,7 mph,"30.15 ""Hg",9 mi
+Atlanta,December,USA,56 °F,36 °F,46 °F,"4.32""",69%,36 °F,8 mph,"30.15 ""Hg",9 mi
+Istanbul,January,Turkey,48 °F,39 °F,44 °F,"2.87""",78%,37 °F,19 mph,"30.12 ""Hg",6 mi
+Istanbul,February,Turkey,50 °F,39 °F,44 °F,"2.99""",77%,37 °F,19 mph,"30.09 ""Hg",6 mi
+Istanbul,March,Turkey,54 °F,42 °F,48 °F,"2.60""",73%,39 °F,18 mph,"30.03 ""Hg",6 mi
+Istanbul,April,Turkey,62 °F,48 °F,55 °F,"1.75""",69%,44 °F,16 mph,"29.97 ""Hg",6 mi
+Istanbul,May,Turkey,72 °F,57 °F,64 °F,"1.29""",69%,53 °F,16 mph,"29.95 ""Hg",6 mi
+Istanbul,June,Turkey,81 °F,66 °F,73 °F,"1.24""",65%,60 °F,17 mph,"29.93 ""Hg",6 mi
+Istanbul,July,Turkey,86 °F,71 °F,78 °F,"0.83""",63%,63 °F,20 mph,"29.88 ""Hg",6 mi
+Istanbul,August,Turkey,86 °F,72 °F,79 °F,"0.82""",65%,65 °F,20 mph,"29.91 ""Hg",6 mi
+Istanbul,September,Turkey,78 °F,65 °F,71 °F,"1.58""",67%,59 °F,18 mph,"29.98 ""Hg",6 mi
+Istanbul,October,Turkey,69 °F,57 °F,63 °F,"2.24""",74%,54 °F,17 mph,"30.08 ""Hg",6 mi
+Istanbul,November,Turkey,60 °F,49 °F,54 °F,"2.42""",76%,47 °F,17 mph,"30.12 ""Hg",6 mi
+Istanbul,December,Turkey,52 °F,42 °F,47 °F,"3.32""",77%,40 °F,20 mph,"30.13 ""Hg",6 mi
+Riyadh,January,Saudi Arabia,69 °F,49 °F,59 °F,"3.97""",44%,35 °F,12 mph,"30.12 ""Hg",6 mi
+Riyadh,February,Saudi Arabia,75 °F,53 °F,64 °F,"6.29""",34%,33 °F,14 mph,"30.05 ""Hg",6 mi
+Riyadh,March,Saudi Arabia,83 °F,60 °F,71 °F,"5.73""",29%,35 °F,15 mph,"29.96 ""Hg",5 mi
+Riyadh,April,Saudi Arabia,93 °F,70 °F,81 °F,"8.68""",25%,39 °F,15 mph,"29.86 ""Hg",5 mi
+Riyadh,May,Saudi Arabia,103 °F,80 °F,91 °F,"5.59""",16%,37 °F,14 mph,"29.75 ""Hg",5 mi
+Riyadh,June,Saudi Arabia,109 °F,84 °F,96 °F,"1.10""",10%,31 °F,15 mph,"29.61 ""Hg",6 mi
+Riyadh,July,Saudi Arabia,111 °F,86 °F,98 °F,"1.20""",10%,33 °F,15 mph,"29.51 ""Hg",6 mi
+Riyadh,August,Saudi Arabia,110 °F,85 °F,98 °F,"1.29""",12%,36 °F,13 mph,"29.56 ""Hg",6 mi
+Riyadh,September,Saudi Arabia,105 °F,80 °F,92 °F,"0.67""",14%,35 °F,11 mph,"29.72 ""Hg",6 mi
+Riyadh,October,Saudi Arabia,95 °F,70 °F,83 °F,"0.12""",20%,36 °F,10 mph,"29.91 ""Hg",6 mi
+Riyadh,November,Saudi Arabia,81 °F,60 °F,71 °F,"3.60""",38%,41 °F,11 mph,"30.04 ""Hg",6 mi
+Riyadh,December,Saudi Arabia,72 °F,52 °F,62 °F,"4.34""",45%,38 °F,11 mph,"30.13 ""Hg",6 mi
+Auckland,January,New Zealand,75 °F,61 °F,68 °F,"2.08""",75%,59 °F,20 mph,"29.98 ""Hg",13 mi
+Auckland,February,New Zealand,76 °F,62 °F,69 °F,"2.35""",75%,60 °F,18 mph,"30.00 ""Hg",13 mi
+Auckland,March,New Zealand,73 °F,59 °F,66 °F,"2.69""",77%,58 °F,18 mph,"30.04 ""Hg",13 mi
+Auckland,April,New Zealand,69 °F,55 °F,62 °F,"3.02""",80%,55 °F,16 mph,"30.06 ""Hg",12 mi
+Auckland,May,New Zealand,64 °F,51 °F,58 °F,"4.26""",84%,52 °F,17 mph,"30.01 ""Hg",11 mi
+Auckland,June,New Zealand,60 °F,48 °F,54 °F,"4.11""",85%,49 °F,17 mph,"30.00 ""Hg",11 mi
+Auckland,July,New Zealand,58 °F,46 °F,52 °F,"4.50""",85%,47 °F,17 mph,"29.99 ""Hg",11 mi
+Auckland,August,New Zealand,59 °F,47 °F,53 °F,"3.91""",83%,48 °F,19 mph,"29.97 ""Hg",11 mi
+Auckland,September,New Zealand,62 °F,49 °F,55 °F,"3.44""",81%,49 °F,20 mph,"30.00 ""Hg",12 mi
+Auckland,October,New Zealand,64 °F,52 °F,58 °F,"3.23""",79%,51 °F,23 mph,"30.00 ""Hg",11 mi
+Auckland,November,New Zealand,67 °F,55 °F,61 °F,"2.98""",77%,53 °F,22 mph,"29.97 ""Hg",11 mi
+Auckland,December,New Zealand,71 °F,59 °F,65 °F,"2.90""",76%,57 °F,21 mph,"29.96 ""Hg",12 mi
+Jakarta,January,Indonesia,87 °F,77 °F,82 °F,"8.29""",80%,75 °F,7 mph,"29.82 ""Hg",4 mi
+Jakarta,February,Indonesia,87 °F,77 °F,82 °F,"8.23""",81%,75 °F,6 mph,"29.83 ""Hg",4 mi
+Jakarta,March,Indonesia,89 °F,78 °F,83 °F,"6.20""",77%,75 °F,6 mph,"29.83 ""Hg",4 mi
+Jakarta,April,Indonesia,91 °F,78 °F,85 °F,"6.43""",76%,75 °F,6 mph,"29.82 ""Hg",4 mi
+Jakarta,May,Indonesia,92 °F,79 °F,85 °F,"5.82""",74%,76 °F,5 mph,"29.82 ""Hg",4 mi
+Jakarta,June,Indonesia,91 °F,78 °F,85 °F,"4.05""",73%,75 °F,5 mph,"29.83 ""Hg",4 mi
+Jakarta,July,Indonesia,90 °F,77 °F,84 °F,"5.06""",71%,73 °F,5 mph,"29.84 ""Hg",4 mi
+Jakarta,August,Indonesia,91 °F,78 °F,84 °F,"4.10""",69%,73 °F,6 mph,"29.85 ""Hg",4 mi
+Jakarta,September,Indonesia,91 °F,78 °F,85 °F,"3.77""",68%,73 °F,6 mph,"29.85 ""Hg",4 mi
+Jakarta,October,Indonesia,92 °F,79 °F,85 °F,"2.88""",70%,74 °F,6 mph,"29.83 ""Hg",4 mi
+Jakarta,November,Indonesia,91 °F,78 °F,85 °F,"4.20""",74%,75 °F,6 mph,"29.81 ""Hg",4 mi
+Jakarta,December,Indonesia,89 °F,78 °F,84 °F,"4.67""",76%,74 °F,7 mph,"29.81 ""Hg",4 mi
+Rome,January,Italy,55 °F,37 °F,46 °F,"1.90""",74%,39 °F,8 mph,"30.06 ""Hg",5 mi
+Rome,February,Italy,58 °F,38 °F,48 °F,"1.67""",67%,38 °F,9 mph,"30.03 ""Hg",5 mi
+Rome,March,Italy,62 °F,43 °F,53 °F,"1.63""",65%,42 °F,11 mph,"29.99 ""Hg",6 mi
+Rome,April,Italy,67 °F,48 °F,58 °F,"2.24""",67%,48 °F,10 mph,"29.93 ""Hg",6 mi
+Rome,May,Italy,76 °F,56 °F,66 °F,"1.88""",64%,55 °F,10 mph,"29.96 ""Hg",6 mi
+Rome,June,Italy,84 °F,63 °F,73 °F,"1.14""",58%,59 °F,10 mph,"29.97 ""Hg",6 mi
+Rome,July,Italy,89 °F,67 °F,78 °F,"1.01""",55%,62 °F,11 mph,"29.95 ""Hg",7 mi
+Rome,August,Italy,90 °F,67 °F,79 °F,"1.12""",57%,64 °F,10 mph,"29.95 ""Hg",6 mi
+Rome,September,Italy,81 °F,60 °F,71 °F,"2.24""",64%,59 °F,9 mph,"29.98 ""Hg",6 mi
+Rome,October,Italy,73 °F,53 °F,63 °F,"2.94""",72%,55 °F,8 mph,"30.02 ""Hg",6 mi
+Rome,November,Italy,64 °F,47 °F,55 °F,"3.28""",76%,48 °F,8 mph,"30.00 ""Hg",6 mi
+Rome,December,Italy,56 °F,40 °F,48 °F,"2.77""",77%,41 °F,8 mph,"30.05 ""Hg",5 mi
+Baghdad,January,Iraq,51 °F,32 °F,42 °F,"3.10""",64%,28 °F,7 mph,"30.15 ""Hg",6 mi
+Baghdad,February,Iraq,54 °F,35 °F,45 °F,"3.04""",59%,29 °F,8 mph,"30.10 ""Hg",6 mi
+Baghdad,March,Iraq,61 °F,40 °F,50 °F,"2.98""",55%,33 °F,8 mph,"30.00 ""Hg",6 mi
+Baghdad,April,Iraq,70 °F,48 °F,59 °F,"1.73""",47%,37 °F,7 mph,"29.91 ""Hg",6 mi
+Baghdad,May,Iraq,82 °F,59 °F,70 °F,"1.14""",34%,38 °F,7 mph,"29.79 ""Hg",6 mi
+Baghdad,June,Iraq,93 °F,67 °F,80 °F,"0.12""",20%,34 °F,8 mph,"29.60 ""Hg",6 mi
+Baghdad,July,Iraq,99 °F,73 °F,86 °F,"0.14""",18%,36 °F,8 mph,"29.47 ""Hg",6 mi
+Baghdad,August,Iraq,98 °F,72 °F,85 °F,"0.11""",19%,36 °F,8 mph,"29.54 ""Hg",6 mi
+Baghdad,September,Iraq,91 °F,65 °F,78 °F,"0.06""",21%,33 °F,7 mph,"29.73 ""Hg",6 mi
+Baghdad,October,Iraq,79 °F,55 °F,67 °F,"0.57""",34%,33 °F,7 mph,"29.94 ""Hg",6 mi
+Baghdad,November,Iraq,63 °F,44 °F,53 °F,"2.34""",58%,35 °F,6 mph,"30.08 ""Hg",6 mi
+Baghdad,December,Iraq,55 °F,36 °F,46 °F,"2.18""",64%,31 °F,6 mph,"30.17 ""Hg",6 mi
+Jerusalem,January,Israel,65 °F,49 °F,57 °F,"5.37""",71%,45 °F,13 mph,"30.07 ""Hg",6 mi
+Jerusalem,February,Israel,66 °F,49 °F,58 °F,"3.81""",70%,46 °F,13 mph,"30.04 ""Hg",6 mi
+Jerusalem,March,Israel,70 °F,52 °F,61 °F,"2.03""",67%,48 °F,14 mph,"29.99 ""Hg",6 mi
+Jerusalem,April,Israel,76 °F,57 °F,67 °F,"1.06""",63%,51 °F,13 mph,"29.93 ""Hg",6 mi
+Jerusalem,May,Israel,82 °F,63 °F,72 °F,"0.92""",61%,57 °F,14 mph,"29.89 ""Hg",6 mi
+Jerusalem,June,Israel,86 °F,70 °F,78 °F,"0.62""",64%,64 °F,14 mph,"29.83 ""Hg",6 mi
+Jerusalem,July,Israel,89 °F,74 °F,82 °F,"0.90""",66%,68 °F,14 mph,"29.74 ""Hg",6 mi
+Jerusalem,August,Israel,90 °F,75 °F,83 °F,"0.72""",66%,70 °F,13 mph,"29.77 ""Hg",6 mi
+Jerusalem,September,Israel,88 °F,73 °F,80 °F,"0.59""",64%,66 °F,13 mph,"29.87 ""Hg",6 mi
+Jerusalem,October,Israel,84 °F,67 °F,75 °F,"0.83""",63%,61 °F,12 mph,"29.95 ""Hg",6 mi
+Jerusalem,November,Israel,77 °F,58 °F,67 °F,"2.44""",62%,52 °F,12 mph,"30.01 ""Hg",6 mi
+Jerusalem,December,Israel,69 °F,51 °F,60 °F,"4.18""",68%,47 °F,12 mph,"30.07 ""Hg",6 mi
+Salt Lake City,January,USA,39 °F,23 °F,31 °F,"1.40""",75%,23 °F,8 mph,"30.21 ""Hg",8 mi
+Salt Lake City,February,USA,44 °F,27 °F,36 °F,"1.29""",67%,25 °F,10 mph,"30.09 ""Hg",9 mi
+Salt Lake City,March,USA,55 °F,35 °F,45 °F,"1.76""",55%,29 °F,11 mph,"30.01 ""Hg",11 mi
+Salt Lake City,April,USA,62 °F,40 °F,51 °F,"2.13""",50%,32 °F,12 mph,"29.93 ""Hg",11 mi
+Salt Lake City,May,USA,73 °F,49 °F,61 °F,"1.78""",45%,38 °F,11 mph,"29.87 ""Hg",11 mi
+Salt Lake City,June,USA,85 °F,58 °F,71 °F,"0.89""",35%,41 °F,11 mph,"29.83 ""Hg",11 mi
+Salt Lake City,July,USA,94 °F,67 °F,81 °F,"0.53""",30%,45 °F,11 mph,"29.85 ""Hg",11 mi
+Salt Lake City,August,USA,92 °F,65 °F,78 °F,"0.66""",32%,45 °F,12 mph,"29.87 ""Hg",11 mi
+Salt Lake City,September,USA,81 °F,55 °F,68 °F,"1.01""",39%,40 °F,10 mph,"29.93 ""Hg",11 mi
+Salt Lake City,October,USA,65 °F,42 °F,54 °F,"1.33""",51%,35 °F,10 mph,"30.02 ""Hg",11 mi
+Salt Lake City,November,USA,51 °F,31 °F,41 °F,"1.25""",64%,28 °F,9 mph,"30.13 ""Hg",10 mi
+Salt Lake City,December,USA,39 °F,24 °F,31 °F,"1.37""",74%,23 °F,9 mph,"30.19 ""Hg",8 mi
+Bangkok,January,Thailand,90 °F,73 °F,82 °F,"0.94""",66%,68 °F,9 mph,"29.90 ""Hg",5 mi
+Bangkok,February,Thailand,93 °F,76 °F,84 °F,"0.57""",68%,71 °F,11 mph,"29.87 ""Hg",5 mi
+Bangkok,March,Thailand,95 °F,79 °F,87 °F,"2.37""",70%,74 °F,13 mph,"29.83 ""Hg",6 mi
+Bangkok,April,Thailand,97 °F,80 °F,88 °F,"4.67""",71%,76 °F,13 mph,"29.79 ""Hg",6 mi
+Bangkok,May,Thailand,95 °F,80 °F,88 °F,"7.99""",73%,76 °F,12 mph,"29.75 ""Hg",6 mi
+Bangkok,June,Thailand,94 °F,79 °F,86 °F,"8.28""",74%,76 °F,13 mph,"29.73 ""Hg",6 mi
+Bangkok,July,Thailand,93 °F,79 °F,86 °F,"7.45""",75%,75 °F,13 mph,"29.73 ""Hg",6 mi
+Bangkok,August,Thailand,92 °F,79 °F,85 °F,"7.87""",76%,75 °F,13 mph,"29.74 ""Hg",6 mi
+Bangkok,September,Thailand,92 °F,78 °F,85 °F,"12.48""",79%,76 °F,11 mph,"29.77 ""Hg",6 mi
+Bangkok,October,Thailand,91 °F,78 °F,84 °F,"7.89""",78%,75 °F,9 mph,"29.83 ""Hg",6 mi
+Bangkok,November,Thailand,91 °F,76 °F,84 °F,"1.69""",69%,71 °F,9 mph,"29.86 ""Hg",6 mi
+Bangkok,December,Thailand,89 °F,73 °F,81 °F,"0.72""",64%,67 °F,9 mph,"29.90 ""Hg",5 mi
+Johannesburg,January,South Africa,80 °F,59 °F,69 °F,"5.55""",70%,57 °F,16 mph,"30.00 ""Hg",11 mi
+Johannesburg,February,South Africa,79 °F,58 °F,69 °F,"4.78""",70%,56 °F,14 mph,"30.02 ""Hg",10 mi
+Johannesburg,March,South Africa,77 °F,56 °F,67 °F,"3.80""",68%,53 °F,14 mph,"30.06 ""Hg",10 mi
+Johannesburg,April,South Africa,73 °F,51 °F,62 °F,"1.76""",63%,47 °F,14 mph,"30.13 ""Hg",10 mi
+Johannesburg,May,South Africa,69 °F,45 °F,57 °F,"0.93""",52%,37 °F,13 mph,"30.19 ""Hg",10 mi
+Johannesburg,June,South Africa,65 °F,40 °F,52 °F,"0.32""",49%,31 °F,14 mph,"30.27 ""Hg",9 mi
+Johannesburg,July,South Africa,64 °F,39 °F,52 °F,"0.15""",47%,29 °F,14 mph,"30.30 ""Hg",9 mi
+Johannesburg,August,South Africa,70 °F,43 °F,57 °F,"0.51""",44%,31 °F,17 mph,"30.21 ""Hg",10 mi
+Johannesburg,September,South Africa,77 °F,49 °F,63 °F,"0.86""",42%,35 °F,18 mph,"30.13 ""Hg",10 mi
+Johannesburg,October,South Africa,79 °F,53 °F,66 °F,"2.81""",54%,45 °F,19 mph,"30.07 ""Hg",11 mi
+Johannesburg,November,South Africa,79 °F,55 °F,67 °F,"4.01""",63%,51 °F,18 mph,"30.02 ""Hg",11 mi
+Johannesburg,December,South Africa,79 °F,58 °F,68 °F,"5.62""",69%,55 °F,17 mph,"30.01 ""Hg",11 mi
+San Francisco,January,USA,57 °F,45 °F,51 °F,"4.01""",79%,45 °F,9 mph,"30.14 ""Hg",9 mi
+San Francisco,February,USA,60 °F,47 °F,53 °F,"3.93""",76%,45 °F,13 mph,"30.08 ""Hg",10 mi
+San Francisco,March,USA,62 °F,48 °F,55 °F,"2.58""",73%,46 °F,16 mph,"30.07 ""Hg",10 mi
+San Francisco,April,USA,64 °F,50 °F,57 °F,"1.35""",69%,46 °F,21 mph,"30.05 ""Hg",10 mi
+San Francisco,May,USA,67 °F,52 °F,60 °F,"0.48""",69%,48 °F,24 mph,"30.00 ""Hg",10 mi
+San Francisco,June,USA,70 °F,54 °F,62 °F,"0.14""",68%,51 °F,24 mph,"29.95 ""Hg",11 mi
+San Francisco,July,USA,71 °F,56 °F,64 °F,"0.01""",71%,53 °F,23 mph,"29.95 ""Hg",10 mi
+San Francisco,August,USA,72 °F,57 °F,65 °F,"0.04""",72%,54 °F,22 mph,"29.94 ""Hg",10 mi
+San Francisco,September,USA,73 °F,56 °F,65 °F,"0.08""",70%,53 °F,19 mph,"29.93 ""Hg",10 mi
+San Francisco,October,USA,71 °F,54 °F,62 °F,"0.94""",68%,50 °F,14 mph,"30.00 ""Hg",10 mi
+San Francisco,November,USA,63 °F,49 °F,56 °F,"2.00""",74%,48 °F,10 mph,"30.10 ""Hg",9 mi
+San Francisco,December,USA,57 °F,45 °F,51 °F,"4.30""",77%,44 °F,10 mph,"30.13 ""Hg",9 mi
+Barcelona,January,Spain,57 °F,42 °F,49 °F,"1.62""",73%,40 °F,17 mph,"30.12 ""Hg",7 mi
+Barcelona,February,Spain,58 °F,43 °F,51 °F,"1.28""",72%,41 °F,16 mph,"30.10 ""Hg",7 mi
+Barcelona,March,Spain,61 °F,47 °F,54 °F,"1.49""",73%,45 °F,16 mph,"30.06 ""Hg",7 mi
+Barcelona,April,Spain,65 °F,51 °F,58 °F,"1.88""",73%,49 °F,16 mph,"29.97 ""Hg",8 mi
+Barcelona,May,Spain,71 °F,57 °F,64 °F,"1.69""",74%,55 °F,15 mph,"29.99 ""Hg",8 mi
+Barcelona,June,Spain,78 °F,65 °F,71 °F,"1.02""",72%,61 °F,15 mph,"30.02 ""Hg",8 mi
+Barcelona,July,Spain,83 °F,70 °F,76 °F,"1.06""",71%,66 °F,15 mph,"30.01 ""Hg",8 mi
+Barcelona,August,Spain,84 °F,70 °F,77 °F,"1.88""",71%,67 °F,15 mph,"30.00 ""Hg",8 mi
+Barcelona,September,Spain,79 °F,65 °F,72 °F,"3.42""",73%,62 °F,15 mph,"30.02 ""Hg",8 mi
+Barcelona,October,Spain,72 °F,58 °F,65 °F,"3.22""",76%,56 °F,15 mph,"30.03 ""Hg",7 mi
+Barcelona,November,Spain,64 °F,49 °F,56 °F,"1.89""",73%,47 °F,16 mph,"30.02 ""Hg",8 mi
+Barcelona,December,Spain,59 °F,43 °F,51 °F,"1.34""",73%,41 °F,17 mph,"30.11 ""Hg",8 mi
+Karachi,January,Pakistan,79 °F,54 °F,67 °F,"0.58""",49%,44 °F,10 mph,"30.03 ""Hg",4 mi
+Karachi,February,Pakistan,84 °F,59 °F,72 °F,"0.10""",49%,49 °F,12 mph,"29.97 ""Hg",4 mi
+Karachi,March,Pakistan,90 °F,68 °F,79 °F,"0.31""",53%,57 °F,13 mph,"29.88 ""Hg",4 mi
+Karachi,April,Pakistan,95 °F,76 °F,85 °F,"0.04""",58%,66 °F,16 mph,"29.78 ""Hg",4 mi
+Karachi,May,Pakistan,96 °F,81 °F,89 °F,"0.14""",66%,74 °F,20 mph,"29.67 ""Hg",4 mi
+Karachi,June,Pakistan,96 °F,84 °F,90 °F,"0.82""",68%,76 °F,22 mph,"29.54 ""Hg",4 mi
+Karachi,July,Pakistan,92 °F,83 °F,88 °F,"2.84""",71%,76 °F,22 mph,"29.51 ""Hg",4 mi
+Karachi,August,Pakistan,90 °F,81 °F,85 °F,"3.62""",73%,75 °F,20 mph,"29.58 ""Hg",4 mi
+Karachi,September,Pakistan,92 °F,79 °F,86 °F,"1.59""",69%,73 °F,18 mph,"29.69 ""Hg",4 mi
+Karachi,October,Pakistan,96 °F,74 °F,85 °F,"0.25""",58%,65 °F,11 mph,"29.84 ""Hg",4 mi
+Karachi,November,Pakistan,90 °F,64 °F,77 °F,"0.08""",49%,53 °F,9 mph,"29.95 ""Hg",4 mi
+Karachi,December,Pakistan,82 °F,57 °F,69 °F,"0.40""",48%,46 °F,9 mph,"30.02 ""Hg",3 mi
+San Juan,January,Puerto Rico,83 °F,72 °F,78 °F,"4.05""",78%,69 °F,14 mph,"30.03 ""Hg",10 mi
+San Juan,February,Puerto Rico,84 °F,72 °F,78 °F,"2.66""",76%,69 °F,15 mph,"30.03 ""Hg",10 mi
+San Juan,March,Puerto Rico,85 °F,72 °F,79 °F,"2.18""",74%,69 °F,15 mph,"30.01 ""Hg",10 mi
+San Juan,April,Puerto Rico,86 °F,74 °F,80 °F,"4.62""",74%,70 °F,15 mph,"29.98 ""Hg",10 mi
+San Juan,May,Puerto Rico,88 °F,76 °F,82 °F,"5.56""",77%,73 °F,15 mph,"29.99 ""Hg",10 mi
+San Juan,June,Puerto Rico,89 °F,77 °F,83 °F,"4.91""",77%,74 °F,16 mph,"30.02 ""Hg",10 mi
+San Juan,July,Puerto Rico,89 °F,78 °F,83 °F,"6.09""",78%,75 °F,18 mph,"30.03 ""Hg",10 mi
+San Juan,August,Puerto Rico,89 °F,78 °F,84 °F,"6.32""",78%,75 °F,16 mph,"29.99 ""Hg",10 mi
+San Juan,September,Puerto Rico,89 °F,78 °F,83 °F,"6.49""",77%,75 °F,12 mph,"29.94 ""Hg",10 mi
+San Juan,October,Puerto Rico,89 °F,77 °F,83 °F,"5.31""",78%,74 °F,11 mph,"29.92 ""Hg",10 mi
+San Juan,November,Puerto Rico,86 °F,75 °F,81 °F,"7.27""",79%,73 °F,11 mph,"29.93 ""Hg",10 mi
+San Juan,December,Puerto Rico,84 °F,73 °F,79 °F,"4.95""",78%,71 °F,13 mph,"29.99 ""Hg",10 mi
+Beijing,January,China,36 °F,17 °F,27 °F,"0.11""",43%,4 °F,12 mph,"30.38 ""Hg",6 mi
+Beijing,February,China,43 °F,22 °F,33 °F,"0.31""",41%,9 °F,11 mph,"30.29 ""Hg",6 mi
+Beijing,March,China,56 °F,33 °F,45 °F,"0.40""",40%,19 °F,13 mph,"30.13 ""Hg",6 mi
+Beijing,April,China,70 °F,46 °F,58 °F,"0.98""",43%,33 °F,13 mph,"29.94 ""Hg",6 mi
+Beijing,May,China,81 °F,57 °F,69 °F,"1.55""",49%,47 °F,12 mph,"29.79 ""Hg",7 mi
+Beijing,June,China,88 °F,67 °F,77 °F,"2.78""",60%,60 °F,10 mph,"29.67 ""Hg",6 mi
+Beijing,July,China,89 °F,72 °F,81 °F,"6.32""",74%,70 °F,9 mph,"29.64 ""Hg",5 mi
+Beijing,August,China,87 °F,70 °F,79 °F,"4.96""",75%,69 °F,9 mph,"29.75 ""Hg",5 mi
+Beijing,September,China,80 °F,60 °F,70 °F,"2.39""",68%,57 °F,9 mph,"29.95 ""Hg",6 mi
+Beijing,October,China,67 °F,45 °F,56 °F,"1.33""",61%,40 °F,9 mph,"30.15 ""Hg",6 mi
+Beijing,November,China,51 °F,31 °F,41 °F,"0.65""",55%,23 °F,10 mph,"30.26 ""Hg",5 mi
+Beijing,December,China,39 °F,20 °F,30 °F,"0.10""",47%,9 °F,12 mph,"30.37 ""Hg",6 mi
+Kathmandu,January,Nepal,65 °F,38 °F,51 °F,"0.64""",67%,39 °F,6 mph,"30.01 ""Hg",3 mi
+Kathmandu,February,Nepal,71 °F,43 °F,57 °F,"0.95""",64%,43 °F,7 mph,"29.97 ""Hg",3 mi
+Kathmandu,March,Nepal,78 °F,49 °F,63 °F,"1.72""",59%,46 °F,9 mph,"29.88 ""Hg",4 mi
+Kathmandu,April,Nepal,82 °F,55 °F,69 °F,"2.42""",57%,51 °F,9 mph,"29.76 ""Hg",4 mi
+Kathmandu,May,Nepal,84 °F,61 °F,72 °F,"4.00""",66%,59 °F,8 mph,"29.68 ""Hg",4 mi
+Kathmandu,June,Nepal,85 °F,67 °F,76 °F,"8.49""",76%,67 °F,8 mph,"29.58 ""Hg",4 mi
+Kathmandu,July,Nepal,83 °F,69 °F,76 °F,"18.75""",84%,69 °F,7 mph,"29.57 ""Hg",5 mi
+Kathmandu,August,Nepal,84 °F,68 °F,76 °F,"12.30""",85%,69 °F,7 mph,"29.61 ""Hg",5 mi
+Kathmandu,September,Nepal,83 °F,66 °F,75 °F,"10.45""",82%,67 °F,7 mph,"29.72 ""Hg",4 mi
+Kathmandu,October,Nepal,80 °F,58 °F,69 °F,"1.93""",74%,59 °F,7 mph,"29.86 ""Hg",4 mi
+Kathmandu,November,Nepal,73 °F,48 °F,60 °F,"0.03""",71%,49 °F,6 mph,"29.95 ""Hg",4 mi
+Kathmandu,December,Nepal,67 °F,40 °F,54 °F,"0.48""",70%,42 °F,5 mph,"30.01 ""Hg",3 mi
+San Salvador,January,El Salvador,88 °F,65 °F,76 °F,"0.13""",68%,64 °F,14 mph,"29.96 ""Hg",9 mi
+San Salvador,February,El Salvador,89 °F,66 °F,77 °F,"0.12""",66%,65 °F,14 mph,"29.94 ""Hg",8 mi
+San Salvador,March,El Salvador,91 °F,67 °F,79 °F,"0.45""",66%,66 °F,14 mph,"29.93 ""Hg",8 mi
+San Salvador,April,El Salvador,90 °F,70 °F,80 °F,"1.94""",71%,69 °F,12 mph,"29.91 ""Hg",7 mi
+San Salvador,May,El Salvador,88 °F,70 °F,79 °F,"5.58""",80%,71 °F,10 mph,"29.90 ""Hg",6 mi
+San Salvador,June,El Salvador,86 °F,70 °F,78 °F,"8.87""",83%,72 °F,9 mph,"29.90 ""Hg",7 mi
+San Salvador,July,El Salvador,87 °F,69 °F,78 °F,"7.49""",81%,71 °F,10 mph,"29.93 ""Hg",8 mi
+San Salvador,August,El Salvador,87 °F,69 °F,78 °F,"8.79""",82%,71 °F,10 mph,"29.92 ""Hg",8 mi
+San Salvador,September,El Salvador,86 °F,69 °F,77 °F,"9.27""",86%,72 °F,9 mph,"29.90 ""Hg",7 mi
+San Salvador,October,El Salvador,85 °F,69 °F,77 °F,"6.82""",84%,71 °F,10 mph,"29.89 ""Hg",7 mi
+San Salvador,November,El Salvador,86 °F,67 °F,76 °F,"1.51""",77%,68 °F,13 mph,"29.92 ""Hg",8 mi
+San Salvador,December,El Salvador,87 °F,65 °F,76 °F,"0.32""",72%,66 °F,14 mph,"29.94 ""Hg",9 mi
+Belgrade,January,Serbia,42 °F,32 °F,37 °F,"2.21""",78%,30 °F,10 mph,"30.08 ""Hg",7 mi
+Belgrade,February,Serbia,48 °F,35 °F,42 °F,"1.62""",72%,32 °F,11 mph,"30.09 ""Hg",9 mi
+Belgrade,March,Serbia,57 °F,41 °F,49 °F,"2.30""",63%,35 °F,10 mph,"30.02 ""Hg",10 mi
+Belgrade,April,Serbia,67 °F,48 °F,58 °F,"1.87""",58%,42 °F,10 mph,"29.97 ""Hg",12 mi
+Belgrade,May,Serbia,73 °F,56 °F,65 °F,"4.38""",64%,51 °F,9 mph,"29.93 ""Hg",13 mi
+Belgrade,June,Serbia,82 °F,64 °F,73 °F,"3.26""",62%,58 °F,8 mph,"29.95 ""Hg",13 mi
+Belgrade,July,Serbia,86 °F,67 °F,77 °F,"2.24""",58%,60 °F,8 mph,"29.94 ""Hg",13 mi
+Belgrade,August,Serbia,87 °F,67 °F,77 °F,"1.79""",56%,59 °F,8 mph,"29.98 ""Hg",13 mi
+Belgrade,September,Serbia,77 °F,59 °F,68 °F,"1.90""",62%,53 °F,8 mph,"30.03 ""Hg",13 mi
+Belgrade,October,Serbia,67 °F,50 °F,58 °F,"2.23""",71%,47 °F,10 mph,"30.10 ""Hg",10 mi
+Belgrade,November,Serbia,56 °F,43 °F,49 °F,"1.84""",76%,41 °F,11 mph,"30.09 ""Hg",8 mi
+Belgrade,December,Serbia,44 °F,35 °F,39 °F,"2.16""",80%,33 °F,10 mph,"30.17 ""Hg",6 mi
+Kingston,January,Jamaica,88 °F,73 °F,80 °F,"0.79""",69%,69 °F,16 mph,"29.98 ""Hg",9 mi
+Kingston,February,Jamaica,88 °F,73 °F,80 °F,"0.85""",69%,69 °F,18 mph,"29.98 ""Hg",9 mi
+Kingston,March,Jamaica,88 °F,73 °F,81 °F,"1.09""",69%,69 °F,17 mph,"29.97 ""Hg",9 mi
+Kingston,April,Jamaica,89 °F,75 °F,82 °F,"0.99""",70%,71 °F,18 mph,"29.94 ""Hg",8 mi
+Kingston,May,Jamaica,90 °F,76 °F,83 °F,"3.75""",71%,73 °F,21 mph,"29.93 ""Hg",8 mi
+Kingston,June,Jamaica,91 °F,78 °F,85 °F,"2.22""",70%,73 °F,26 mph,"29.94 ""Hg",8 mi
+Kingston,July,Jamaica,92 °F,78 °F,85 °F,"2.16""",69%,73 °F,23 mph,"29.96 ""Hg",8 mi
+Kingston,August,Jamaica,92 °F,78 °F,85 °F,"3.06""",71%,74 °F,20 mph,"29.93 ""Hg",8 mi
+Kingston,September,Jamaica,92 °F,78 °F,85 °F,"4.37""",72%,74 °F,17 mph,"29.90 ""Hg",8 mi
+Kingston,October,Jamaica,91 °F,77 °F,84 °F,"6.14""",74%,74 °F,15 mph,"29.88 ""Hg",8 mi
+Kingston,November,Jamaica,90 °F,75 °F,83 °F,"3.30""",72%,72 °F,14 mph,"29.90 ""Hg",9 mi
+Kingston,December,Jamaica,89 °F,74 °F,81 °F,"1.54""",70%,70 °F,15 mph,"29.95 ""Hg",9 mi
+Santiago,January,Chile,88 °F,55 °F,72 °F,"0.13""",50%,49 °F,16 mph,"29.89 ""Hg",6 mi
+Santiago,February,Chile,87 °F,54 °F,71 °F,"0.39""",54%,50 °F,14 mph,"29.90 ""Hg",6 mi
+Santiago,March,Chile,84 °F,51 °F,68 °F,"0.18""",57%,48 °F,12 mph,"29.93 ""Hg",6 mi
+Santiago,April,Chile,77 °F,46 °F,61 °F,"0.51""",65%,45 °F,9 mph,"30.00 ""Hg",5 mi
+Santiago,May,Chile,68 °F,41 °F,55 °F,"1.25""",73%,43 °F,7 mph,"30.06 ""Hg",4 mi
+Santiago,June,Chile,62 °F,38 °F,50 °F,"2.36""",79%,41 °F,7 mph,"30.10 ""Hg",4 mi
+Santiago,July,Chile,62 °F,36 °F,49 °F,"1.50""",79%,39 °F,7 mph,"30.12 ""Hg",4 mi
+Santiago,August,Chile,65 °F,39 °F,52 °F,"1.21""",75%,41 °F,8 mph,"30.11 ""Hg",4 mi
+Santiago,September,Chile,69 °F,42 °F,56 °F,"0.60""",70%,43 °F,10 mph,"30.07 ""Hg",5 mi
+Santiago,October,Chile,75 °F,46 °F,61 °F,"0.34""",62%,44 °F,12 mph,"30.02 ""Hg",6 mi
+Santiago,November,Chile,81 °F,50 °F,65 °F,"0.15""",54%,45 °F,14 mph,"29.97 ""Hg",6 mi
+Santiago,December,Chile,85 °F,53 °F,69 °F,"0.15""",51%,47 °F,16 mph,"29.92 ""Hg",6 mi
+Bengaluru,January,India,84 °F,62 °F,73 °F,"1.77""",58%,56 °F,4 mph,"29.90 ""Hg",4 mi
+Bengaluru,February,India,89 °F,64 °F,76 °F,"2.35""",48%,53 °F,4 mph,"29.86 ""Hg",4 mi
+Bengaluru,March,India,93 °F,69 °F,81 °F,"4.02""",44%,55 °F,4 mph,"29.80 ""Hg",4 mi
+Bengaluru,April,India,95 °F,73 °F,84 °F,"4.71""",52%,62 °F,3 mph,"29.75 ""Hg",4 mi
+Bengaluru,May,India,92 °F,72 °F,82 °F,"6.20""",65%,67 °F,5 mph,"29.71 ""Hg",4 mi
+Bengaluru,June,India,86 °F,70 °F,78 °F,"5.13""",74%,67 °F,9 mph,"29.70 ""Hg",4 mi
+Bengaluru,July,India,84 °F,69 °F,76 °F,"5.00""",78%,67 °F,9 mph,"29.72 ""Hg",4 mi
+Bengaluru,August,India,83 °F,69 °F,76 °F,"5.56""",79%,67 °F,8 mph,"29.74 ""Hg",4 mi
+Bengaluru,September,India,84 °F,68 °F,76 °F,"8.72""",76%,67 °F,6 mph,"29.76 ""Hg",4 mi
+Bengaluru,October,India,85 °F,68 °F,76 °F,"7.06""",73%,65 °F,4 mph,"29.81 ""Hg",4 mi
+Bengaluru,November,India,83 °F,66 °F,74 °F,"3.32""",72%,62 °F,4 mph,"29.86 ""Hg",4 mi
+Bengaluru,December,India,82 °F,63 °F,73 °F,"1.15""",68%,59 °F,4 mph,"29.89 ""Hg",4 mi
+Kinshasa,January,Congo Demrep,88 °F,72 °F,80 °F,"5.46""",80%,72 °F,7 mph,"29.82 ""Hg",6 mi
+Kinshasa,February,Congo Demrep,89 °F,72 °F,81 °F,"6.17""",79%,72 °F,8 mph,"29.81 ""Hg",6 mi
+Kinshasa,March,Congo Demrep,90 °F,73 °F,82 °F,"7.90""",78%,72 °F,8 mph,"29.80 ""Hg",7 mi
+Kinshasa,April,Congo Demrep,91 °F,73 °F,82 °F,"6.96""",78%,72 °F,7 mph,"29.81 ""Hg",7 mi
+Kinshasa,May,Congo Demrep,89 °F,72 °F,81 °F,"4.86""",80%,72 °F,7 mph,"29.84 ""Hg",6 mi
+Kinshasa,June,Congo Demrep,84 °F,69 °F,76 °F,"0.47""",80%,69 °F,8 mph,"29.89 ""Hg",4 mi
+Kinshasa,July,Congo Demrep,83 °F,67 °F,75 °F,"0.15""",77%,66 °F,9 mph,"29.92 ""Hg",4 mi
+Kinshasa,August,Congo Demrep,85 °F,68 °F,76 °F,"0.65""",71%,65 °F,10 mph,"29.90 ""Hg",5 mi
+Kinshasa,September,Congo Demrep,88 °F,71 °F,79 °F,"1.98""",70%,67 °F,11 mph,"29.87 ""Hg",6 mi
+Kinshasa,October,Congo Demrep,88 °F,72 °F,80 °F,"5.34""",76%,70 °F,9 mph,"29.84 ""Hg",6 mi
+Kinshasa,November,Congo Demrep,88 °F,72 °F,80 °F,"10.72""",80%,71 °F,8 mph,"29.82 ""Hg",7 mi
+Kinshasa,December,Congo Demrep,87 °F,72 °F,80 °F,"8.47""",82%,72 °F,7 mph,"29.83 ""Hg",6 mi
+Santo Domingo,January,Dominican Republic,86 °F,71 °F,79 °F,"1.63""",80%,71 °F,9 mph,"30.02 ""Hg",9 mi
+Santo Domingo,February,Dominican Republic,87 °F,71 °F,79 °F,"2.25""",80%,71 °F,9 mph,"30.02 ""Hg",9 mi
+Santo Domingo,March,Dominican Republic,87 °F,72 °F,80 °F,"2.50""",78%,71 °F,9 mph,"30.01 ""Hg",9 mi
+Santo Domingo,April,Dominican Republic,88 °F,73 °F,81 °F,"2.77""",80%,73 °F,10 mph,"29.98 ""Hg",9 mi
+Santo Domingo,May,Dominican Republic,89 °F,75 °F,82 °F,"4.15""",81%,75 °F,9 mph,"29.99 ""Hg",9 mi
+Santo Domingo,June,Dominican Republic,90 °F,77 °F,83 °F,"2.96""",81%,76 °F,9 mph,"30.01 ""Hg",9 mi
+Santo Domingo,July,Dominican Republic,91 °F,77 °F,84 °F,"5.34""",81%,76 °F,9 mph,"30.02 ""Hg",8 mi
+Santo Domingo,August,Dominican Republic,91 °F,76 °F,84 °F,"6.94""",82%,76 °F,9 mph,"29.98 ""Hg",9 mi
+Santo Domingo,September,Dominican Republic,91 °F,77 °F,84 °F,"4.40""",81%,76 °F,8 mph,"29.93 ""Hg",9 mi
+Santo Domingo,October,Dominican Republic,90 °F,76 °F,83 °F,"5.48""",82%,76 °F,8 mph,"29.91 ""Hg",9 mi
+Santo Domingo,November,Dominican Republic,89 °F,74 °F,82 °F,"4.74""",83%,74 °F,8 mph,"29.93 ""Hg",9 mi
+Santo Domingo,December,Dominican Republic,88 °F,73 °F,80 °F,"3.03""",81%,72 °F,9 mph,"30.00 ""Hg",9 mi
+Berlin,January,Germany,38 °F,30 °F,34 °F,"1.91""",88%,29 °F,16 mph,"30.04 ""Hg",5 mi
+Berlin,February,Germany,42 °F,31 °F,36 °F,"1.47""",83%,30 °F,16 mph,"30.03 ""Hg",6 mi
+Berlin,March,Germany,48 °F,34 °F,41 °F,"1.59""",78%,33 °F,16 mph,"30.01 ""Hg",6 mi
+Berlin,April,Germany,59 °F,41 °F,50 °F,"1.13""",70%,38 °F,14 mph,"29.97 ""Hg",7 mi
+Berlin,May,Germany,68 °F,49 °F,58 °F,"2.05""",69%,45 °F,14 mph,"29.99 ""Hg",7 mi
+Berlin,June,Germany,74 °F,55 °F,64 °F,"2.21""",68%,51 °F,13 mph,"30.00 ""Hg",8 mi
+Berlin,July,Germany,77 °F,59 °F,68 °F,"2.87""",69%,54 °F,13 mph,"29.96 ""Hg",7 mi
+Berlin,August,Germany,76 °F,58 °F,67 °F,"2.33""",70%,54 °F,13 mph,"29.98 ""Hg",7 mi
+Berlin,September,Germany,68 °F,51 °F,59 °F,"1.91""",78%,50 °F,13 mph,"30.02 ""Hg",7 mi
+Berlin,October,Germany,57 °F,44 °F,50 °F,"1.77""",84%,44 °F,14 mph,"30.02 ""Hg",6 mi
+Berlin,November,Germany,46 °F,37 °F,42 °F,"1.70""",89%,37 °F,14 mph,"29.99 ""Hg",5 mi
+Berlin,December,Germany,40 °F,32 °F,36 °F,"1.75""",89%,32 °F,16 mph,"30.01 ""Hg",5 mi
+Kiritimati,January,Kiribati,87 °F,78 °F,82 °F,"9.21""",81%,74 °F,20 mph,"61.35 ""Hg",17 mi
+Kiritimati,February,Kiribati,87 °F,78 °F,82 °F,"6.33""",82%,74 °F,19 mph,"66.96 ""Hg",15 mi
+Kiritimati,March,Kiribati,88 °F,78 °F,83 °F,"6.17""",83%,76 °F,18 mph,"58.25 ""Hg",15 mi
+Kiritimati,April,Kiribati,89 °F,78 °F,83 °F,"6.69""",84%,76 °F,16 mph,"85.32 ""Hg",15 mi
+Kiritimati,May,Kiribati,89 °F,79 °F,84 °F,"8.36""",82%,74 °F,14 mph,"86.73 ""Hg",17 mi
+Kiritimati,June,Kiribati,89 °F,78 °F,84 °F,"11.71""",79%,74 °F,14 mph,"85.28 ""Hg",16 mi
+Kiritimati,July,Kiribati,88 °F,78 °F,83 °F,"12.37""",78%,73 °F,16 mph,"77.24 ""Hg",16 mi
+Kiritimati,August,Kiribati,87 °F,78 °F,82 °F,"13.52""",77%,74 °F,16 mph,"70.97 ""Hg",15 mi
+Kiritimati,September,Kiribati,88 °F,78 °F,83 °F,"13.85""",77%,73 °F,16 mph,"101.74 ""Hg",15 mi
+Kiritimati,October,Kiribati,87 °F,78 °F,82 °F,"11.52""",77%,73 °F,15 mph,"83.59 ""Hg",16 mi
+Kiritimati,November,Kiribati,87 °F,78 °F,83 °F,"8.79""",77%,73 °F,15 mph,"104.89 ""Hg",17 mi
+Kiritimati,December,Kiribati,87 °F,78 °F,83 °F,"9.35""",79%,74 °F,17 mph,"74.01 ""Hg",16 mi
+São Paulo,January,Brazil,84 °F,68 °F,76 °F,"9.14""",76%,65 °F,12 mph,"29.93 ""Hg",6 mi
+São Paulo,February,Brazil,84 °F,68 °F,76 °F,"7.64""",75%,65 °F,12 mph,"29.95 ""Hg",6 mi
+São Paulo,March,Brazil,83 °F,67 °F,75 °F,"5.70""",77%,64 °F,12 mph,"29.98 ""Hg",6 mi
+São Paulo,April,Brazil,80 °F,64 °F,72 °F,"2.30""",76%,61 °F,12 mph,"30.03 ""Hg",6 mi
+São Paulo,May,Brazil,75 °F,59 °F,67 °F,"1.72""",76%,57 °F,11 mph,"30.08 ""Hg",6 mi
+São Paulo,June,Brazil,74 °F,58 °F,66 °F,"1.67""",74%,55 °F,10 mph,"30.13 ""Hg",6 mi
+São Paulo,July,Brazil,74 °F,56 °F,65 °F,"1.56""",72%,52 °F,10 mph,"30.16 ""Hg",6 mi
+São Paulo,August,Brazil,77 °F,57 °F,67 °F,"1.31""",70%,53 °F,12 mph,"30.14 ""Hg",6 mi
+São Paulo,September,Brazil,78 °F,59 °F,69 °F,"2.64""",74%,56 °F,13 mph,"30.08 ""Hg",5 mi
+São Paulo,October,Brazil,80 °F,62 °F,71 °F,"3.52""",77%,59 °F,14 mph,"30.01 ""Hg",6 mi
+São Paulo,November,Brazil,80 °F,63 °F,72 °F,"4.58""",76%,61 °F,15 mph,"29.96 ""Hg",6 mi
+São Paulo,December,Brazil,83 °F,66 °F,74 °F,"6.13""",76%,63 °F,14 mph,"29.93 ""Hg",6 mi
+Bogota,January,Colombia,69 °F,44 °F,56 °F,"1.83""",79%,48 °F,10 mph,"30.11 ""Hg",7 mi
+Bogota,February,Colombia,69 °F,46 °F,57 °F,"3.54""",79%,49 °F,10 mph,"30.12 ""Hg",6 mi
+Bogota,March,Colombia,68 °F,48 °F,58 °F,"4.26""",80%,50 °F,10 mph,"30.12 ""Hg",6 mi
+Bogota,April,Colombia,68 °F,50 °F,59 °F,"4.32""",82%,51 °F,9 mph,"30.14 ""Hg",7 mi
+Bogota,May,Colombia,67 °F,50 °F,58 °F,"5.02""",82%,51 °F,10 mph,"30.16 ""Hg",7 mi
+Bogota,June,Colombia,66 °F,49 °F,58 °F,"3.54""",79%,50 °F,11 mph,"30.17 ""Hg",7 mi
+Bogota,July,Colombia,66 °F,48 °F,57 °F,"2.69""",77%,48 °F,12 mph,"30.18 ""Hg",7 mi
+Bogota,August,Colombia,66 °F,48 °F,57 °F,"2.82""",77%,48 °F,11 mph,"30.17 ""Hg",7 mi
+Bogota,September,Colombia,67 °F,46 °F,57 °F,"3.21""",77%,48 °F,10 mph,"30.16 ""Hg",7 mi
+Bogota,October,Colombia,67 °F,47 °F,57 °F,"4.84""",81%,50 °F,10 mph,"30.13 ""Hg",7 mi
+Bogota,November,Colombia,67 °F,48 °F,58 °F,"5.75""",83%,51 °F,9 mph,"30.10 ""Hg",6 mi
+Bogota,December,Colombia,68 °F,46 °F,57 °F,"3.11""",81%,49 °F,10 mph,"30.11 ""Hg",7 mi
+Kolkata,January,India,78 °F,55 °F,66 °F,"0.60""",71%,55 °F,4 mph,"29.97 ""Hg",1 mi
+Kolkata,February,India,85 °F,62 °F,73 °F,"0.61""",66%,60 °F,4 mph,"29.91 ""Hg",1 mi
+Kolkata,March,India,93 °F,71 °F,82 °F,"1.17""",64%,66 °F,6 mph,"29.82 ""Hg",2 mi
+Kolkata,April,India,97 °F,77 °F,87 °F,"2.00""",69%,74 °F,11 mph,"29.73 ""Hg",2 mi
+Kolkata,May,India,97 °F,78 °F,88 °F,"5.70""",74%,77 °F,11 mph,"29.63 ""Hg",2 mi
+Kolkata,June,India,94 °F,80 °F,87 °F,"9.30""",80%,79 °F,9 mph,"29.53 ""Hg",2 mi
+Kolkata,July,India,92 °F,80 °F,86 °F,"12.92""",84%,79 °F,8 mph,"29.52 ""Hg",2 mi
+Kolkata,August,India,92 °F,80 °F,86 °F,"13.62""",85%,79 °F,7 mph,"29.56 ""Hg",2 mi
+Kolkata,September,India,92 °F,79 °F,85 °F,"10.29""",84%,78 °F,6 mph,"29.66 ""Hg",2 mi
+Kolkata,October,India,91 °F,75 °F,83 °F,"5.61""",79%,74 °F,4 mph,"29.81 ""Hg",2 mi
+Kolkata,November,India,86 °F,67 °F,76 °F,"1.14""",72%,65 °F,3 mph,"29.90 ""Hg",1 mi
+Kolkata,December,India,80 °F,57 °F,69 °F,"0.45""",73%,58 °F,4 mph,"29.97 ""Hg",1 mi
+Seattle,January,USA,48 °F,37 °F,43 °F,"4.41""",81%,37 °F,9 mph,"30.07 ""Hg",9 mi
+Seattle,February,USA,50 °F,37 °F,44 °F,"3.09""",76%,37 °F,9 mph,"30.06 ""Hg",10 mi
+Seattle,March,USA,54 °F,40 °F,47 °F,"3.26""",73%,38 °F,10 mph,"30.04 ""Hg",10 mi
+Seattle,April,USA,59 °F,44 °F,52 °F,"2.20""",68%,41 °F,10 mph,"30.05 ""Hg",10 mi
+Seattle,May,USA,66 °F,50 °F,58 °F,"1.56""",65%,46 °F,9 mph,"30.04 ""Hg",11 mi
+Seattle,June,USA,71 °F,54 °F,63 °F,"1.07""",63%,49 °F,9 mph,"30.03 ""Hg",11 mi
+Seattle,July,USA,77 °F,58 °F,68 °F,"0.39""",61%,53 °F,8 mph,"30.05 ""Hg",12 mi
+Seattle,August,USA,77 °F,59 °F,68 °F,"0.57""",62%,54 °F,8 mph,"30.02 ""Hg",11 mi
+Seattle,September,USA,71 °F,54 °F,63 °F,"1.28""",68%,51 °F,8 mph,"30.02 ""Hg",11 mi
+Seattle,October,USA,61 °F,47 °F,54 °F,"3.05""",78%,47 °F,8 mph,"30.07 ""Hg",9 mi
+Seattle,November,USA,53 °F,41 °F,47 °F,"5.10""",81%,41 °F,9 mph,"30.06 ""Hg",9 mi
+Seattle,December,USA,47 °F,37 °F,42 °F,"4.86""",82%,37 °F,9 mph,"30.08 ""Hg",9 mi
+Boston,January,USA,37 °F,24 °F,30 °F,"3.21""",63%,19 °F,20 mph,"30.05 ""Hg",9 mi
+Boston,February,USA,39 °F,25 °F,32 °F,"3.19""",61%,19 °F,20 mph,"30.04 ""Hg",9 mi
+Boston,March,USA,45 °F,31 °F,38 °F,"4.05""",61%,25 °F,20 mph,"30.05 ""Hg",9 mi
+Boston,April,USA,56 °F,41 °F,48 °F,"3.60""",61%,34 °F,19 mph,"29.99 ""Hg",9 mi
+Boston,May,USA,66 °F,50 °F,58 °F,"3.41""",66%,46 °F,17 mph,"30.00 ""Hg",9 mi
+Boston,June,USA,77 °F,60 °F,68 °F,"3.95""",67%,56 °F,16 mph,"29.95 ""Hg",9 mi
+Boston,July,USA,82 °F,66 °F,74 °F,"3.56""",67%,62 °F,15 mph,"29.95 ""Hg",9 mi
+Boston,August,USA,81 °F,65 °F,73 °F,"3.21""",68%,61 °F,15 mph,"30.00 ""Hg",9 mi
+Boston,September,USA,73 °F,59 °F,66 °F,"3.63""",70%,56 °F,16 mph,"30.06 ""Hg",9 mi
+Boston,October,USA,62 °F,48 °F,55 °F,"4.10""",68%,44 °F,18 mph,"30.06 ""Hg",9 mi
+Boston,November,USA,52 °F,38 °F,45 °F,"3.59""",65%,33 °F,18 mph,"30.09 ""Hg",9 mi
+Boston,December,USA,43 °F,30 °F,36 °F,"4.14""",65%,25 °F,19 mph,"30.08 ""Hg",9 mi
+Kuala Lumpur,January,Malaysia,91 °F,75 °F,83 °F,"9.22""",79%,74 °F,6 mph,"29.84 ""Hg",6 mi
+Kuala Lumpur,February,Malaysia,92 °F,75 °F,84 °F,"7.34""",77%,74 °F,6 mph,"29.84 ""Hg",6 mi
+Kuala Lumpur,March,Malaysia,93 °F,76 °F,84 °F,"10.19""",79%,75 °F,7 mph,"29.82 ""Hg",6 mi
+Kuala Lumpur,April,Malaysia,93 °F,76 °F,84 °F,"11.07""",81%,76 °F,7 mph,"29.81 ""Hg",6 mi
+Kuala Lumpur,May,Malaysia,93 °F,77 °F,85 °F,"8.88""",80%,76 °F,7 mph,"29.80 ""Hg",6 mi
+Kuala Lumpur,June,Malaysia,92 °F,76 °F,84 °F,"6.22""",78%,75 °F,7 mph,"29.80 ""Hg",7 mi
+Kuala Lumpur,July,Malaysia,91 °F,76 °F,83 °F,"6.82""",78%,74 °F,7 mph,"29.81 ""Hg",7 mi
+Kuala Lumpur,August,Malaysia,91 °F,76 °F,83 °F,"7.14""",78%,74 °F,7 mph,"29.82 ""Hg",6 mi
+Kuala Lumpur,September,Malaysia,91 °F,75 °F,83 °F,"9.01""",79%,74 °F,7 mph,"29.83 ""Hg",6 mi
+Kuala Lumpur,October,Malaysia,91 °F,75 °F,83 °F,"11.29""",81%,75 °F,7 mph,"29.83 ""Hg",6 mi
+Kuala Lumpur,November,Malaysia,90 °F,75 °F,83 °F,"13.36""",84%,75 °F,6 mph,"29.82 ""Hg",6 mi
+Kuala Lumpur,December,Malaysia,90 °F,75 °F,82 °F,"10.63""",83%,75 °F,6 mph,"29.83 ""Hg",6 mi
+Seoul,January,South Korea,35 °F,19 °F,27 °F,"0.56""",64%,15 °F,10 mph,"30.27 ""Hg",5 mi
+Seoul,February,South Korea,41 °F,23 °F,32 °F,"0.85""",62%,18 °F,11 mph,"30.22 ""Hg",5 mi
+Seoul,March,South Korea,51 °F,33 °F,42 °F,"1.00""",62%,27 °F,12 mph,"30.11 ""Hg",5 mi
+Seoul,April,South Korea,63 °F,43 °F,53 °F,"1.92""",62%,38 °F,13 mph,"29.98 ""Hg",5 mi
+Seoul,May,South Korea,73 °F,54 °F,63 °F,"2.60""",67%,50 °F,12 mph,"29.86 ""Hg",5 mi
+Seoul,June,South Korea,80 °F,64 °F,72 °F,"3.11""",73%,61 °F,11 mph,"29.75 ""Hg",4 mi
+Seoul,July,South Korea,84 °F,72 °F,78 °F,"5.69""",81%,70 °F,11 mph,"29.73 ""Hg",4 mi
+Seoul,August,South Korea,86 °F,72 °F,79 °F,"6.09""",79%,71 °F,11 mph,"29.78 ""Hg",5 mi
+Seoul,September,South Korea,79 °F,62 °F,71 °F,"2.67""",75%,60 °F,10 mph,"29.94 ""Hg",5 mi
+Seoul,October,South Korea,68 °F,48 °F,58 °F,"1.33""",71%,46 °F,9 mph,"30.11 ""Hg",5 mi
+Seoul,November,South Korea,53 °F,36 °F,44 °F,"1.56""",70%,33 °F,10 mph,"30.19 ""Hg",5 mi
+Seoul,December,South Korea,39 °F,23 °F,31 °F,"0.62""",66%,19 °F,10 mph,"30.27 ""Hg",5 mi
+Brasilia,January,Brazil,82 °F,66 °F,74 °F,"5.49""",74%,63 °F,10 mph,"29.95 ""Hg",8 mi
+Brasilia,February,Brazil,83 °F,65 °F,74 °F,"4.62""",75%,64 °F,10 mph,"29.97 ""Hg",8 mi
+Brasilia,March,Brazil,82 °F,65 °F,74 °F,"5.42""",76%,64 °F,9 mph,"29.97 ""Hg",8 mi
+Brasilia,April,Brazil,82 °F,64 °F,73 °F,"3.17""",73%,62 °F,9 mph,"30.00 ""Hg",8 mi
+Brasilia,May,Brazil,81 °F,59 °F,70 °F,"0.69""",68%,57 °F,8 mph,"30.05 ""Hg",8 mi
+Brasilia,June,Brazil,80 °F,55 °F,67 °F,"0.12""",63%,53 °F,9 mph,"30.10 ""Hg",8 mi
+Brasilia,July,Brazil,80 °F,54 °F,67 °F,"0.00""",57%,49 °F,9 mph,"30.12 ""Hg",8 mi
+Brasilia,August,Brazil,83 °F,56 °F,70 °F,"0.39""",49%,48 °F,10 mph,"30.08 ""Hg",8 mi
+Brasilia,September,Brazil,86 °F,62 °F,74 °F,"1.12""",49%,52 °F,11 mph,"30.02 ""Hg",8 mi
+Brasilia,October,Brazil,86 °F,65 °F,76 °F,"2.72""",61%,58 °F,10 mph,"29.97 ""Hg",8 mi
+Brasilia,November,Brazil,82 °F,66 °F,74 °F,"5.95""",75%,63 °F,10 mph,"29.94 ""Hg",8 mi
+Brasilia,December,Brazil,82 °F,66 °F,74 °F,"6.07""",76%,64 °F,10 mph,"29.94 ""Hg",8 mi
+Kuwait City,January,Kuwait,67 °F,45 °F,56 °F,"3.89""",63%,42 °F,14 mph,"30.13 ""Hg",5 mi
+Kuwait City,February,Kuwait,72 °F,48 °F,60 °F,"1.81""",53%,41 °F,15 mph,"30.07 ""Hg",5 mi
+Kuwait City,March,Kuwait,81 °F,56 °F,68 °F,"2.04""",42%,41 °F,16 mph,"29.97 ""Hg",6 mi
+Kuwait City,April,Kuwait,91 °F,66 °F,79 °F,"3.88""",33%,45 °F,17 mph,"29.87 ""Hg",5 mi
+Kuwait City,May,Kuwait,104 °F,77 °F,91 °F,"2.93""",21%,44 °F,17 mph,"29.75 ""Hg",5 mi
+Kuwait City,June,Kuwait,113 °F,84 °F,98 °F,"3.51""",13%,39 °F,22 mph,"29.58 ""Hg",5 mi
+Kuwait City,July,Kuwait,116 °F,87 °F,101 °F,"2.61""",14%,43 °F,21 mph,"29.48 ""Hg",5 mi
+Kuwait City,August,Kuwait,116 °F,86 °F,101 °F,"1.60""",18%,47 °F,18 mph,"29.53 ""Hg",5 mi
+Kuwait City,September,Kuwait,109 °F,79 °F,94 °F,"0.63""",21%,46 °F,16 mph,"29.70 ""Hg",6 mi
+Kuwait City,October,Kuwait,98 °F,69 °F,83 °F,"1.85""",35%,49 °F,13 mph,"29.90 ""Hg",5 mi
+Kuwait City,November,Kuwait,81 °F,57 °F,69 °F,"1.44""",50%,47 °F,14 mph,"30.05 ""Hg",6 mi
+Kuwait City,December,Kuwait,70 °F,48 °F,59 °F,"2.81""",61%,44 °F,13 mph,"30.14 ""Hg",5 mi
+Shanghai,January,China,47 °F,35 °F,41 °F,"2.38""",72%,32 °F,15 mph,"30.32 ""Hg",4 mi
+Shanghai,February,China,51 °F,38 °F,45 °F,"2.06""",71%,35 °F,15 mph,"30.25 ""Hg",5 mi
+Shanghai,March,China,58 °F,45 °F,52 °F,"2.79""",70%,41 °F,16 mph,"30.14 ""Hg",5 mi
+Shanghai,April,China,69 °F,54 °F,62 °F,"2.45""",69%,50 °F,16 mph,"29.99 ""Hg",5 mi
+Shanghai,May,China,78 °F,64 °F,71 °F,"2.95""",71%,59 °F,16 mph,"29.85 ""Hg",5 mi
+Shanghai,June,China,83 °F,71 °F,77 °F,"4.89""",79%,69 °F,14 mph,"29.72 ""Hg",5 mi
+Shanghai,July,China,92 °F,79 °F,85 °F,"4.21""",76%,76 °F,16 mph,"29.68 ""Hg",5 mi
+Shanghai,August,China,91 °F,79 °F,85 °F,"5.73""",77%,75 °F,16 mph,"29.72 ""Hg",6 mi
+Shanghai,September,China,83 °F,72 °F,78 °F,"3.55""",74%,68 °F,15 mph,"29.91 ""Hg",6 mi
+Shanghai,October,China,74 °F,61 °F,68 °F,"1.99""",71%,57 °F,14 mph,"30.11 ""Hg",5 mi
+Shanghai,November,China,64 °F,51 °F,57 °F,"2.02""",72%,47 °F,14 mph,"30.21 ""Hg",4 mi
+Shanghai,December,China,52 °F,39 °F,46 °F,"1.74""",70%,36 °F,14 mph,"30.32 ""Hg",4 mi
+Brisbane,January,Australia,84 °F,71 °F,77 °F,"4.79""",72%,67 °F,18 mph,"29.90 ""Hg",9 mi
+Brisbane,February,Australia,84 °F,70 °F,77 °F,"5.39""",74%,67 °F,17 mph,"29.91 ""Hg",9 mi
+Brisbane,March,Australia,82 °F,67 °F,75 °F,"4.68""",75%,65 °F,16 mph,"29.98 ""Hg",9 mi
+Brisbane,April,Australia,79 °F,62 °F,70 °F,"2.80""",74%,61 °F,15 mph,"30.07 ""Hg",9 mi
+Brisbane,May,Australia,74 °F,56 °F,65 °F,"3.54""",74%,55 °F,14 mph,"30.10 ""Hg",9 mi
+Brisbane,June,Australia,70 °F,52 °F,61 °F,"2.41""",73%,51 °F,14 mph,"30.12 ""Hg",10 mi
+Brisbane,July,Australia,70 °F,49 °F,59 °F,"1.25""",70%,48 °F,14 mph,"30.13 ""Hg",10 mi
+Brisbane,August,Australia,72 °F,50 °F,61 °F,"1.38""",69%,48 °F,15 mph,"30.12 ""Hg",9 mi
+Brisbane,September,Australia,75 °F,55 °F,65 °F,"1.29""",70%,54 °F,17 mph,"30.08 ""Hg",9 mi
+Brisbane,October,Australia,78 °F,60 °F,69 °F,"3.04""",70%,58 °F,18 mph,"30.04 ""Hg",9 mi
+Brisbane,November,Australia,80 °F,65 °F,73 °F,"3.78""",71%,62 °F,19 mph,"29.97 ""Hg",9 mi
+Brisbane,December,Australia,83 °F,68 °F,75 °F,"4.69""",72%,65 °F,19 mph,"29.92 ""Hg",9 mi
+Kyiv,January,Ukraine,31 °F,22 °F,27 °F,"1.55""",86%,23 °F,14 mph,"30.09 ""Hg",6 mi
+Kyiv,February,Ukraine,34 °F,23 °F,29 °F,"1.56""",82%,23 °F,14 mph,"30.06 ""Hg",6 mi
+Kyiv,March,Ukraine,44 °F,30 °F,37 °F,"1.59""",73%,28 °F,15 mph,"30.01 ""Hg",7 mi
+Kyiv,April,Ukraine,59 °F,41 °F,50 °F,"1.66""",62%,36 °F,13 mph,"29.97 ""Hg",8 mi
+Kyiv,May,Ukraine,70 °F,51 °F,60 °F,"2.58""",63%,46 °F,12 mph,"29.96 ""Hg",9 mi
+Kyiv,June,Ukraine,76 °F,58 °F,67 °F,"2.90""",64%,54 °F,12 mph,"29.93 ""Hg",9 mi
+Kyiv,July,Ukraine,80 °F,61 °F,70 °F,"2.75""",66%,58 °F,11 mph,"29.91 ""Hg",9 mi
+Kyiv,August,Ukraine,79 °F,59 °F,69 °F,"2.25""",65%,55 °F,10 mph,"29.98 ""Hg",9 mi
+Kyiv,September,Ukraine,68 °F,50 °F,59 °F,"2.21""",72%,48 °F,11 mph,"30.03 ""Hg",8 mi
+Kyiv,October,Ukraine,55 °F,40 °F,48 °F,"1.73""",79%,40 °F,12 mph,"30.11 ""Hg",7 mi
+Kyiv,November,Ukraine,42 °F,32 °F,37 °F,"1.96""",87%,33 °F,13 mph,"30.12 ""Hg",5 mi
+Kyiv,December,Ukraine,33 °F,25 °F,29 °F,"1.92""",88%,26 °F,14 mph,"30.10 ""Hg",5 mi
+Singapore,January,Singapore,87 °F,76 °F,82 °F,"9.77""",80%,74 °F,14 mph,"29.84 ""Hg",6 mi
+Singapore,February,Singapore,89 °F,76 °F,83 °F,"4.57""",78%,74 °F,14 mph,"29.84 ""Hg",7 mi
+Singapore,March,Singapore,90 °F,77 °F,84 °F,"6.60""",79%,76 °F,10 mph,"29.82 ""Hg",6 mi
+Singapore,April,Singapore,91 °F,77 °F,84 °F,"7.28""",79%,77 °F,7 mph,"29.80 ""Hg",6 mi
+Singapore,May,Singapore,90 °F,78 °F,84 °F,"6.60""",79%,77 °F,7 mph,"29.79 ""Hg",6 mi
+Singapore,June,Singapore,90 °F,78 °F,84 °F,"5.80""",78%,76 °F,9 mph,"29.80 ""Hg",7 mi
+Singapore,July,Singapore,89 °F,78 °F,83 °F,"8.47""",78%,76 °F,11 mph,"29.80 ""Hg",7 mi
+Singapore,August,Singapore,89 °F,77 °F,83 °F,"6.94""",78%,76 °F,11 mph,"29.81 ""Hg",6 mi
+Singapore,September,Singapore,89 °F,77 °F,83 °F,"6.17""",77%,75 °F,10 mph,"29.82 ""Hg",6 mi
+Singapore,October,Singapore,89 °F,77 °F,83 °F,"7.96""",78%,76 °F,8 mph,"29.82 ""Hg",6 mi
+Singapore,November,Singapore,89 °F,76 °F,83 °F,"9.79""",81%,76 °F,7 mph,"29.80 ""Hg",6 mi
+Singapore,December,Singapore,88 °F,76 °F,82 °F,"12.00""",82%,75 °F,10 mph,"29.82 ""Hg",6 mi
+Brussels,January,Belgium,43 °F,35 °F,39 °F,"2.55""",85%,35 °F,19 mph,"30.05 ""Hg",7 mi
+Brussels,February,Belgium,45 °F,35 °F,40 °F,"2.25""",82%,35 °F,18 mph,"30.05 ""Hg",7 mi
+Brussels,March,Belgium,51 °F,38 °F,45 °F,"2.14""",77%,37 °F,17 mph,"30.04 ""Hg",7 mi
+Brussels,April,Belgium,58 °F,42 °F,50 °F,"1.59""",72%,41 °F,14 mph,"29.98 ""Hg",8 mi
+Brussels,May,Belgium,65 °F,48 °F,56 °F,"2.30""",73%,47 °F,14 mph,"30.00 ""Hg",9 mi
+Brussels,June,Belgium,71 °F,53 °F,62 °F,"2.37""",74%,53 °F,13 mph,"30.04 ""Hg",9 mi
+Brussels,July,Belgium,74 °F,57 °F,65 °F,"2.82""",74%,56 °F,13 mph,"30.01 ""Hg",9 mi
+Brussels,August,Belgium,73 °F,56 °F,65 °F,"3.05""",75%,56 °F,13 mph,"30.00 ""Hg",9 mi
+Brussels,September,Belgium,67 °F,52 °F,59 °F,"2.00""",79%,52 °F,13 mph,"30.04 ""Hg",8 mi
+Brussels,October,Belgium,59 °F,46 °F,53 °F,"2.40""",83%,47 °F,15 mph,"30.00 ""Hg",8 mi
+Brussels,November,Belgium,50 °F,40 °F,45 °F,"2.38""",86%,41 °F,16 mph,"29.98 ""Hg",7 mi
+Brussels,December,Belgium,44 °F,36 °F,40 °F,"3.06""",87%,36 °F,18 mph,"30.02 ""Hg",7 mi
+La Paz,January,Bolivia,59 °F,40 °F,49 °F,"5.68""",77%,40 °F,13 mph,"30.30 ""Hg",6 mi
+La Paz,February,Bolivia,59 °F,40 °F,49 °F,"4.22""",78%,40 °F,13 mph,"30.31 ""Hg",6 mi
+La Paz,March,Bolivia,59 °F,38 °F,49 °F,"3.58""",76%,39 °F,12 mph,"30.32 ""Hg",7 mi
+La Paz,April,Bolivia,60 °F,35 °F,47 °F,"1.63""",69%,35 °F,12 mph,"30.36 ""Hg",7 mi
+La Paz,May,Bolivia,60 °F,28 °F,44 °F,"0.52""",53%,25 °F,12 mph,"30.40 ""Hg",9 mi
+La Paz,June,Bolivia,58 °F,25 °F,42 °F,"0.25""",48%,20 °F,12 mph,"30.41 ""Hg",9 mi
+La Paz,July,Bolivia,58 °F,25 °F,41 °F,"0.34""",48%,20 °F,13 mph,"30.41 ""Hg",9 mi
+La Paz,August,Bolivia,60 °F,26 °F,43 °F,"0.95""",51%,23 °F,13 mph,"30.40 ""Hg",8 mi
+La Paz,September,Bolivia,61 °F,31 °F,46 °F,"1.16""",59%,29 °F,14 mph,"30.37 ""Hg",7 mi
+La Paz,October,Bolivia,62 °F,35 °F,48 °F,"2.02""",62%,33 °F,14 mph,"30.33 ""Hg",8 mi
+La Paz,November,Bolivia,63 °F,37 °F,50 °F,"2.08""",62%,34 °F,14 mph,"30.28 ""Hg",8 mi
+La Paz,December,Bolivia,61 °F,39 °F,50 °F,"3.94""",70%,38 °F,14 mph,"30.28 ""Hg",7 mi
+Sofia,January,Bulgaria,39 °F,23 °F,31 °F,"1.54""",85%,26 °F,10 mph,"30.16 ""Hg",4 mi
+Sofia,February,Bulgaria,46 °F,26 °F,36 °F,"1.36""",78%,28 °F,12 mph,"30.10 ""Hg",5 mi
+Sofia,March,Bulgaria,54 °F,32 °F,43 °F,"1.89""",70%,31 °F,13 mph,"30.03 ""Hg",6 mi
+Sofia,April,Bulgaria,63 °F,40 °F,52 °F,"2.65""",66%,39 °F,12 mph,"29.96 ""Hg",7 mi
+Sofia,May,Bulgaria,72 °F,49 °F,60 °F,"2.86""",69%,49 °F,11 mph,"29.96 ""Hg",7 mi
+Sofia,June,Bulgaria,79 °F,55 °F,67 °F,"3.11""",69%,55 °F,10 mph,"29.95 ""Hg",7 mi
+Sofia,July,Bulgaria,84 °F,59 °F,71 °F,"2.71""",63%,56 °F,11 mph,"29.93 ""Hg",7 mi
+Sofia,August,Bulgaria,85 °F,58 °F,72 °F,"2.16""",61%,55 °F,10 mph,"29.96 ""Hg",7 mi
+Sofia,September,Bulgaria,76 °F,51 °F,63 °F,"2.59""",67%,50 °F,10 mph,"30.02 ""Hg",7 mi
+Sofia,October,Bulgaria,65 °F,42 °F,54 °F,"2.36""",76%,44 °F,10 mph,"30.11 ""Hg",6 mi
+Sofia,November,Bulgaria,53 °F,34 °F,43 °F,"1.48""",82%,37 °F,10 mph,"30.13 ""Hg",5 mi
+Sofia,December,Bulgaria,41 °F,26 °F,34 °F,"1.71""",86%,29 °F,10 mph,"30.17 ""Hg",4 mi
+Bucharest,January,Romania,37 °F,23 °F,30 °F,"2.16""",88%,27 °F,10 mph,"30.13 ""Hg",4 mi
+Bucharest,February,Romania,44 °F,26 °F,35 °F,"1.33""",81%,29 °F,11 mph,"30.09 ""Hg",5 mi
+Bucharest,March,Romania,54 °F,32 °F,43 °F,"1.94""",71%,33 °F,12 mph,"30.02 ""Hg",6 mi
+Bucharest,April,Romania,65 °F,41 °F,53 °F,"1.85""",67%,41 °F,11 mph,"29.96 ""Hg",6 mi
+Bucharest,May,Romania,76 °F,50 °F,63 °F,"2.53""",68%,51 °F,10 mph,"29.95 ""Hg",6 mi
+Bucharest,June,Romania,83 °F,57 °F,70 °F,"3.20""",68%,58 °F,9 mph,"29.93 ""Hg",7 mi
+Bucharest,July,Romania,87 °F,60 °F,74 °F,"2.42""",64%,60 °F,8 mph,"29.91 ""Hg",7 mi
+Bucharest,August,Romania,87 °F,59 °F,73 °F,"1.88""",62%,58 °F,8 mph,"29.95 ""Hg",7 mi
+Bucharest,September,Romania,77 °F,51 °F,64 °F,"2.39""",68%,52 °F,8 mph,"30.02 ""Hg",6 mi
+Bucharest,October,Romania,64 °F,42 °F,53 °F,"2.29""",79%,46 °F,8 mph,"30.11 ""Hg",6 mi
+Bucharest,November,Romania,51 °F,34 °F,43 °F,"1.55""",85%,38 °F,9 mph,"30.12 ""Hg",5 mi
+Bucharest,December,Romania,40 °F,27 °F,33 °F,"1.82""",89%,30 °F,10 mph,"30.14 ""Hg",4 mi
+Lagos,January,Nigeria,93 °F,74 °F,83 °F,"2.41""",74%,73 °F,8 mph,"29.87 ""Hg",4 mi
+Lagos,February,Nigeria,93 °F,77 °F,85 °F,"1.90""",78%,76 °F,10 mph,"29.84 ""Hg",5 mi
+Lagos,March,Nigeria,92 °F,78 °F,85 °F,"3.17""",80%,77 °F,11 mph,"29.84 ""Hg",6 mi
+Lagos,April,Nigeria,92 °F,77 °F,84 °F,"3.53""",81%,77 °F,10 mph,"29.85 ""Hg",6 mi
+Lagos,May,Nigeria,90 °F,76 °F,83 °F,"7.27""",83%,77 °F,8 mph,"29.88 ""Hg",6 mi
+Lagos,June,Nigeria,86 °F,74 °F,80 °F,"7.81""",87%,75 °F,8 mph,"29.93 ""Hg",5 mi
+Lagos,July,Nigeria,84 °F,74 °F,79 °F,"7.43""",87%,74 °F,10 mph,"29.95 ""Hg",6 mi
+Lagos,August,Nigeria,84 °F,74 °F,79 °F,"2.93""",86%,73 °F,12 mph,"29.94 ""Hg",6 mi
+Lagos,September,Nigeria,85 °F,74 °F,80 °F,"5.92""",87%,75 °F,11 mph,"29.92 ""Hg",6 mi
+Lagos,October,Nigeria,87 °F,75 °F,81 °F,"7.52""",87%,76 °F,9 mph,"29.88 ""Hg",6 mi
+Lagos,November,Nigeria,90 °F,76 °F,83 °F,"6.40""",84%,77 °F,8 mph,"29.85 ""Hg",5 mi
+Lagos,December,Nigeria,92 °F,75 °F,84 °F,"1.16""",78%,74 °F,8 mph,"29.87 ""Hg",4 mi
+St. John's,January,Canada,32 °F,19 °F,25 °F,"5.90""",84%,21 °F,29 mph,"29.79 ""Hg",10 mi
+St. John's,February,Canada,31 °F,18 °F,25 °F,"4.91""",82%,20 °F,30 mph,"29.81 ""Hg",10 mi
+St. John's,March,Canada,34 °F,22 °F,28 °F,"5.24""",82%,23 °F,28 mph,"29.87 ""Hg",10 mi
+St. John's,April,Canada,42 °F,29 °F,35 °F,"4.71""",83%,29 °F,25 mph,"29.92 ""Hg",10 mi
+St. John's,May,Canada,52 °F,35 °F,43 °F,"3.81""",82%,36 °F,23 mph,"29.98 ""Hg",10 mi
+St. John's,June,Canada,61 °F,43 °F,52 °F,"3.61""",82%,45 °F,22 mph,"29.95 ""Hg",11 mi
+St. John's,July,Canada,70 °F,52 °F,61 °F,"4.01""",82%,54 °F,22 mph,"29.97 ""Hg",11 mi
+St. John's,August,Canada,70 °F,54 °F,62 °F,"3.88""",83%,56 °F,22 mph,"29.98 ""Hg",12 mi
+St. John's,September,Canada,63 °F,47 °F,55 °F,"4.75""",84%,50 °F,23 mph,"30.00 ""Hg",12 mi
+St. John's,October,Canada,52 °F,40 °F,46 °F,"6.02""",85%,41 °F,24 mph,"29.95 ""Hg",12 mi
+St. John's,November,Canada,44 °F,32 °F,38 °F,"6.04""",84%,33 °F,27 mph,"29.95 ""Hg",11 mi
+St. John's,December,Canada,36 °F,25 °F,31 °F,"6.66""",85%,26 °F,29 mph,"29.83 ""Hg",10 mi
+Budapest,January,Hungary,37 °F,26 °F,32 °F,"1.39""",88%,28 °F,12 mph,"30.12 ""Hg",4 mi
+Budapest,February,Hungary,43 °F,29 °F,36 °F,"1.38""",82%,29 °F,13 mph,"30.08 ""Hg",5 mi
+Budapest,March,Hungary,52 °F,35 °F,44 °F,"1.52""",71%,33 °F,15 mph,"30.03 ""Hg",6 mi
+Budapest,April,Hungary,64 °F,44 °F,54 °F,"1.72""",65%,40 °F,15 mph,"29.94 ""Hg",6 mi
+Budapest,May,Hungary,72 °F,52 °F,62 °F,"3.00""",68%,50 °F,13 mph,"29.96 ""Hg",6 mi
+Budapest,June,Hungary,79 °F,59 °F,69 °F,"3.12""",68%,56 °F,13 mph,"29.97 ""Hg",6 mi
+Budapest,July,Hungary,83 °F,62 °F,72 °F,"3.32""",66%,58 °F,13 mph,"29.95 ""Hg",6 mi
+Budapest,August,Hungary,83 °F,61 °F,72 °F,"2.43""",67%,58 °F,11 mph,"29.98 ""Hg",6 mi
+Budapest,September,Hungary,72 °F,53 °F,63 °F,"3.24""",72%,51 °F,12 mph,"30.03 ""Hg",6 mi
+Budapest,October,Hungary,61 °F,44 °F,53 °F,"2.12""",80%,45 °F,11 mph,"30.09 ""Hg",5 mi
+Budapest,November,Hungary,49 °F,36 °F,42 °F,"1.82""",86%,38 °F,12 mph,"30.08 ""Hg",5 mi
+Budapest,December,Hungary,38 °F,28 °F,33 °F,"1.70""",89%,30 °F,11 mph,"30.12 ""Hg",4 mi
+Lahore,January,Pakistan,65 °F,44 °F,55 °F,"1.59""",71%,43 °F,6 mph,"30.05 ""Hg",2 mi
+Lahore,February,Pakistan,72 °F,51 °F,61 °F,"1.58""",64%,47 °F,8 mph,"29.98 ""Hg",3 mi
+Lahore,March,Pakistan,82 °F,59 °F,71 °F,"2.47""",57%,52 °F,9 mph,"29.89 ""Hg",3 mi
+Lahore,April,Pakistan,94 °F,69 °F,82 °F,"1.49""",44%,55 °F,10 mph,"29.76 ""Hg",4 mi
+Lahore,May,Pakistan,103 °F,78 °F,90 °F,"1.88""",37%,59 °F,12 mph,"29.60 ""Hg",3 mi
+Lahore,June,Pakistan,102 °F,81 °F,91 °F,"3.94""",49%,68 °F,13 mph,"29.49 ""Hg",3 mi
+Lahore,July,Pakistan,96 °F,80 °F,88 °F,"11.56""",70%,76 °F,12 mph,"29.48 ""Hg",3 mi
+Lahore,August,Pakistan,94 °F,80 °F,87 °F,"8.07""",74%,77 °F,9 mph,"29.55 ""Hg",3 mi
+Lahore,September,Pakistan,94 °F,77 °F,85 °F,"5.28""",70%,72 °F,7 mph,"29.68 ""Hg",3 mi
+Lahore,October,Pakistan,90 °F,68 °F,79 °F,"0.92""",61%,61 °F,5 mph,"29.85 ""Hg",3 mi
+Lahore,November,Pakistan,80 °F,56 °F,68 °F,"0.91""",62%,51 °F,4 mph,"29.98 ""Hg",2 mi
+Lahore,December,Pakistan,70 °F,47 °F,58 °F,"0.87""",68%,45 °F,4 mph,"30.05 ""Hg",2 mi
+Stockholm,January,Sweden,34 °F,26 °F,30 °F,"1.33""",86%,26 °F,14 mph,"29.84 ""Hg",8 mi
+Stockholm,February,Sweden,35 °F,25 °F,30 °F,"1.09""",83%,25 °F,14 mph,"29.87 ""Hg",8 mi
+Stockholm,March,Sweden,41 °F,29 °F,35 °F,"0.94""",75%,27 °F,14 mph,"29.89 ""Hg",8 mi
+Stockholm,April,Sweden,51 °F,34 °F,43 °F,"1.04""",65%,31 °F,14 mph,"29.93 ""Hg",9 mi
+Stockholm,May,Sweden,62 °F,43 °F,52 °F,"1.18""",63%,39 °F,14 mph,"29.96 ""Hg",10 mi
+Stockholm,June,Sweden,69 °F,51 °F,60 °F,"1.92""",64%,47 °F,14 mph,"29.90 ""Hg",10 mi
+Stockholm,July,Sweden,74 °F,57 °F,65 °F,"2.09""",68%,53 °F,13 mph,"29.87 ""Hg",10 mi
+Stockholm,August,Sweden,71 °F,55 °F,63 °F,"2.26""",73%,54 °F,12 mph,"29.90 ""Hg",10 mi
+Stockholm,September,Sweden,62 °F,48 °F,55 °F,"1.72""",78%,48 °F,13 mph,"29.95 ""Hg",9 mi
+Stockholm,October,Sweden,51 °F,40 °F,45 °F,"1.83""",83%,40 °F,13 mph,"29.91 ""Hg",9 mi
+Stockholm,November,Sweden,42 °F,34 °F,38 °F,"1.64""",87%,34 °F,14 mph,"29.87 ""Hg",8 mi
+Stockholm,December,Sweden,36 °F,29 °F,33 °F,"1.77""",88%,29 °F,14 mph,"29.83 ""Hg",8 mi
+Buenos Aires,January,Argentina,85 °F,69 °F,77 °F,"4.53""",67%,64 °F,19 mph,"29.88 ""Hg",6 mi
+Buenos Aires,February,Argentina,83 °F,68 °F,75 °F,"4.90""",70%,64 °F,18 mph,"29.91 ""Hg",6 mi
+Buenos Aires,March,Argentina,79 °F,66 °F,72 °F,"4.49""",72%,62 °F,17 mph,"29.96 ""Hg",6 mi
+Buenos Aires,April,Argentina,73 °F,59 °F,66 °F,"4.52""",74%,56 °F,16 mph,"30.00 ""Hg",6 mi
+Buenos Aires,May,Argentina,66 °F,54 °F,60 °F,"3.64""",76%,51 °F,15 mph,"30.07 ""Hg",6 mi
+Buenos Aires,June,Argentina,61 °F,48 °F,55 °F,"2.17""",77%,46 °F,14 mph,"30.06 ""Hg",6 mi
+Buenos Aires,July,Argentina,59 °F,46 °F,53 °F,"2.66""",76%,44 °F,15 mph,"30.10 ""Hg",6 mi
+Buenos Aires,August,Argentina,63 °F,49 °F,56 °F,"2.62""",74%,46 °F,16 mph,"30.09 ""Hg",6 mi
+Buenos Aires,September,Argentina,66 °F,52 °F,59 °F,"3.01""",72%,49 °F,19 mph,"30.07 ""Hg",6 mi
+Buenos Aires,October,Argentina,72 °F,57 °F,65 °F,"4.39""",71%,54 °F,19 mph,"29.99 ""Hg",6 mi
+Buenos Aires,November,Argentina,78 °F,62 °F,70 °F,"3.81""",67%,57 °F,20 mph,"29.93 ""Hg",6 mi
+Buenos Aires,December,Argentina,83 °F,66 °F,75 °F,"3.67""",65%,61 °F,19 mph,"29.88 ""Hg",6 mi
+Las Vegas,January,USA,59 °F,40 °F,49 °F,"0.58""",41%,25 °F,8 mph,"30.11 ""Hg",11 mi
+Las Vegas,February,USA,63 °F,43 °F,53 °F,"0.83""",38%,26 °F,10 mph,"30.02 ""Hg",11 mi
+Las Vegas,March,USA,72 °F,50 °F,61 °F,"0.42""",29%,27 °F,12 mph,"29.94 ""Hg",12 mi
+Las Vegas,April,USA,79 °F,56 °F,68 °F,"0.21""",22%,26 °F,15 mph,"29.85 ""Hg",12 mi
+Las Vegas,May,USA,89 °F,66 °F,77 °F,"0.08""",19%,30 °F,15 mph,"29.78 ""Hg",12 mi
+Las Vegas,June,USA,100 °F,76 °F,88 °F,"0.05""",14%,31 °F,15 mph,"29.73 ""Hg",12 mi
+Las Vegas,July,USA,105 °F,81 °F,93 °F,"0.40""",19%,44 °F,13 mph,"29.77 ""Hg",12 mi
+Las Vegas,August,USA,103 °F,80 °F,92 °F,"0.32""",20%,44 °F,12 mph,"29.78 ""Hg",12 mi
+Las Vegas,September,USA,95 °F,72 °F,84 °F,"0.33""",21%,38 °F,10 mph,"29.82 ""Hg",11 mi
+Las Vegas,October,USA,82 °F,59 °F,70 °F,"0.33""",25%,31 °F,9 mph,"29.92 ""Hg",11 mi
+Las Vegas,November,USA,68 °F,47 °F,57 °F,"0.29""",31%,26 °F,8 mph,"30.04 ""Hg",11 mi
+Las Vegas,December,USA,57 °F,39 °F,48 °F,"0.47""",40%,23 °F,9 mph,"30.10 ""Hg",11 mi
+Suva,January,Fiji,87 °F,74 °F,81 °F,"12.71""",85%,75 °F,9 mph,"29.77 ""Hg",20 mi
+Suva,February,Fiji,88 °F,74 °F,81 °F,"11.27""",86%,75 °F,8 mph,"29.78 ""Hg",20 mi
+Suva,March,Fiji,87 °F,74 °F,81 °F,"13.46""",87%,75 °F,7 mph,"29.81 ""Hg",19 mi
+Suva,April,Fiji,85 °F,73 °F,79 °F,"11.71""",86%,74 °F,8 mph,"29.86 ""Hg",19 mi
+Suva,May,Fiji,83 °F,71 °F,77 °F,"8.72""",86%,71 °F,8 mph,"29.91 ""Hg",18 mi
+Suva,June,Fiji,81 °F,69 °F,75 °F,"6.45""",85%,70 °F,8 mph,"29.95 ""Hg",18 mi
+Suva,July,Fiji,80 °F,68 °F,74 °F,"5.32""",84%,68 °F,9 mph,"29.96 ""Hg",18 mi
+Suva,August,Fiji,79 °F,68 °F,73 °F,"4.94""",83%,68 °F,10 mph,"29.97 ""Hg",18 mi
+Suva,September,Fiji,80 °F,69 °F,75 °F,"6.53""",83%,69 °F,11 mph,"29.97 ""Hg",18 mi
+Suva,October,Fiji,82 °F,70 °F,76 °F,"9.44""",83%,70 °F,11 mph,"29.93 ""Hg",19 mi
+Suva,November,Fiji,84 °F,72 °F,78 °F,"9.05""",84%,72 °F,10 mph,"29.87 ""Hg",20 mi
+Suva,December,Fiji,86 °F,74 °F,80 °F,"13.08""",84%,74 °F,10 mph,"29.81 ""Hg",20 mi
+Cairo,January,Egypt,66 °F,50 °F,58 °F,"0.16""",61%,43 °F,14 mph,"30.09 ""Hg",5 mi
+Cairo,February,Egypt,69 °F,52 °F,60 °F,"0.18""",57%,43 °F,15 mph,"30.06 ""Hg",5 mi
+Cairo,March,Egypt,75 °F,56 °F,65 °F,"0.34""",54%,45 °F,17 mph,"30.00 ""Hg",5 mi
+Cairo,April,Egypt,82 °F,60 °F,71 °F,"0.07""",49%,48 °F,18 mph,"29.94 ""Hg",6 mi
+Cairo,May,Egypt,90 °F,67 °F,78 °F,"0.07""",47%,54 °F,17 mph,"29.89 ""Hg",6 mi
+Cairo,June,Egypt,94 °F,72 °F,83 °F,"0.00""",51%,60 °F,17 mph,"29.84 ""Hg",6 mi
+Cairo,July,Egypt,95 °F,75 °F,85 °F,"0.00""",58%,66 °F,15 mph,"29.77 ""Hg",6 mi
+Cairo,August,Egypt,95 °F,76 °F,86 °F,"0.07""",60%,68 °F,14 mph,"29.79 ""Hg",5 mi
+Cairo,September,Egypt,92 °F,73 °F,83 °F,"0.00""",59%,64 °F,15 mph,"29.89 ""Hg",6 mi
+Cairo,October,Egypt,86 °F,68 °F,77 °F,"0.09""",61%,60 °F,14 mph,"29.97 ""Hg",5 mi
+Cairo,November,Egypt,77 °F,60 °F,69 °F,"0.28""",62%,54 °F,12 mph,"30.03 ""Hg",5 mi
+Cairo,December,Egypt,69 °F,53 °F,61 °F,"0.24""",63%,47 °F,13 mph,"30.10 ""Hg",5 mi
+Lima,January,Peru,80 °F,68 °F,74 °F,"0.53""",80%,66 °F,16 mph,"29.89 ""Hg",6 mi
+Lima,February,Peru,82 °F,69 °F,76 °F,"0.16""",79%,67 °F,15 mph,"29.86 ""Hg",6 mi
+Lima,March,Peru,81 °F,69 °F,75 °F,"0.31""",79%,66 °F,14 mph,"29.86 ""Hg",6 mi
+Lima,April,Peru,77 °F,65 °F,71 °F,"0.04""",82%,64 °F,13 mph,"29.89 ""Hg",5 mi
+Lima,May,Peru,72 °F,63 °F,68 °F,"0.03""",83%,61 °F,12 mph,"29.93 ""Hg",5 mi
+Lima,June,Peru,69 °F,61 °F,65 °F,"0.06""",83%,59 °F,11 mph,"29.96 ""Hg",5 mi
+Lima,July,Peru,67 °F,60 °F,64 °F,"0.06""",83%,57 °F,12 mph,"29.97 ""Hg",5 mi
+Lima,August,Peru,66 °F,59 °F,63 °F,"0.04""",83%,56 °F,12 mph,"29.98 ""Hg",5 mi
+Lima,September,Peru,67 °F,59 °F,63 °F,"0.04""",83%,57 °F,13 mph,"29.97 ""Hg",5 mi
+Lima,October,Peru,69 °F,60 °F,65 °F,"0.09""",82%,58 °F,14 mph,"29.96 ""Hg",6 mi
+Lima,November,Peru,72 °F,62 °F,67 °F,"0.11""",81%,60 °F,15 mph,"29.94 ""Hg",6 mi
+Lima,December,Peru,76 °F,65 °F,70 °F,"0.14""",81%,63 °F,16 mph,"29.91 ""Hg",6 mi
+Sydney,January,Australia,81 °F,68 °F,75 °F,"3.19""",71%,63 °F,24 mph,"29.93 ""Hg",8 mi
+Sydney,February,Australia,80 °F,68 °F,74 °F,"4.79""",73%,64 °F,23 mph,"29.96 ""Hg",8 mi
+Sydney,March,Australia,78 °F,65 °F,72 °F,"4.21""",72%,61 °F,22 mph,"30.04 ""Hg",8 mi
+Sydney,April,Australia,74 °F,59 °F,67 °F,"3.77""",71%,56 °F,19 mph,"30.12 ""Hg",8 mi
+Sydney,May,Australia,69 °F,54 °F,61 °F,"3.53""",69%,50 °F,19 mph,"30.13 ""Hg",9 mi
+Sydney,June,Australia,65 °F,49 °F,57 °F,"4.48""",70%,46 °F,19 mph,"30.14 ""Hg",9 mi
+Sydney,July,Australia,64 °F,47 °F,56 °F,"2.72""",65%,43 °F,19 mph,"30.12 ""Hg",9 mi
+Sydney,August,Australia,66 °F,49 °F,58 °F,"2.60""",60%,42 °F,21 mph,"30.10 ""Hg",9 mi
+Sydney,September,Australia,71 °F,53 °F,62 °F,"2.32""",61%,47 °F,22 mph,"30.04 ""Hg",9 mi
+Sydney,October,Australia,74 °F,58 °F,66 °F,"2.27""",64%,51 °F,23 mph,"30.02 ""Hg",9 mi
+Sydney,November,Australia,76 °F,62 °F,69 °F,"2.94""",68%,56 °F,24 mph,"29.97 ""Hg",8 mi
+Sydney,December,Australia,79 °F,65 °F,72 °F,"2.48""",69%,60 °F,25 mph,"29.92 ""Hg",8 mi
+Calgary,January,Canada,31 °F,9 °F,20 °F,"0.36""",64%,10 °F,15 mph,"30.05 ""Hg",19 mi
+Calgary,February,Canada,32 °F,11 °F,21 °F,"0.45""",65%,11 °F,15 mph,"30.06 ""Hg",19 mi
+Calgary,March,Canada,40 °F,19 °F,30 °F,"0.67""",63%,17 °F,16 mph,"30.02 ""Hg",19 mi
+Calgary,April,Canada,52 °F,28 °F,40 °F,"1.07""",58%,24 °F,17 mph,"29.99 ""Hg",22 mi
+Calgary,May,Canada,62 °F,38 °F,50 °F,"2.24""",57%,33 °F,18 mph,"29.99 ""Hg",24 mi
+Calgary,June,Canada,68 °F,46 °F,57 °F,"3.88""",63%,43 °F,17 mph,"29.94 ""Hg",25 mi
+Calgary,July,Canada,75 °F,50 °F,62 °F,"2.42""",63%,49 °F,16 mph,"29.99 ""Hg",24 mi
+Calgary,August,Canada,74 °F,48 °F,61 °F,"1.99""",61%,46 °F,15 mph,"30.00 ""Hg",21 mi
+Calgary,September,Canada,65 °F,40 °F,53 °F,"1.30""",60%,38 °F,15 mph,"30.01 ""Hg",23 mi
+Calgary,October,Canada,53 °F,30 °F,42 °F,"0.66""",61%,27 °F,16 mph,"30.02 ""Hg",22 mi
+Calgary,November,Canada,40 °F,19 °F,29 °F,"0.58""",65%,18 °F,15 mph,"30.01 ""Hg",19 mi
+Calgary,December,Canada,31 °F,10 °F,21 °F,"0.50""",66%,10 °F,15 mph,"30.03 ""Hg",19 mi
+Lisbon,January,Portugal,58 °F,47 °F,53 °F,"2.74""",84%,47 °F,14 mph,"30.20 ""Hg",6 mi
+Lisbon,February,Portugal,60 °F,48 °F,54 °F,"1.96""",80%,47 °F,15 mph,"30.18 ""Hg",6 mi
+Lisbon,March,Portugal,65 °F,51 °F,58 °F,"1.82""",74%,48 °F,16 mph,"30.09 ""Hg",6 mi
+Lisbon,April,Portugal,67 °F,54 °F,60 °F,"1.96""",74%,50 °F,17 mph,"30.00 ""Hg",6 mi
+Lisbon,May,Portugal,72 °F,57 °F,65 °F,"1.56""",70%,53 °F,18 mph,"30.02 ""Hg",6 mi
+Lisbon,June,Portugal,78 °F,62 °F,70 °F,"0.37""",67%,56 °F,19 mph,"30.04 ""Hg",6 mi
+Lisbon,July,Portugal,82 °F,64 °F,73 °F,"0.09""",65%,58 °F,21 mph,"30.04 ""Hg",6 mi
+Lisbon,August,Portugal,83 °F,65 °F,74 °F,"0.34""",65%,59 °F,20 mph,"30.02 ""Hg",6 mi
+Lisbon,September,Portugal,80 °F,63 °F,71 °F,"1.04""",69%,58 °F,16 mph,"30.03 ""Hg",6 mi
+Lisbon,October,Portugal,73 °F,59 °F,66 °F,"2.74""",76%,57 °F,15 mph,"30.03 ""Hg",6 mi
+Lisbon,November,Portugal,64 °F,53 °F,58 °F,"3.05""",82%,52 °F,14 mph,"30.09 ""Hg",6 mi
+Lisbon,December,Portugal,59 °F,49 °F,54 °F,"3.37""",85%,49 °F,14 mph,"30.18 ""Hg",6 mi
+Taipei,January,Taiwan,67 °F,57 °F,62 °F,"2.24""",78%,55 °F,15 mph,"30.15 ""Hg",6 mi
+Taipei,February,Taiwan,69 °F,58 °F,63 °F,"2.70""",79%,56 °F,14 mph,"30.11 ""Hg",5 mi
+Taipei,March,Taiwan,73 °F,61 °F,67 °F,"1.99""",78%,59 °F,14 mph,"30.04 ""Hg",5 mi
+Taipei,April,Taiwan,79 °F,67 °F,73 °F,"2.21""",78%,64 °F,14 mph,"29.94 ""Hg",5 mi
+Taipei,May,Taiwan,85 °F,73 °F,79 °F,"2.94""",77%,70 °F,13 mph,"29.82 ""Hg",6 mi
+Taipei,June,Taiwan,90 °F,78 °F,84 °F,"3.25""",76%,75 °F,11 mph,"29.73 ""Hg",6 mi
+Taipei,July,Taiwan,94 °F,80 °F,87 °F,"3.42""",72%,76 °F,12 mph,"29.71 ""Hg",6 mi
+Taipei,August,Taiwan,93 °F,80 °F,86 °F,"5.51""",74%,76 °F,12 mph,"29.71 ""Hg",6 mi
+Taipei,September,Taiwan,89 °F,77 °F,83 °F,"4.92""",75%,73 °F,15 mph,"29.81 ""Hg",6 mi
+Taipei,October,Taiwan,82 °F,72 °F,77 °F,"3.43""",75%,68 °F,17 mph,"29.97 ""Hg",6 mi
+Taipei,November,Taiwan,77 °F,67 °F,72 °F,"2.73""",78%,64 °F,17 mph,"30.06 ""Hg",6 mi
+Taipei,December,Taiwan,70 °F,61 °F,65 °F,"2.86""",77%,57 °F,16 mph,"30.15 ""Hg",6 mi
+Canberra,January,Australia,85 °F,57 °F,71 °F,"2.23""",59%,52 °F,15 mph,"29.91 ""Hg",11 mi
+Canberra,February,Australia,82 °F,56 °F,69 °F,"2.44""",64%,53 °F,14 mph,"29.96 ""Hg",11 mi
+Canberra,March,Australia,77 °F,52 °F,64 °F,"1.82""",66%,50 °F,12 mph,"30.04 ""Hg",11 mi
+Canberra,April,Australia,70 °F,44 °F,57 °F,"1.16""",70%,45 °F,11 mph,"30.14 ""Hg",11 mi
+Canberra,May,Australia,62 °F,37 °F,49 °F,"1.16""",75%,40 °F,11 mph,"30.17 ""Hg",10 mi
+Canberra,June,Australia,56 °F,34 °F,45 °F,"1.90""",80%,38 °F,12 mph,"30.19 ""Hg",10 mi
+Canberra,July,Australia,54 °F,32 °F,43 °F,"1.48""",79%,36 °F,13 mph,"30.16 ""Hg",10 mi
+Canberra,August,Australia,57 °F,33 °F,45 °F,"1.71""",73%,35 °F,15 mph,"30.13 ""Hg",11 mi
+Canberra,September,Australia,63 °F,38 °F,51 °F,"2.16""",68%,39 °F,16 mph,"30.06 ""Hg",11 mi
+Canberra,October,Australia,69 °F,43 °F,56 °F,"1.94""",65%,43 °F,15 mph,"30.03 ""Hg",11 mi
+Canberra,November,Australia,75 °F,49 °F,62 °F,"2.73""",63%,47 °F,15 mph,"29.96 ""Hg",11 mi
+Canberra,December,Australia,81 °F,54 °F,67 °F,"2.40""",59%,49 °F,15 mph,"29.90 ""Hg",10 mi
+London,January,UK,47 °F,35 °F,41 °F,"2.42""",84%,37 °F,17 mph,"29.96 ""Hg",6 mi
+London,February,UK,48 °F,35 °F,42 °F,"1.90""",78%,35 °F,19 mph,"29.98 ""Hg",6 mi
+London,March,UK,53 °F,38 °F,45 °F,"1.55""",73%,37 °F,18 mph,"30.01 ""Hg",6 mi
+London,April,UK,58 °F,40 °F,49 °F,"1.43""",67%,39 °F,16 mph,"29.99 ""Hg",7 mi
+London,May,UK,64 °F,46 °F,55 °F,"1.60""",68%,45 °F,16 mph,"29.99 ""Hg",7 mi
+London,June,UK,70 °F,53 °F,61 °F,"1.81""",69%,51 °F,17 mph,"30.01 ""Hg",7 mi
+London,July,UK,75 °F,57 °F,66 °F,"1.62""",67%,54 °F,15 mph,"30.00 ""Hg",7 mi
+London,August,UK,73 °F,55 °F,64 °F,"2.29""",71%,54 °F,15 mph,"29.99 ""Hg",7 mi
+London,September,UK,68 °F,50 °F,59 °F,"1.75""",75%,51 °F,14 mph,"30.04 ""Hg",7 mi
+London,October,UK,60 °F,46 °F,53 °F,"2.95""",82%,48 °F,16 mph,"29.96 ""Hg",6 mi
+London,November,UK,52 °F,39 °F,46 °F,"2.50""",85%,42 °F,15 mph,"29.92 ""Hg",6 mi
+London,December,UK,50 °F,38 °F,44 °F,"2.73""",85%,40 °F,17 mph,"29.97 ""Hg",6 mi
+Tallinn,January,Estonia,31 °F,21 °F,26 °F,"2.76""",90%,23 °F,17 mph,"29.85 ""Hg",6 mi
+Tallinn,February,Estonia,33 °F,22 °F,28 °F,"3.49""",88%,25 °F,17 mph,"29.91 ""Hg",6 mi
+Tallinn,March,Estonia,40 °F,25 °F,32 °F,"3.23""",78%,26 °F,18 mph,"29.90 ""Hg",7 mi
+Tallinn,April,Estonia,50 °F,32 °F,41 °F,"1.66""",70%,31 °F,18 mph,"29.90 ""Hg",9 mi
+Tallinn,May,Estonia,63 °F,40 °F,52 °F,"1.52""",66%,40 °F,16 mph,"29.96 ""Hg",8 mi
+Tallinn,June,Estonia,70 °F,49 °F,59 °F,"2.73""",70%,50 °F,17 mph,"29.91 ""Hg",7 mi
+Tallinn,July,Estonia,73 °F,55 °F,64 °F,"2.35""",73%,55 °F,16 mph,"29.88 ""Hg",7 mi
+Tallinn,August,Estonia,71 °F,53 °F,62 °F,"4.11""",77%,55 °F,15 mph,"29.94 ""Hg",7 mi
+Tallinn,September,Estonia,63 °F,47 °F,55 °F,"2.36""",82%,49 °F,16 mph,"29.96 ""Hg",6 mi
+Tallinn,October,Estonia,51 °F,38 °F,44 °F,"3.20""",85%,40 °F,17 mph,"29.96 ""Hg",6 mi
+Tallinn,November,Estonia,42 °F,33 °F,38 °F,"2.64""",90%,35 °F,18 mph,"29.90 ""Hg",6 mi
+Tallinn,December,Estonia,36 °F,27 °F,31 °F,"2.25""",89%,29 °F,19 mph,"29.83 ""Hg",6 mi
+Cape Town,January,South Africa,82 °F,62 °F,72 °F,"0.47""",67%,58 °F,27 mph,"29.92 ""Hg",10 mi
+Cape Town,February,South Africa,83 °F,62 °F,72 °F,"0.48""",68%,59 °F,25 mph,"29.92 ""Hg",10 mi
+Cape Town,March,South Africa,80 °F,59 °F,70 °F,"0.75""",71%,57 °F,22 mph,"29.96 ""Hg",10 mi
+Cape Town,April,South Africa,76 °F,54 °F,65 °F,"1.83""",74%,54 °F,18 mph,"30.02 ""Hg",9 mi
+Cape Town,May,South Africa,70 °F,50 °F,60 °F,"2.15""",80%,52 °F,16 mph,"30.06 ""Hg",8 mi
+Cape Town,June,South Africa,66 °F,46 °F,56 °F,"3.19""",79%,48 °F,16 mph,"30.13 ""Hg",8 mi
+Cape Town,July,South Africa,65 °F,45 °F,55 °F,"3.10""",78%,47 °F,16 mph,"30.17 ""Hg",9 mi
+Cape Town,August,South Africa,66 °F,46 °F,56 °F,"2.74""",78%,47 °F,17 mph,"30.13 ""Hg",9 mi
+Cape Town,September,South Africa,68 °F,49 °F,59 °F,"1.65""",75%,49 °F,19 mph,"30.09 ""Hg",9 mi
+Cape Town,October,South Africa,74 °F,53 °F,63 °F,"1.21""",70%,51 °F,22 mph,"30.04 ""Hg",10 mi
+Cape Town,November,South Africa,76 °F,56 °F,66 °F,"1.19""",67%,53 °F,24 mph,"29.99 ""Hg",10 mi
+Cape Town,December,South Africa,80 °F,60 °F,70 °F,"0.77""",67%,56 °F,26 mph,"29.94 ""Hg",10 mi
+Los Angeles,January,USA,69 °F,49 °F,59 °F,"3.37""",59%,42 °F,3 mph,"30.08 ""Hg",10 mi
+Los Angeles,February,USA,68 °F,50 °F,59 °F,"3.57""",62%,44 °F,4 mph,"30.05 ""Hg",10 mi
+Los Angeles,March,USA,70 °F,53 °F,62 °F,"2.09""",64%,47 °F,4 mph,"30.02 ""Hg",9 mi
+Los Angeles,April,USA,73 °F,55 °F,64 °F,"0.69""",64%,49 °F,5 mph,"29.98 ""Hg",10 mi
+Los Angeles,May,USA,74 °F,59 °F,66 °F,"0.35""",68%,54 °F,5 mph,"29.94 ""Hg",9 mi
+Los Angeles,June,USA,78 °F,62 °F,70 °F,"0.09""",69%,57 °F,5 mph,"29.90 ""Hg",9 mi
+Los Angeles,July,USA,83 °F,65 °F,74 °F,"0.04""",68%,61 °F,4 mph,"29.92 ""Hg",9 mi
+Los Angeles,August,USA,85 °F,66 °F,75 °F,"0.07""",67%,61 °F,4 mph,"29.90 ""Hg",9 mi
+Los Angeles,September,USA,83 °F,64 °F,74 °F,"0.14""",66%,60 °F,4 mph,"29.88 ""Hg",9 mi
+Los Angeles,October,USA,79 °F,60 °F,70 °F,"0.62""",63%,54 °F,3 mph,"29.94 ""Hg",9 mi
+Los Angeles,November,USA,73 °F,54 °F,63 °F,"0.85""",57%,46 °F,3 mph,"30.03 ""Hg",9 mi
+Los Angeles,December,USA,68 °F,49 °F,58 °F,"2.52""",57%,41 °F,3 mph,"30.08 ""Hg",10 mi
+Tashkent,January,Uzbekistan,45 °F,30 °F,38 °F,"2.26""",74%,28 °F,8 mph,"30.25 ""Hg",5 mi
+Tashkent,February,Uzbekistan,50 °F,33 °F,41 °F,"3.03""",69%,29 °F,9 mph,"30.19 ""Hg",6 mi
+Tashkent,March,Uzbekistan,61 °F,42 °F,51 °F,"2.84""",62%,36 °F,10 mph,"30.08 ""Hg",6 mi
+Tashkent,April,Uzbekistan,72 °F,50 °F,61 °F,"2.58""",57%,44 °F,10 mph,"29.99 ""Hg",7 mi
+Tashkent,May,Uzbekistan,83 °F,58 °F,71 °F,"1.51""",49%,49 °F,10 mph,"29.88 ""Hg",9 mi
+Tashkent,June,Uzbekistan,93 °F,65 °F,79 °F,"0.60""",36%,49 °F,11 mph,"29.71 ""Hg",9 mi
+Tashkent,July,Uzbekistan,97 °F,68 °F,83 °F,"0.13""",33%,50 °F,10 mph,"29.64 ""Hg",8 mi
+Tashkent,August,Uzbekistan,95 °F,65 °F,80 °F,"0.12""",35%,49 °F,10 mph,"29.71 ""Hg",7 mi
+Tashkent,September,Uzbekistan,85 °F,56 °F,71 °F,"0.25""",39%,43 °F,9 mph,"29.91 ""Hg",6 mi
+Tashkent,October,Uzbekistan,72 °F,47 °F,59 °F,"1.00""",53%,39 °F,8 mph,"30.13 ""Hg",6 mi
+Tashkent,November,Uzbekistan,58 °F,39 °F,48 °F,"2.13""",67%,35 °F,7 mph,"30.23 ""Hg",5 mi
+Tashkent,December,Uzbekistan,48 °F,32 °F,40 °F,"2.39""",75%,30 °F,7 mph,"30.29 ""Hg",5 mi
+Caracas,January,Venezuela,84 °F,69 °F,76 °F,"1.00""",74%,66 °F,6 mph,"29.92 ""Hg",7 mi
+Caracas,February,Venezuela,84 °F,69 °F,76 °F,"0.52""",73%,66 °F,7 mph,"29.93 ""Hg",7 mi
+Caracas,March,Venezuela,85 °F,70 °F,78 °F,"0.63""",72%,67 °F,7 mph,"29.91 ""Hg",7 mi
+Caracas,April,Venezuela,86 °F,72 °F,79 °F,"1.84""",73%,68 °F,7 mph,"29.89 ""Hg",7 mi
+Caracas,May,Venezuela,87 °F,73 °F,80 °F,"2.94""",74%,70 °F,7 mph,"29.89 ""Hg",7 mi
+Caracas,June,Venezuela,86 °F,73 °F,79 °F,"4.42""",75%,69 °F,7 mph,"29.92 ""Hg",7 mi
+Caracas,July,Venezuela,85 °F,72 °F,79 °F,"4.69""",75%,69 °F,7 mph,"29.93 ""Hg",7 mi
+Caracas,August,Venezuela,86 °F,72 °F,79 °F,"5.29""",75%,69 °F,7 mph,"29.91 ""Hg",7 mi
+Caracas,September,Venezuela,87 °F,73 °F,80 °F,"4.58""",75%,70 °F,6 mph,"29.88 ""Hg",7 mi
+Caracas,October,Venezuela,87 °F,73 °F,80 °F,"4.98""",74%,69 °F,6 mph,"29.85 ""Hg",7 mi
+Caracas,November,Venezuela,85 °F,72 °F,79 °F,"3.90""",77%,70 °F,6 mph,"29.85 ""Hg",7 mi
+Caracas,December,Venezuela,85 °F,71 °F,78 °F,"2.24""",75%,68 °F,6 mph,"29.89 ""Hg",7 mi
+Madrid,January,Spain,51 °F,36 °F,44 °F,"1.28""",71%,34 °F,10 mph,"30.20 ""Hg",6 mi
+Madrid,February,Spain,55 °F,37 °F,46 °F,"1.34""",62%,34 °F,11 mph,"30.17 ""Hg",7 mi
+Madrid,March,Spain,62 °F,42 °F,52 °F,"1.32""",54%,35 °F,13 mph,"30.08 ""Hg",8 mi
+Madrid,April,Spain,66 °F,46 °F,56 °F,"1.70""",53%,39 °F,13 mph,"29.96 ""Hg",8 mi
+Madrid,May,Spain,75 °F,52 °F,63 °F,"1.72""",48%,43 °F,12 mph,"29.97 ""Hg",8 mi
+Madrid,June,Spain,86 °F,61 °F,73 °F,"0.73""",39%,47 °F,12 mph,"29.96 ""Hg",8 mi
+Madrid,July,Spain,93 °F,66 °F,79 °F,"0.34""",34%,48 °F,12 mph,"29.94 ""Hg",9 mi
+Madrid,August,Spain,91 °F,66 °F,78 °F,"0.39""",36%,49 °F,11 mph,"29.94 ""Hg",9 mi
+Madrid,September,Spain,82 °F,59 °F,70 °F,"1.01""",45%,47 °F,10 mph,"30.00 ""Hg",8 mi
+Madrid,October,Spain,70 °F,51 °F,60 °F,"2.44""",59%,45 °F,9 mph,"30.04 ""Hg",7 mi
+Madrid,November,Spain,58 °F,42 °F,50 °F,"2.08""",69%,40 °F,10 mph,"30.09 ""Hg",7 mi
+Madrid,December,Spain,52 °F,37 °F,45 °F,"1.70""",73%,36 °F,9 mph,"30.19 ""Hg",6 mi
+Tegucigalpa,January,Honduras,81 °F,57 °F,69 °F,"0.42""",73%,58 °F,15 mph,"29.97 ""Hg",7 mi
+Tegucigalpa,February,Honduras,84 °F,58 °F,71 °F,"0.20""",67%,57 °F,14 mph,"29.95 ""Hg",7 mi
+Tegucigalpa,March,Honduras,87 °F,59 °F,73 °F,"0.62""",62%,57 °F,14 mph,"29.92 ""Hg",7 mi
+Tegucigalpa,April,Honduras,89 °F,63 °F,76 °F,"1.81""",62%,60 °F,12 mph,"29.88 ""Hg",6 mi
+Tegucigalpa,May,Honduras,87 °F,65 °F,76 °F,"4.80""",71%,64 °F,10 mph,"29.87 ""Hg",6 mi
+Tegucigalpa,June,Honduras,85 °F,65 °F,75 °F,"6.18""",78%,65 °F,9 mph,"29.89 ""Hg",6 mi
+Tegucigalpa,July,Honduras,84 °F,64 °F,74 °F,"3.05""",75%,64 °F,12 mph,"29.93 ""Hg",6 mi
+Tegucigalpa,August,Honduras,85 °F,64 °F,75 °F,"4.41""",75%,64 °F,10 mph,"29.91 ""Hg",6 mi
+Tegucigalpa,September,Honduras,85 °F,64 °F,74 °F,"5.10""",79%,65 °F,8 mph,"29.88 ""Hg",6 mi
+Tegucigalpa,October,Honduras,83 °F,63 °F,73 °F,"6.24""",82%,65 °F,10 mph,"29.88 ""Hg",6 mi
+Tegucigalpa,November,Honduras,80 °F,61 °F,70 °F,"2.85""",80%,62 °F,15 mph,"29.93 ""Hg",6 mi
+Tegucigalpa,December,Honduras,80 °F,59 °F,69 °F,"0.84""",76%,60 °F,15 mph,"29.96 ""Hg",7 mi
+Casablanca,January,Morocco,64 °F,48 °F,56 °F,"2.69""",82%,50 °F,9 mph,"30.20 ""Hg",5 mi
+Casablanca,February,Morocco,65 °F,50 °F,57 °F,"1.75""",80%,51 °F,10 mph,"30.15 ""Hg",5 mi
+Casablanca,March,Morocco,67 °F,53 °F,60 °F,"1.53""",79%,53 °F,12 mph,"30.06 ""Hg",5 mi
+Casablanca,April,Morocco,69 °F,56 °F,63 °F,"1.37""",77%,55 °F,13 mph,"29.99 ""Hg",5 mi
+Casablanca,May,Morocco,72 °F,61 °F,67 °F,"0.66""",76%,59 °F,13 mph,"29.99 ""Hg",5 mi
+Casablanca,June,Morocco,76 °F,66 °F,71 °F,"0.11""",77%,63 °F,13 mph,"30.01 ""Hg",5 mi
+Casablanca,July,Morocco,78 °F,69 °F,74 °F,"0.14""",79%,66 °F,13 mph,"29.99 ""Hg",5 mi
+Casablanca,August,Morocco,80 °F,70 °F,75 °F,"0.02""",80%,68 °F,12 mph,"29.98 ""Hg",5 mi
+Casablanca,September,Morocco,78 °F,67 °F,73 °F,"0.41""",80%,66 °F,11 mph,"30.00 ""Hg",5 mi
+Casablanca,October,Morocco,76 °F,62 °F,69 °F,"1.51""",80%,62 °F,10 mph,"30.02 ""Hg",5 mi
+Casablanca,November,Morocco,70 °F,55 °F,62 °F,"2.95""",79%,55 °F,10 mph,"30.07 ""Hg",5 mi
+Casablanca,December,Morocco,66 °F,51 °F,58 °F,"2.40""",81%,52 °F,9 mph,"30.17 ""Hg",5 mi
+Managua,January,Nicaragua,90 °F,70 °F,80 °F,"0.45""",67%,67 °F,14 mph,"29.89 ""Hg",7 mi
+Managua,February,Nicaragua,91 °F,71 °F,81 °F,"0.36""",64%,67 °F,16 mph,"29.88 ""Hg",7 mi
+Managua,March,Nicaragua,93 °F,72 °F,83 °F,"0.33""",60%,67 °F,16 mph,"29.86 ""Hg",7 mi
+Managua,April,Nicaragua,95 °F,75 °F,85 °F,"1.13""",60%,69 °F,15 mph,"29.84 ""Hg",6 mi
+Managua,May,Nicaragua,92 °F,76 °F,84 °F,"4.91""",71%,72 °F,11 mph,"29.83 ""Hg",6 mi
+Managua,June,Nicaragua,89 °F,75 °F,82 °F,"6.52""",79%,73 °F,9 mph,"29.84 ""Hg",6 mi
+Managua,July,Nicaragua,89 °F,74 °F,82 °F,"5.92""",78%,73 °F,11 mph,"29.86 ""Hg",6 mi
+Managua,August,Nicaragua,90 °F,74 °F,82 °F,"6.15""",78%,73 °F,10 mph,"29.85 ""Hg",6 mi
+Managua,September,Nicaragua,89 °F,74 °F,82 °F,"7.12""",81%,74 °F,8 mph,"29.84 ""Hg",6 mi
+Managua,October,Nicaragua,88 °F,74 °F,81 °F,"6.96""",82%,73 °F,7 mph,"29.83 ""Hg",6 mi
+Managua,November,Nicaragua,89 °F,72 °F,81 °F,"2.48""",76%,71 °F,9 mph,"29.84 ""Hg",7 mi
+Managua,December,Nicaragua,89 °F,71 °F,80 °F,"0.61""",71%,69 °F,12 mph,"29.87 ""Hg",7 mi
+Tehran,January,Iran,48 °F,34 °F,41 °F,"1.28""",57%,25 °F,9 mph,"30.12 ""Hg",5 mi
+Tehran,February,Iran,53 °F,38 °F,45 °F,"1.36""",50%,26 °F,11 mph,"30.04 ""Hg",5 mi
+Tehran,March,Iran,62 °F,45 °F,53 °F,"1.45""",41%,28 °F,14 mph,"29.93 ""Hg",6 mi
+Tehran,April,Iran,73 °F,55 °F,64 °F,"1.36""",37%,35 °F,14 mph,"29.85 ""Hg",6 mi
+Tehran,May,Iran,83 °F,64 °F,74 °F,"0.51""",30%,38 °F,15 mph,"29.77 ""Hg",6 mi
+Tehran,June,Iran,94 °F,73 °F,84 °F,"0.32""",23%,40 °F,14 mph,"29.59 ""Hg",6 mi
+Tehran,July,Iran,99 °F,78 °F,88 °F,"0.26""",24%,45 °F,13 mph,"29.51 ""Hg",6 mi
+Tehran,August,Iran,97 °F,77 °F,87 °F,"0.19""",25%,45 °F,11 mph,"29.60 ""Hg",6 mi
+Tehran,September,Iran,89 °F,70 °F,80 °F,"0.16""",27%,40 °F,10 mph,"29.74 ""Hg",6 mi
+Tehran,October,Iran,77 °F,59 °F,68 °F,"0.50""",35%,37 °F,10 mph,"29.96 ""Hg",6 mi
+Tehran,November,Iran,61 °F,46 °F,53 °F,"1.24""",50%,33 °F,8 mph,"30.09 ""Hg",5 mi
+Tehran,December,Iran,51 °F,38 °F,44 °F,"1.23""",58%,29 °F,7 mph,"30.16 ""Hg",4 mi
+Chicago,January,USA,33 °F,20 °F,26 °F,"1.75""",74%,19 °F,18 mph,"30.12 ""Hg",8 mi
+Chicago,February,USA,36 °F,22 °F,29 °F,"1.76""",70%,20 °F,18 mph,"30.12 ""Hg",9 mi
+Chicago,March,USA,47 °F,31 °F,39 °F,"2.14""",65%,28 °F,18 mph,"30.10 ""Hg",9 mi
+Chicago,April,USA,59 °F,41 °F,50 °F,"3.49""",60%,36 °F,18 mph,"29.99 ""Hg",9 mi
+Chicago,May,USA,71 °F,51 °F,61 °F,"4.00""",62%,47 °F,16 mph,"29.98 ""Hg",10 mi
+Chicago,June,USA,81 °F,62 °F,72 °F,"4.09""",63%,58 °F,14 mph,"29.93 ""Hg",9 mi
+Chicago,July,USA,85 °F,68 °F,76 °F,"3.47""",63%,62 °F,13 mph,"29.96 ""Hg",10 mi
+Chicago,August,USA,83 °F,67 °F,75 °F,"3.94""",66%,62 °F,12 mph,"29.99 ""Hg",9 mi
+Chicago,September,USA,76 °F,59 °F,68 °F,"2.73""",63%,54 °F,14 mph,"30.02 ""Hg",10 mi
+Chicago,October,USA,63 °F,47 °F,55 °F,"3.50""",64%,43 °F,16 mph,"30.04 ""Hg",10 mi
+Chicago,November,USA,49 °F,35 °F,42 °F,"2.25""",67%,32 °F,17 mph,"30.10 ""Hg",9 mi
+Chicago,December,USA,38 °F,25 °F,32 °F,"1.98""",73%,24 °F,17 mph,"30.10 ""Hg",8 mi
+Manila,January,Philippines,87 °F,71 °F,79 °F,"2.31""",74%,69 °F,5 mph,"29.90 ""Hg",5 mi
+Manila,February,Philippines,88 °F,71 °F,79 °F,"1.58""",71%,69 °F,6 mph,"29.91 ""Hg",5 mi
+Manila,March,Philippines,91 °F,73 °F,82 °F,"1.70""",67%,70 °F,6 mph,"29.89 ""Hg",5 mi
+Manila,April,Philippines,94 °F,75 °F,85 °F,"1.43""",65%,72 °F,6 mph,"29.84 ""Hg",5 mi
+Manila,May,Philippines,94 °F,77 °F,86 °F,"6.16""",71%,75 °F,5 mph,"29.81 ""Hg",5 mi
+Manila,June,Philippines,92 °F,77 °F,84 °F,"11.73""",78%,76 °F,6 mph,"29.78 ""Hg",5 mi
+Manila,July,Philippines,89 °F,76 °F,83 °F,"19.63""",82%,76 °F,6 mph,"29.76 ""Hg",5 mi
+Manila,August,Philippines,88 °F,77 °F,82 °F,"23.42""",83%,76 °F,6 mph,"29.76 ""Hg",5 mi
+Manila,September,Philippines,89 °F,76 °F,83 °F,"17.62""",82%,76 °F,6 mph,"29.77 ""Hg",5 mi
+Manila,October,Philippines,89 °F,75 °F,82 °F,"11.00""",79%,74 °F,5 mph,"29.80 ""Hg",5 mi
+Manila,November,Philippines,89 °F,74 °F,82 °F,"3.67""",77%,73 °F,5 mph,"29.84 ""Hg",5 mi
+Manila,December,Philippines,88 °F,73 °F,81 °F,"4.77""",77%,72 °F,6 mph,"29.86 ""Hg",5 mi
+Tokyo,January,Japan,50 °F,37 °F,44 °F,"2.64""",44%,24 °F,15 mph,"29.99 ""Hg",6 mi
+Tokyo,February,Japan,51 °F,38 °F,45 °F,"2.66""",46%,25 °F,16 mph,"30.00 ""Hg",6 mi
+Tokyo,March,Japan,57 °F,43 °F,50 °F,"4.58""",54%,34 °F,18 mph,"29.97 ""Hg",6 mi
+Tokyo,April,Japan,66 °F,52 °F,59 °F,"5.50""",61%,46 °F,19 mph,"29.93 ""Hg",6 mi
+Tokyo,May,Japan,74 °F,61 °F,68 °F,"5.67""",68%,57 °F,19 mph,"29.87 ""Hg",6 mi
+Tokyo,June,Japan,79 °F,68 °F,73 °F,"6.87""",74%,64 °F,17 mph,"29.79 ""Hg",6 mi
+Tokyo,July,Japan,86 °F,75 °F,80 °F,"6.25""",76%,72 °F,19 mph,"29.78 ""Hg",6 mi
+Tokyo,August,Japan,89 °F,77 °F,83 °F,"6.12""",72%,73 °F,19 mph,"29.82 ""Hg",6 mi
+Tokyo,September,Japan,82 °F,71 °F,76 °F,"8.29""",71%,66 °F,17 mph,"29.91 ""Hg",6 mi
+Tokyo,October,Japan,72 °F,61 °F,67 °F,"8.46""",65%,55 °F,15 mph,"30.02 ""Hg",6 mi
+Tokyo,November,Japan,63 °F,51 °F,57 °F,"3.48""",57%,42 °F,14 mph,"30.05 ""Hg",6 mi
+Tokyo,December,Japan,54 °F,42 °F,48 °F,"2.09""",48%,30 °F,14 mph,"30.02 ""Hg",6 mi
+Copenhagen,January,Denmark,38 °F,31 °F,34 °F,"1.67""",88%,31 °F,25 mph,"29.94 ""Hg",6 mi
+Copenhagen,February,Denmark,39 °F,30 °F,35 °F,"1.23""",86%,31 °F,25 mph,"29.94 ""Hg",6 mi
+Copenhagen,March,Denmark,44 °F,32 °F,38 °F,"1.23""",81%,32 °F,23 mph,"29.96 ""Hg",7 mi
+Copenhagen,April,Denmark,53 °F,38 °F,45 °F,"1.11""",75%,37 °F,20 mph,"29.96 ""Hg",8 mi
+Copenhagen,May,Denmark,61 °F,46 °F,53 °F,"1.63""",73%,44 °F,19 mph,"29.98 ""Hg",9 mi
+Copenhagen,June,Denmark,68 °F,52 °F,60 °F,"1.89""",73%,51 °F,19 mph,"29.96 ""Hg",9 mi
+Copenhagen,July,Denmark,72 °F,57 °F,64 °F,"2.17""",74%,55 °F,18 mph,"29.93 ""Hg",9 mi
+Copenhagen,August,Denmark,71 °F,57 °F,64 °F,"2.41""",77%,56 °F,19 mph,"29.94 ""Hg",9 mi
+Copenhagen,September,Denmark,64 °F,52 °F,58 °F,"2.11""",81%,51 °F,21 mph,"29.98 ""Hg",9 mi
+Copenhagen,October,Denmark,55 °F,45 °F,50 °F,"2.28""",85%,45 °F,23 mph,"29.95 ""Hg",8 mi
+Copenhagen,November,Denmark,46 °F,39 °F,42 °F,"1.97""",88%,39 °F,23 mph,"29.91 ""Hg",7 mi
+Copenhagen,December,Denmark,41 °F,33 °F,37 °F,"1.91""",89%,34 °F,24 mph,"29.91 ""Hg",7 mi
+Melbourne,January,Australia,83 °F,56 °F,69 °F,"1.97""",60%,54 °F,13 mph,"29.90 ""Hg",7 mi
+Melbourne,February,Australia,82 °F,55 °F,68 °F,"1.48""",62%,54 °F,12 mph,"29.95 ""Hg",7 mi
+Melbourne,March,Australia,78 °F,52 °F,65 °F,"1.58""",64%,52 °F,11 mph,"30.03 ""Hg",8 mi
+Melbourne,April,Australia,70 °F,47 °F,58 °F,"2.41""",71%,49 °F,10 mph,"30.11 ""Hg",7 mi
+Melbourne,May,Australia,63 °F,43 °F,53 °F,"1.87""",76%,46 °F,11 mph,"30.14 ""Hg",8 mi
+Melbourne,June,Australia,58 °F,40 °F,49 °F,"1.85""",82%,44 °F,9 mph,"30.18 ""Hg",7 mi
+Melbourne,July,Australia,58 °F,40 °F,49 °F,"1.68""",78%,43 °F,13 mph,"30.09 ""Hg",8 mi
+Melbourne,August,Australia,59 °F,40 °F,50 °F,"2.15""",75%,42 °F,12 mph,"30.07 ""Hg",7 mi
+Melbourne,September,Australia,64 °F,43 °F,53 °F,"2.32""",70%,44 °F,11 mph,"30.05 ""Hg",7 mi
+Melbourne,October,Australia,70 °F,46 °F,58 °F,"2.02""",66%,46 °F,12 mph,"30.02 ""Hg",7 mi
+Melbourne,November,Australia,74 °F,50 °F,62 °F,"2.04""",65%,49 °F,11 mph,"29.95 ""Hg",7 mi
+Melbourne,December,Australia,79 °F,52 °F,66 °F,"1.70""",62%,51 °F,11 mph,"29.92 ""Hg",7 mi
+Toronto,January,Canada,31 °F,16 °F,23 °F,"2.32""",76%,17 °F,20 mph,"30.04 ""Hg",11 mi
+Toronto,February,Canada,32 °F,17 °F,24 °F,"2.04""",73%,17 °F,20 mph,"30.05 ""Hg",12 mi
+Toronto,March,Canada,41 °F,25 °F,33 °F,"1.87""",67%,23 °F,20 mph,"30.05 ""Hg",13 mi
+Toronto,April,Canada,54 °F,35 °F,44 °F,"3.09""",63%,31 °F,19 mph,"29.98 ""Hg",14 mi
+Toronto,May,Canada,67 °F,46 °F,56 °F,"2.94""",64%,43 °F,17 mph,"29.98 ""Hg",14 mi
+Toronto,June,Canada,77 °F,57 °F,67 °F,"3.18""",66%,54 °F,16 mph,"29.94 ""Hg",14 mi
+Toronto,July,Canada,82 °F,62 °F,72 °F,"3.03""",66%,59 °F,16 mph,"29.95 ""Hg",14 mi
+Toronto,August,Canada,80 °F,61 °F,70 °F,"2.67""",69%,59 °F,15 mph,"30.00 ""Hg",14 mi
+Toronto,September,Canada,73 °F,53 °F,63 °F,"2.75""",72%,53 °F,15 mph,"30.04 ""Hg",14 mi
+Toronto,October,Canada,59 °F,42 °F,51 °F,"2.69""",74%,42 °F,17 mph,"30.03 ""Hg",13 mi
+Toronto,November,Canada,46 °F,32 °F,39 °F,"2.65""",75%,32 °F,18 mph,"30.05 ""Hg",13 mi
+Toronto,December,Canada,36 °F,24 °F,30 °F,"2.31""",77%,24 °F,19 mph,"30.04 ""Hg",12 mi
+Dallas,January,USA,58 °F,38 °F,48 °F,"2.51""",61%,34 °F,14 mph,"30.14 ""Hg",10 mi
+Dallas,February,USA,62 °F,42 °F,52 °F,"2.81""",61%,37 °F,16 mph,"30.09 ""Hg",9 mi
+Dallas,March,USA,70 °F,50 °F,60 °F,"3.57""",59%,45 °F,17 mph,"30.03 ""Hg",10 mi
+Dallas,April,USA,77 °F,57 °F,67 °F,"3.11""",60%,52 °F,19 mph,"29.94 ""Hg",10 mi
+Dallas,May,USA,85 °F,66 °F,75 °F,"4.76""",64%,62 °F,18 mph,"29.92 ""Hg",10 mi
+Dallas,June,USA,93 °F,74 °F,83 °F,"3.76""",61%,68 °F,17 mph,"29.90 ""Hg",10 mi
+Dallas,July,USA,97 °F,78 °F,87 °F,"1.74""",55%,69 °F,15 mph,"29.95 ""Hg",10 mi
+Dallas,August,USA,97 °F,78 °F,87 °F,"2.18""",54%,68 °F,13 mph,"29.94 ""Hg",10 mi
+Dallas,September,USA,90 °F,71 °F,80 °F,"2.96""",57%,63 °F,12 mph,"29.97 ""Hg",10 mi
+Dallas,October,USA,80 °F,59 °F,69 °F,"4.62""",60%,54 °F,14 mph,"30.02 ""Hg",10 mi
+Dallas,November,USA,68 °F,48 °F,58 °F,"2.97""",62%,44 °F,15 mph,"30.11 ""Hg",10 mi
+Dallas,December,USA,59 °F,40 °F,50 °F,"2.90""",63%,37 °F,14 mph,"30.12 ""Hg",9 mi
+Mexico City,January,Mexico,71 °F,43 °F,57 °F,"0.63""",49%,36 °F,10 mph,"29.89 ""Hg",8 mi
+Mexico City,February,Mexico,76 °F,46 °F,61 °F,"0.50""",43%,35 °F,11 mph,"29.82 ""Hg",8 mi
+Mexico City,March,Mexico,79 °F,49 °F,64 °F,"0.93""",40%,36 °F,12 mph,"29.76 ""Hg",8 mi
+Mexico City,April,Mexico,81 °F,54 °F,67 °F,"1.72""",40%,39 °F,13 mph,"29.72 ""Hg",8 mi
+Mexico City,May,Mexico,81 °F,55 °F,68 °F,"3.06""",46%,44 °F,13 mph,"29.72 ""Hg",7 mi
+Mexico City,June,Mexico,78 °F,57 °F,67 °F,"6.66""",58%,49 °F,13 mph,"29.74 ""Hg",8 mi
+Mexico City,July,Mexico,75 °F,56 °F,65 °F,"6.99""",64%,51 °F,12 mph,"29.82 ""Hg",8 mi
+Mexico City,August,Mexico,75 °F,56 °F,66 °F,"7.76""",65%,51 °F,12 mph,"29.80 ""Hg",8 mi
+Mexico City,September,Mexico,74 °F,56 °F,65 °F,"6.71""",67%,51 °F,12 mph,"29.78 ""Hg",8 mi
+Mexico City,October,Mexico,74 °F,52 °F,63 °F,"3.49""",61%,47 °F,12 mph,"29.81 ""Hg",8 mi
+Mexico City,November,Mexico,73 °F,47 °F,60 °F,"1.08""",56%,42 °F,11 mph,"29.88 ""Hg",7 mi
+Mexico City,December,Mexico,72 °F,44 °F,58 °F,"0.20""",50%,38 °F,10 mph,"29.89 ""Hg",7 mi
+Vancouver,January,Canada,45 °F,35 °F,40 °F,"6.76""",88%,37 °F,15 mph,"30.04 ""Hg",15 mi
+Vancouver,February,Canada,47 °F,35 °F,41 °F,"3.74""",83%,36 °F,14 mph,"30.04 ""Hg",17 mi
+Vancouver,March,Canada,51 °F,38 °F,44 °F,"4.38""",79%,38 °F,16 mph,"30.02 ""Hg",18 mi
+Vancouver,April,Canada,56 °F,43 °F,49 °F,"3.19""",76%,41 °F,16 mph,"30.03 ""Hg",20 mi
+Vancouver,May,Canada,63 °F,49 °F,56 °F,"2.14""",74%,47 °F,15 mph,"30.02 ""Hg",21 mi
+Vancouver,June,Canada,68 °F,54 °F,61 °F,"1.84""",73%,51 °F,15 mph,"30.02 ""Hg",22 mi
+Vancouver,July,Canada,73 °F,57 °F,65 °F,"1.17""",72%,55 °F,15 mph,"30.03 ""Hg",24 mi
+Vancouver,August,Canada,73 °F,57 °F,65 °F,"1.18""",74%,56 °F,14 mph,"30.01 ""Hg",22 mi
+Vancouver,September,Canada,66 °F,53 °F,60 °F,"2.55""",80%,53 °F,14 mph,"30.02 ""Hg",20 mi
+Vancouver,October,Canada,57 °F,45 °F,51 °F,"4.90""",85%,46 °F,14 mph,"30.05 ""Hg",17 mi
+Vancouver,November,Canada,49 °F,39 °F,44 °F,"6.99""",86%,40 °F,15 mph,"30.02 ""Hg",15 mi
+Vancouver,December,Canada,44 °F,34 °F,39 °F,"6.67""",87%,36 °F,15 mph,"30.04 ""Hg",15 mi
+Dar es Salaam,January,Tanzania,90 °F,77 °F,83 °F,"2.39""",78%,75 °F,20 mph,"29.85 ""Hg",12 mi
+Dar es Salaam,February,Tanzania,90 °F,76 °F,83 °F,"3.46""",78%,75 °F,17 mph,"29.85 ""Hg",12 mi
+Dar es Salaam,March,Tanzania,90 °F,75 °F,82 °F,"6.01""",82%,75 °F,11 mph,"29.85 ""Hg",12 mi
+Dar es Salaam,April,Tanzania,87 °F,74 °F,81 °F,"10.49""",86%,75 °F,10 mph,"29.89 ""Hg",12 mi
+Dar es Salaam,May,Tanzania,86 °F,72 °F,79 °F,"5.64""",83%,72 °F,12 mph,"29.96 ""Hg",13 mi
+Dar es Salaam,June,Tanzania,85 °F,69 °F,77 °F,"1.19""",80%,69 °F,13 mph,"30.02 ""Hg",12 mi
+Dar es Salaam,July,Tanzania,85 °F,67 °F,76 °F,"1.25""",79%,67 °F,14 mph,"30.05 ""Hg",13 mi
+Dar es Salaam,August,Tanzania,86 °F,67 °F,76 °F,"1.28""",78%,68 °F,12 mph,"30.04 ""Hg",13 mi
+Dar es Salaam,September,Tanzania,87 °F,68 °F,77 °F,"0.89""",77%,68 °F,12 mph,"30.01 ""Hg",13 mi
+Dar es Salaam,October,Tanzania,88 °F,70 °F,79 °F,"3.09""",78%,70 °F,12 mph,"29.95 ""Hg",13 mi
+Dar es Salaam,November,Tanzania,89 °F,73 °F,81 °F,"5.27""",80%,73 °F,12 mph,"29.89 ""Hg",12 mi
+Dar es Salaam,December,Tanzania,90 °F,76 °F,83 °F,"4.13""",79%,75 °F,15 mph,"29.87 ""Hg",12 mi
+Miami,January,USA,77 °F,61 °F,69 °F,"1.83""",71%,59 °F,13 mph,"30.12 ""Hg",9 mi
+Miami,February,USA,79 °F,64 °F,71 °F,"2.22""",71%,61 °F,14 mph,"30.10 ""Hg",9 mi
+Miami,March,USA,81 °F,66 °F,74 °F,"2.37""",67%,61 °F,15 mph,"30.07 ""Hg",9 mi
+Miami,April,USA,84 °F,70 °F,77 °F,"3.27""",66%,65 °F,16 mph,"30.03 ""Hg",10 mi
+Miami,May,USA,87 °F,74 °F,80 °F,"6.32""",67%,68 °F,14 mph,"30.01 ""Hg",9 mi
+Miami,June,USA,89 °F,76 °F,83 °F,"10.62""",73%,73 °F,11 mph,"30.02 ""Hg",9 mi
+Miami,July,USA,91 °F,78 °F,84 °F,"7.41""",71%,74 °F,11 mph,"30.05 ""Hg",9 mi
+Miami,August,USA,91 °F,78 °F,84 °F,"9.48""",73%,74 °F,11 mph,"30.01 ""Hg",9 mi
+Miami,September,USA,89 °F,77 °F,83 °F,"10.11""",75%,74 °F,11 mph,"29.96 ""Hg",9 mi
+Miami,October,USA,86 °F,74 °F,80 °F,"7.11""",72%,71 °F,13 mph,"29.97 ""Hg",9 mi
+Miami,November,USA,82 °F,69 °F,75 °F,"3.69""",71%,65 °F,13 mph,"30.04 ""Hg",9 mi
+Miami,December,USA,79 °F,65 °F,72 °F,"2.50""",72%,62 °F,13 mph,"30.09 ""Hg",9 mi
+Vienna,January,Austria,38 °F,28 °F,33 °F,"1.04""",82%,27 °F,19 mph,"30.13 ""Hg",6 mi
+Vienna,February,Austria,43 °F,30 °F,36 °F,"1.07""",76%,29 °F,20 mph,"30.09 ""Hg",7 mi
+Vienna,March,Austria,51 °F,34 °F,43 °F,"1.32""",69%,32 °F,20 mph,"30.05 ""Hg",8 mi
+Vienna,April,Austria,62 °F,42 °F,52 °F,"1.24""",64%,40 °F,19 mph,"29.96 ""Hg",9 mi
+Vienna,May,Austria,69 °F,51 °F,60 °F,"2.11""",68%,48 °F,18 mph,"29.98 ""Hg",9 mi
+Vienna,June,Austria,77 °F,57 °F,67 °F,"2.20""",67%,55 °F,16 mph,"29.99 ""Hg",9 mi
+Vienna,July,Austria,80 °F,60 °F,70 °F,"2.71""",65%,57 °F,17 mph,"29.97 ""Hg",10 mi
+Vienna,August,Austria,80 °F,60 °F,70 °F,"2.50""",67%,57 °F,15 mph,"29.99 ""Hg",10 mi
+Vienna,September,Austria,70 °F,53 °F,61 °F,"1.88""",73%,51 °F,16 mph,"30.04 ""Hg",9 mi
+Vienna,October,Austria,59 °F,44 °F,51 °F,"1.55""",80%,45 °F,16 mph,"30.08 ""Hg",7 mi
+Vienna,November,Austria,47 °F,37 °F,42 °F,"1.13""",84%,37 °F,18 mph,"30.07 ""Hg",6 mi
+Vienna,December,Austria,39 °F,30 °F,34 °F,"0.98""",84%,30 °F,18 mph,"30.13 ""Hg",6 mi
+Darwin,January,Australia,90 °F,77 °F,83 °F,"16.06""",81%,76 °F,17 mph,"29.72 ""Hg",9 mi
+Darwin,February,Australia,89 °F,77 °F,83 °F,"15.41""",82%,76 °F,17 mph,"29.73 ""Hg",9 mi
+Darwin,March,Australia,90 °F,77 °F,83 °F,"11.13""",80%,75 °F,14 mph,"29.77 ""Hg",9 mi
+Darwin,April,Australia,92 °F,76 °F,84 °F,"3.70""",72%,72 °F,14 mph,"29.83 ""Hg",10 mi
+Darwin,May,Australia,90 °F,72 °F,81 °F,"0.73""",63%,65 °F,15 mph,"29.88 ""Hg",10 mi
+Darwin,June,Australia,88 °F,68 °F,78 °F,"0.09""",58%,59 °F,15 mph,"29.91 ""Hg",10 mi
+Darwin,July,Australia,88 °F,67 °F,77 °F,"0.04""",59%,59 °F,15 mph,"29.93 ""Hg",10 mi
+Darwin,August,Australia,89 °F,68 °F,79 °F,"0.06""",61%,61 °F,14 mph,"29.93 ""Hg",10 mi
+Darwin,September,Australia,92 °F,73 °F,82 °F,"0.64""",66%,68 °F,15 mph,"29.89 ""Hg",9 mi
+Darwin,October,Australia,93 °F,77 °F,85 °F,"2.47""",68%,72 °F,15 mph,"29.85 ""Hg",9 mi
+Darwin,November,Australia,93 °F,78 °F,85 °F,"5.32""",72%,74 °F,14 mph,"29.79 ""Hg",9 mi
+Darwin,December,Australia,91 °F,78 °F,85 °F,"10.16""",77%,75 °F,15 mph,"29.74 ""Hg",9 mi
+Minneapolis,January,USA,24 °F,9 °F,17 °F,"0.84""",75%,10 °F,15 mph,"30.13 ""Hg",8 mi
+Minneapolis,February,USA,28 °F,12 °F,20 °F,"0.90""",72%,13 °F,15 mph,"30.12 ""Hg",9 mi
+Minneapolis,March,USA,42 °F,25 °F,33 °F,"1.66""",66%,23 °F,16 mph,"30.10 ""Hg",9 mi
+Minneapolis,April,USA,56 °F,37 °F,47 °F,"2.89""",57%,31 °F,17 mph,"29.99 ""Hg",10 mi
+Minneapolis,May,USA,69 °F,49 °F,59 °F,"3.83""",58%,44 °F,16 mph,"29.96 ""Hg",10 mi
+Minneapolis,June,USA,79 °F,60 °F,70 °F,"4.58""",62%,56 °F,14 mph,"29.91 ""Hg",10 mi
+Minneapolis,July,USA,84 °F,65 °F,74 °F,"3.94""",64%,61 °F,13 mph,"29.95 ""Hg",10 mi
+Minneapolis,August,USA,81 °F,63 °F,72 °F,"4.48""",67%,60 °F,13 mph,"29.98 ""Hg",10 mi
+Minneapolis,September,USA,73 °F,54 °F,64 °F,"2.92""",66%,52 °F,14 mph,"30.01 ""Hg",10 mi
+Minneapolis,October,USA,58 °F,41 °F,50 °F,"2.57""",66%,38 °F,15 mph,"30.03 ""Hg",10 mi
+Minneapolis,November,USA,42 °F,28 °F,35 °F,"1.47""",70%,26 °F,15 mph,"30.07 ""Hg",9 mi
+Minneapolis,December,USA,29 °F,15 °F,22 °F,"1.25""",76%,16 °F,14 mph,"30.09 ""Hg",8 mi
+Warsaw,January,Poland,34 °F,25 °F,29 °F,"2.11""",88%,26 °F,17 mph,"30.04 ""Hg",6 mi
+Warsaw,February,Poland,37 °F,26 °F,32 °F,"2.09""",85%,27 °F,17 mph,"30.02 ""Hg",6 mi
+Warsaw,March,Poland,45 °F,30 °F,38 °F,"1.17""",76%,30 °F,17 mph,"30.00 ""Hg",7 mi
+Warsaw,April,Poland,58 °F,39 °F,48 °F,"1.55""",68%,37 °F,15 mph,"29.96 ""Hg",8 mi
+Warsaw,May,Poland,68 °F,47 °F,58 °F,"2.29""",68%,46 °F,15 mph,"29.98 ""Hg",9 mi
+Warsaw,June,Poland,74 °F,54 °F,64 °F,"2.48""",69%,53 °F,14 mph,"29.97 ""Hg",9 mi
+Warsaw,July,Poland,78 °F,58 °F,68 °F,"3.77""",71%,57 °F,13 mph,"29.94 ""Hg",9 mi
+Warsaw,August,Poland,76 °F,56 °F,66 °F,"2.55""",72%,56 °F,12 mph,"29.98 ""Hg",9 mi
+Warsaw,September,Poland,66 °F,48 °F,57 °F,"2.04""",79%,50 °F,13 mph,"30.03 ""Hg",8 mi
+Warsaw,October,Poland,55 °F,40 °F,48 °F,"1.63""",84%,43 °F,14 mph,"30.05 ""Hg",7 mi
+Warsaw,November,Poland,44 °F,34 °F,39 °F,"1.73""",89%,36 °F,15 mph,"30.03 ""Hg",6 mi
+Warsaw,December,Poland,37 °F,27 °F,32 °F,"1.50""",89%,30 °F,16 mph,"30.04 ""Hg",6 mi
+Denver,January,USA,46 °F,20 °F,33 °F,"0.47""",56%,16 °F,16 mph,"30.04 ""Hg",28 mi
+Denver,February,USA,47 °F,21 °F,34 °F,"0.64""",59%,17 °F,16 mph,"30.00 ""Hg",26 mi
+Denver,March,USA,56 °F,28 °F,42 °F,"1.18""",53%,21 °F,17 mph,"29.94 ""Hg",27 mi
+Denver,April,USA,62 °F,34 °F,48 °F,"1.86""",53%,27 °F,18 mph,"29.88 ""Hg",26 mi
+Denver,May,USA,71 °F,43 °F,57 °F,"2.35""",56%,38 °F,16 mph,"29.88 ""Hg",27 mi
+Denver,June,USA,83 °F,53 °F,68 °F,"2.01""",48%,44 °F,16 mph,"29.86 ""Hg",28 mi
+Denver,July,USA,89 °F,59 °F,74 °F,"2.34""",47%,49 °F,15 mph,"29.93 ""Hg",26 mi
+Denver,August,USA,87 °F,57 °F,72 °F,"1.89""",49%,48 °F,15 mph,"29.96 ""Hg",26 mi
+Denver,September,USA,80 °F,49 °F,65 °F,"1.33""",46%,39 °F,15 mph,"29.96 ""Hg",27 mi
+Denver,October,USA,66 °F,37 °F,52 °F,"0.97""",50%,29 °F,15 mph,"29.99 ""Hg",27 mi
+Denver,November,USA,55 °F,27 °F,41 °F,"0.65""",53%,21 °F,15 mph,"30.03 ""Hg",27 mi
+Denver,December,USA,46 °F,20 °F,33 °F,"0.59""",56%,15 °F,16 mph,"30.03 ""Hg",27 mi
+Minsk,January,Belarus,29 °F,21 °F,25 °F,"1.94""",87%,21 °F,13 mph,"30.02 ""Hg",5 mi
+Minsk,February,Belarus,31 °F,22 °F,26 °F,"1.64""",84%,22 °F,13 mph,"30.00 ""Hg",5 mi
+Minsk,March,Belarus,40 °F,27 °F,34 °F,"1.65""",74%,26 °F,14 mph,"29.98 ""Hg",6 mi
+Minsk,April,Belarus,55 °F,37 °F,46 °F,"1.78""",63%,33 °F,13 mph,"29.96 ""Hg",7 mi
+Minsk,May,Belarus,66 °F,47 °F,56 °F,"2.61""",63%,44 °F,13 mph,"29.97 ""Hg",7 mi
+Minsk,June,Belarus,72 °F,54 °F,63 °F,"2.95""",65%,51 °F,13 mph,"29.93 ""Hg",7 mi
+Minsk,July,Belarus,76 °F,58 °F,67 °F,"3.82""",68%,55 °F,12 mph,"29.92 ""Hg",7 mi
+Minsk,August,Belarus,74 °F,56 °F,65 °F,"2.78""",69%,54 °F,11 mph,"29.97 ""Hg",7 mi
+Minsk,September,Belarus,63 °F,47 °F,55 °F,"2.11""",76%,47 °F,12 mph,"30.03 ""Hg",6 mi
+Minsk,October,Belarus,50 °F,38 °F,44 °F,"2.25""",82%,39 °F,13 mph,"30.06 ""Hg",6 mi
+Minsk,November,Belarus,39 °F,31 °F,35 °F,"1.93""",88%,32 °F,13 mph,"30.05 ""Hg",4 mi
+Minsk,December,Belarus,31 °F,24 °F,28 °F,"1.86""",89%,25 °F,14 mph,"30.03 ""Hg",4 mi
+Washington DC,January,USA,44 °F,30 °F,37 °F,"2.83""",61%,24 °F,15 mph,"30.12 ""Hg",9 mi
+Washington DC,February,USA,47 °F,31 °F,40 °F,"2.77""",59%,25 °F,15 mph,"30.11 ""Hg",9 mi
+Washington DC,March,USA,56 °F,38 °F,47 °F,"3.48""",56%,31 °F,16 mph,"30.08 ""Hg",9 mi
+Washington DC,April,USA,67 °F,48 °F,57 °F,"3.25""",58%,42 °F,15 mph,"30.01 ""Hg",10 mi
+Washington DC,May,USA,76 °F,57 °F,67 °F,"4.04""",64%,54 °F,14 mph,"30.01 ""Hg",9 mi
+Washington DC,June,USA,85 °F,67 °F,76 °F,"4.31""",65%,63 °F,13 mph,"29.98 ""Hg",9 mi
+Washington DC,July,USA,89 °F,72 °F,81 °F,"4.36""",64%,67 °F,12 mph,"29.99 ""Hg",9 mi
+Washington DC,August,USA,87 °F,71 °F,79 °F,"3.47""",66%,66 °F,12 mph,"30.02 ""Hg",9 mi
+Washington DC,September,USA,80 °F,64 °F,72 °F,"3.96""",67%,60 °F,13 mph,"30.06 ""Hg",10 mi
+Washington DC,October,USA,69 °F,52 °F,61 °F,"3.73""",68%,49 °F,13 mph,"30.08 ""Hg",10 mi
+Washington DC,November,USA,58 °F,41 °F,49 °F,"2.94""",63%,37 °F,14 mph,"30.14 ""Hg",10 mi
+Washington DC,December,USA,48 °F,34 °F,41 °F,"3.22""",64%,29 °F,14 mph,"30.13 ""Hg",9 mi
+Detroit,January,USA,33 °F,21 °F,27 °F,"1.37""",74%,19 °F,17 mph,"30.08 ""Hg",8 mi
+Detroit,February,USA,35 °F,22 °F,28 °F,"1.35""",70%,20 °F,16 mph,"30.09 ""Hg",8 mi
+Detroit,March,USA,45 °F,29 °F,37 °F,"1.70""",65%,26 °F,16 mph,"30.08 ""Hg",9 mi
+Detroit,April,USA,58 °F,39 °F,48 °F,"2.34""",60%,34 °F,16 mph,"29.99 ""Hg",10 mi
+Detroit,May,USA,70 °F,50 °F,60 °F,"3.05""",61%,46 °F,14 mph,"29.99 ""Hg",10 mi
+Detroit,June,USA,80 °F,61 °F,70 °F,"2.69""",63%,56 °F,13 mph,"29.95 ""Hg",9 mi
+Detroit,July,USA,84 °F,66 °F,75 °F,"2.91""",63%,61 °F,12 mph,"29.97 ""Hg",10 mi
+Detroit,August,USA,82 °F,64 °F,73 °F,"3.02""",67%,61 °F,11 mph,"30.01 ""Hg",9 mi
+Detroit,September,USA,75 °F,57 °F,66 °F,"2.75""",68%,55 °F,12 mph,"30.04 ""Hg",10 mi
+Detroit,October,USA,62 °F,45 °F,54 °F,"2.09""",68%,43 °F,14 mph,"30.05 ""Hg",9 mi
+Detroit,November,USA,49 °F,35 °F,42 °F,"2.01""",70%,32 °F,15 mph,"30.09 ""Hg",9 mi
+Detroit,December,USA,38 °F,27 °F,32 °F,"1.70""",74%,25 °F,16 mph,"30.08 ""Hg",8 mi
+Montevideo,January,Uruguay,83 °F,67 °F,75 °F,"2.96""",63%,62 °F,16 mph,"29.89 ""Hg",8 mi
+Montevideo,February,Uruguay,81 °F,68 °F,74 °F,"3.17""",66%,63 °F,14 mph,"29.90 ""Hg",8 mi
+Montevideo,March,Uruguay,77 °F,63 °F,70 °F,"2.87""",68%,60 °F,14 mph,"29.97 ""Hg",8 mi
+Montevideo,April,Uruguay,72 °F,60 °F,66 °F,"2.75""",72%,57 °F,13 mph,"30.00 ""Hg",7 mi
+Montevideo,May,Uruguay,66 °F,53 °F,59 °F,"2.94""",76%,52 °F,12 mph,"30.04 ""Hg",7 mi
+Montevideo,June,Uruguay,61 °F,47 °F,54 °F,"2.18""",75%,47 °F,12 mph,"30.05 ""Hg",6 mi
+Montevideo,July,Uruguay,60 °F,46 °F,53 °F,"2.94""",75%,45 °F,13 mph,"30.09 ""Hg",6 mi
+Montevideo,August,Uruguay,64 °F,48 °F,56 °F,"3.80""",73%,47 °F,13 mph,"30.07 ""Hg",6 mi
+Montevideo,September,Uruguay,65 °F,52 °F,58 °F,"3.18""",71%,49 °F,14 mph,"30.04 ""Hg",7 mi
+Montevideo,October,Uruguay,70 °F,55 °F,63 °F,"3.20""",70%,53 °F,15 mph,"29.99 ""Hg",7 mi
+Montevideo,November,Uruguay,76 °F,60 °F,68 °F,"2.27""",64%,56 °F,16 mph,"29.93 ""Hg",8 mi
+Montevideo,December,Uruguay,82 °F,65 °F,73 °F,"3.10""",61%,60 °F,15 mph,"29.86 ""Hg",8 mi
+Winnipeg,January,Canada,16 °F,2 °F,9 °F,"0.70""",75%,2 °F,9 mph,"30.07 ""Hg",N/A
+Winnipeg,February,Canada,16 °F,0 °F,8 °F,"0.45""",71%,1 °F,8 mph,"30.12 ""Hg",N/A
+Winnipeg,March,Canada,34 °F,17 °F,26 °F,"0.98""",67%,16 °F,8 mph,"30.08 ""Hg",N/A
+Winnipeg,April,Canada,49 °F,29 °F,39 °F,"1.22""",55%,23 °F,9 mph,"30.03 ""Hg",N/A
+Winnipeg,May,Canada,66 °F,45 °F,55 °F,"2.49""",52%,36 °F,9 mph,"29.97 ""Hg",N/A
+Winnipeg,June,Canada,77 °F,57 °F,67 °F,"3.17""",57%,50 °F,7 mph,"29.85 ""Hg",N/A
+Winnipeg,July,Canada,81 °F,62 °F,71 °F,"2.32""",60%,56 °F,7 mph,"29.91 ""Hg",N/A
+Winnipeg,August,Canada,78 °F,59 °F,69 °F,"2.48""",61%,54 °F,7 mph,"29.91 ""Hg",N/A
+Winnipeg,September,Canada,68 °F,50 °F,59 °F,"2.08""",64%,46 °F,7 mph,"29.94 ""Hg",N/A
+Winnipeg,October,Canada,51 °F,36 °F,44 °F,"1.57""",68%,33 °F,8 mph,"29.94 ""Hg",N/A
+Winnipeg,November,Canada,33 °F,20 °F,26 °F,"0.93""",75%,19 °F,8 mph,"30.02 ""Hg",N/A
+Winnipeg,December,Canada,19 °F,6 °F,12 °F,"0.81""",78%,6 °F,8 mph,"30.05 ""Hg",N/A
+Dhaka,January,Bangladesh,76 °F,59 °F,67 °F,"0.39""",66%,55 °F,4 mph,"29.97 ""Hg",2 mi
+Dhaka,February,Bangladesh,83 °F,65 °F,74 °F,"0.30""",57%,57 °F,4 mph,"29.92 ""Hg",2 mi
+Dhaka,March,Bangladesh,90 °F,71 °F,81 °F,"0.91""",57%,63 °F,5 mph,"29.84 ""Hg",2 mi
+Dhaka,April,Bangladesh,93 °F,76 °F,84 °F,"5.69""",66%,71 °F,7 mph,"29.75 ""Hg",3 mi
+Dhaka,May,Bangladesh,93 °F,78 °F,85 °F,"9.51""",73%,75 °F,7 mph,"29.67 ""Hg",3 mi
+Dhaka,June,Bangladesh,91 °F,80 °F,86 °F,"12.78""",78%,77 °F,6 mph,"29.56 ""Hg",3 mi
+Dhaka,July,Bangladesh,90 °F,80 °F,85 °F,"16.81""",80%,78 °F,6 mph,"29.55 ""Hg",3 mi
+Dhaka,August,Bangladesh,91 °F,80 °F,86 °F,"13.67""",80%,78 °F,5 mph,"29.58 ""Hg",3 mi
+Dhaka,September,Bangladesh,91 °F,80 °F,86 °F,"8.47""",79%,77 °F,3 mph,"29.68 ""Hg",3 mi
+Dhaka,October,Bangladesh,90 °F,77 °F,83 °F,"5.88""",74%,73 °F,3 mph,"29.80 ""Hg",3 mi
+Dhaka,November,Bangladesh,85 °F,68 °F,77 °F,"0.70""",68%,64 °F,2 mph,"29.89 ""Hg",2 mi
+Dhaka,December,Bangladesh,78 °F,61 °F,70 °F,"0.88""",71%,59 °F,2 mph,"29.95 ""Hg",2 mi
+Montréal,January,Canada,24 °F,9 °F,16 °F,"2.80""",73%,9 °F,19 mph,"30.03 ""Hg",12 mi
+Montréal,February,Canada,26 °F,11 °F,19 °F,"2.36""",70%,11 °F,19 mph,"30.02 ""Hg",13 mi
+Montréal,March,Canada,37 °F,21 °F,29 °F,"2.60""",66%,19 °F,19 mph,"30.02 ""Hg",14 mi
+Montréal,April,Canada,52 °F,34 °F,43 °F,"3.34""",61%,29 °F,19 mph,"29.96 ""Hg",17 mi
+Montréal,May,Canada,67 °F,47 °F,57 °F,"2.78""",61%,43 °F,18 mph,"29.96 ""Hg",18 mi
+Montréal,June,Canada,76 °F,57 °F,66 °F,"3.23""",66%,54 °F,16 mph,"29.90 ""Hg",17 mi
+Montréal,July,Canada,80 °F,62 °F,71 °F,"3.20""",69%,60 °F,16 mph,"29.91 ""Hg",17 mi
+Montréal,August,Canada,78 °F,60 °F,69 °F,"3.30""",70%,59 °F,15 mph,"29.96 ""Hg",17 mi
+Montréal,September,Canada,70 °F,52 °F,61 °F,"3.05""",73%,52 °F,15 mph,"30.02 ""Hg",17 mi
+Montréal,October,Canada,56 °F,41 °F,48 °F,"3.85""",73%,40 °F,17 mph,"30.01 ""Hg",16 mi
+Montréal,November,Canada,43 °F,29 °F,36 °F,"3.06""",75%,29 °F,18 mph,"30.04 ""Hg",14 mi
+Montréal,December,Canada,31 °F,18 °F,24 °F,"3.12""",77%,18 °F,19 mph,"30.03 ""Hg",12 mi
+Yangon,January,Myanmar,91 °F,64 °F,77 °F,"0.30""",68%,66 °F,8 mph,"29.91 ""Hg",4 mi
+Yangon,February,Myanmar,95 °F,66 °F,81 °F,"0.02""",62%,67 °F,8 mph,"29.89 ""Hg",4 mi
+Yangon,March,Myanmar,99 °F,70 °F,85 °F,"0.03""",62%,70 °F,10 mph,"29.84 ""Hg",4 mi
+Yangon,April,Myanmar,100 °F,75 °F,88 °F,"0.50""",65%,74 °F,11 mph,"29.80 ""Hg",4 mi
+Yangon,May,Myanmar,97 °F,76 °F,86 °F,"5.90""",74%,76 °F,10 mph,"29.75 ""Hg",4 mi
+Yangon,June,Myanmar,89 °F,74 °F,82 °F,"14.92""",88%,77 °F,10 mph,"29.72 ""Hg",4 mi
+Yangon,July,Myanmar,87 °F,74 °F,81 °F,"16.46""",90%,77 °F,10 mph,"29.73 ""Hg",4 mi
+Yangon,August,Myanmar,87 °F,74 °F,81 °F,"13.63""",90%,77 °F,10 mph,"29.73 ""Hg",4 mi
+Yangon,September,Myanmar,89 °F,74 °F,82 °F,"12.05""",88%,77 °F,9 mph,"29.78 ""Hg",4 mi
+Yangon,October,Myanmar,91 °F,74 °F,82 °F,"7.19""",84%,77 °F,8 mph,"29.83 ""Hg",4 mi
+Yangon,November,Myanmar,92 °F,72 °F,82 °F,"2.38""",79%,75 °F,8 mph,"29.87 ""Hg",4 mi
+Yangon,December,Myanmar,91 °F,66 °F,78 °F,"0.06""",73%,69 °F,8 mph,"29.91 ""Hg",4 mi
+Doha,January,Qatar,73 °F,58 °F,66 °F,"0.43""",67%,53 °F,15 mph,"30.09 ""Hg",6 mi
+Doha,February,Qatar,75 °F,60 °F,68 °F,"0.55""",64%,53 °F,17 mph,"30.03 ""Hg",6 mi
+Doha,March,Qatar,82 °F,65 °F,73 °F,"0.59""",56%,54 °F,18 mph,"29.95 ""Hg",7 mi
+Doha,April,Qatar,92 °F,73 °F,82 °F,"0.27""",47%,57 °F,16 mph,"29.85 ""Hg",7 mi
+Doha,May,Qatar,103 °F,82 °F,93 °F,"0.16""",38%,59 °F,17 mph,"29.72 ""Hg",7 mi
+Doha,June,Qatar,108 °F,87 °F,97 °F,"0.01""",36%,62 °F,18 mph,"29.54 ""Hg",6 mi
+Doha,July,Qatar,108 °F,89 °F,99 °F,"0.11""",44%,69 °F,16 mph,"29.46 ""Hg",6 mi
+Doha,August,Qatar,107 °F,89 °F,98 °F,"0.00""",57%,77 °F,14 mph,"29.52 ""Hg",6 mi
+Doha,September,Qatar,103 °F,85 °F,94 °F,"0.10""",57%,74 °F,13 mph,"29.68 ""Hg",6 mi
+Doha,October,Qatar,96 °F,80 °F,88 °F,"0.22""",59%,70 °F,12 mph,"29.88 ""Hg",7 mi
+Doha,November,Qatar,86 °F,71 °F,79 °F,"0.62""",62%,63 °F,14 mph,"30.01 ""Hg",7 mi
+Doha,December,Qatar,77 °F,63 °F,70 °F,"0.50""",68%,57 °F,14 mph,"30.09 ""Hg",7 mi
+Moscow,January,Russia,24 °F,16 °F,20 °F,"2.30""",85%,17 °F,5 mph,"30.02 ""Hg",4 mi
+Moscow,February,Russia,28 °F,19 °F,24 °F,"1.65""",80%,18 °F,6 mph,"30.06 ""Hg",5 mi
+Moscow,March,Russia,38 °F,24 °F,31 °F,"1.74""",69%,21 °F,6 mph,"29.97 ""Hg",5 mi
+Moscow,April,Russia,52 °F,36 °F,44 °F,"1.66""",62%,30 °F,4 mph,"29.94 ""Hg",6 mi
+Moscow,May,Russia,67 °F,49 °F,58 °F,"3.15""",62%,44 °F,3 mph,"29.97 ""Hg",5 mi
+Moscow,June,Russia,73 °F,56 °F,64 °F,"2.48""",64%,51 °F,3 mph,"29.93 ""Hg",6 mi
+Moscow,July,Russia,75 °F,59 °F,67 °F,"3.29""",69%,56 °F,3 mph,"29.88 ""Hg",5 mi
+Moscow,August,Russia,74 °F,57 °F,65 °F,"2.48""",71%,54 °F,3 mph,"29.99 ""Hg",5 mi
+Moscow,September,Russia,61 °F,48 °F,55 °F,"2.19""",78%,47 °F,3 mph,"30.02 ""Hg",5 mi
+Moscow,October,Russia,48 °F,38 °F,43 °F,"2.27""",78%,36 °F,3 mph,"30.09 ""Hg",6 mi
+Moscow,November,Russia,37 °F,30 °F,33 °F,"2.28""",85%,29 °F,5 mph,"30.12 ""Hg",5 mi
+Moscow,December,Russia,29 °F,22 °F,26 °F,"2.21""",87%,22 °F,5 mph,"30.04 ""Hg",4 mi
+Zagreb,January,Croatia,41 °F,29 °F,35 °F,"2.11""",87%,29 °F,8 mph,"30.14 ""Hg",5 mi
+Zagreb,February,Croatia,47 °F,31 °F,39 °F,"2.10""",79%,30 °F,9 mph,"30.10 ""Hg",6 mi
+Zagreb,March,Croatia,56 °F,37 °F,46 °F,"2.18""",71%,34 °F,11 mph,"30.05 ""Hg",8 mi
+Zagreb,April,Croatia,65 °F,45 °F,55 °F,"2.65""",70%,42 °F,11 mph,"29.96 ""Hg",9 mi
+Zagreb,May,Croatia,73 °F,52 °F,63 °F,"3.33""",70%,51 °F,10 mph,"29.97 ""Hg",9 mi
+Zagreb,June,Croatia,80 °F,60 °F,70 °F,"3.90""",71%,58 °F,9 mph,"29.98 ""Hg",9 mi
+Zagreb,July,Croatia,83 °F,62 °F,73 °F,"3.29""",70%,60 °F,8 mph,"29.96 ""Hg",9 mi
+Zagreb,August,Croatia,83 °F,62 °F,72 °F,"2.81""",70%,60 °F,8 mph,"29.98 ""Hg",9 mi
+Zagreb,September,Croatia,73 °F,54 °F,64 °F,"3.59""",77%,54 °F,8 mph,"30.04 ""Hg",8 mi
+Zagreb,October,Croatia,63 °F,46 °F,54 °F,"3.13""",83%,47 °F,8 mph,"30.09 ""Hg",6 mi
+Zagreb,November,Croatia,51 °F,38 °F,45 °F,"3.30""",87%,39 °F,8 mph,"30.08 ""Hg",5 mi
+Zagreb,December,Croatia,41 °F,30 °F,36 °F,"2.86""",89%,31 °F,8 mph,"30.14 ""Hg",5 mi
+Dubai,January,United Arab Emirates,76 °F,60 °F,68 °F,"0.49""",62%,54 °F,14 mph,"30.07 ""Hg",6 mi
+Dubai,February,United Arab Emirates,79 °F,62 °F,70 °F,"0.20""",61%,55 °F,15 mph,"30.01 ""Hg",6 mi
+Dubai,March,United Arab Emirates,84 °F,67 °F,75 °F,"0.44""",57%,57 °F,16 mph,"29.93 ""Hg",6 mi
+Dubai,April,United Arab Emirates,93 °F,73 °F,83 °F,"0.13""",48%,58 °F,15 mph,"29.83 ""Hg",6 mi
+Dubai,May,United Arab Emirates,101 °F,80 °F,90 °F,"0.10""",44%,63 °F,16 mph,"29.70 ""Hg",6 mi
+Dubai,June,United Arab Emirates,104 °F,84 °F,94 °F,"0.00""",50%,70 °F,15 mph,"29.52 ""Hg",6 mi
+Dubai,July,United Arab Emirates,107 °F,89 °F,98 °F,"0.00""",49%,73 °F,16 mph,"29.44 ""Hg",5 mi
+Dubai,August,United Arab Emirates,107 °F,89 °F,98 °F,"0.15""",49%,73 °F,16 mph,"29.51 ""Hg",6 mi
+Dubai,September,United Arab Emirates,103 °F,85 °F,94 °F,"0.04""",55%,72 °F,15 mph,"29.67 ""Hg",6 mi
+Dubai,October,United Arab Emirates,97 °F,78 °F,87 °F,"0.05""",56%,68 °F,13 mph,"29.87 ""Hg",6 mi
+Dubai,November,United Arab Emirates,87 °F,71 °F,79 °F,"0.13""",57%,62 °F,13 mph,"29.98 ""Hg",6 mi
+Dubai,December,United Arab Emirates,80 °F,64 °F,72 °F,"0.42""",62%,57 °F,13 mph,"30.06 ""Hg",6 mi
+Mumbai,January,India,88 °F,63 °F,76 °F,"0.03""",57%,59 °F,8 mph,"29.92 ""Hg",2 mi
+Mumbai,February,India,89 °F,65 °F,77 °F,"0.01""",56%,60 °F,8 mph,"29.89 ""Hg",2 mi
+Mumbai,March,India,92 °F,70 °F,81 °F,"0.08""",60%,65 °F,9 mph,"29.84 ""Hg",2 mi
+Mumbai,April,India,92 °F,76 °F,84 °F,"0.19""",67%,72 °F,10 mph,"29.79 ""Hg",2 mi
+Mumbai,May,India,93 °F,80 °F,87 °F,"1.04""",70%,75 °F,12 mph,"29.74 ""Hg",3 mi
+Mumbai,June,India,90 °F,80 °F,85 °F,"18.59""",77%,77 °F,14 mph,"29.66 ""Hg",2 mi
+Mumbai,July,India,87 °F,78 °F,82 °F,"33.05""",83%,77 °F,16 mph,"29.65 ""Hg",2 mi
+Mumbai,August,India,87 °F,77 °F,82 °F,"18.57""",82%,76 °F,15 mph,"29.70 ""Hg",2 mi
+Mumbai,September,India,88 °F,77 °F,82 °F,"13.99""",81%,76 °F,10 mph,"29.75 ""Hg",2 mi
+Mumbai,October,India,93 °F,75 °F,84 °F,"3.69""",69%,72 °F,8 mph,"29.81 ""Hg",2 mi
+Mumbai,November,India,94 °F,71 °F,82 °F,"0.51""",58%,65 °F,8 mph,"29.86 ""Hg",2 mi
+Mumbai,December,India,91 °F,65 °F,78 °F,"0.10""",57%,61 °F,7 mph,"29.91 ""Hg",2 mi
+Zürich,January,Switzerland,39 °F,29 °F,34 °F,"3.04""",85%,30 °F,9 mph,"30.17 ""Hg",5 mi
+Zürich,February,Switzerland,43 °F,29 °F,36 °F,"2.50""",80%,30 °F,10 mph,"30.14 ""Hg",6 mi
+Zürich,March,Switzerland,52 °F,33 °F,43 °F,"2.69""",73%,34 °F,10 mph,"30.08 ""Hg",7 mi
+Zürich,April,Switzerland,60 °F,39 °F,50 °F,"2.77""",69%,39 °F,10 mph,"29.98 ""Hg",7 mi
+Zürich,May,Switzerland,67 °F,47 °F,57 °F,"4.59""",72%,47 °F,9 mph,"30.00 ""Hg",8 mi
+Zürich,June,Switzerland,74 °F,54 °F,64 °F,"4.18""",72%,53 °F,9 mph,"30.03 ""Hg",8 mi
+Zürich,July,Switzerland,77 °F,57 °F,67 °F,"4.87""",71%,56 °F,8 mph,"30.02 ""Hg",8 mi
+Zürich,August,Switzerland,76 °F,56 °F,66 °F,"4.49""",75%,57 °F,8 mph,"30.02 ""Hg",7 mi
+Zürich,September,Switzerland,68 °F,50 °F,59 °F,"3.28""",80%,51 °F,7 mph,"30.07 ""Hg",7 mi
+Zürich,October,Switzerland,58 °F,43 °F,51 °F,"3.40""",86%,46 °F,8 mph,"30.08 ""Hg",5 mi
+Zürich,November,Switzerland,46 °F,35 °F,41 °F,"2.77""",88%,37 °F,8 mph,"30.08 ""Hg",5 mi
+Zürich,December,Switzerland,40 °F,30 °F,35 °F,"3.37""",87%,32 °F,9 mph,"30.15 ""Hg",5 mi
+Dublin,January,Ireland,47 °F,36 °F,42 °F,"2.58""",87%,38 °F,25 mph,"29.90 ""Hg",10 mi
+Dublin,February,Ireland,48 °F,36 °F,42 °F,"2.17""",85%,38 °F,25 mph,"29.93 ""Hg",11 mi
+Dublin,March,Ireland,52 °F,38 °F,45 °F,"1.99""",83%,39 °F,23 mph,"29.97 ""Hg",11 mi
+Dublin,April,Ireland,55 °F,40 °F,48 °F,"1.98""",81%,41 °F,21 mph,"29.95 ""Hg",12 mi
+Dublin,May,Ireland,60 °F,44 °F,52 °F,"2.36""",79%,45 °F,20 mph,"29.97 ""Hg",12 mi
+Dublin,June,Ireland,65 °F,49 °F,57 °F,"2.48""",79%,50 °F,19 mph,"30.00 ""Hg",13 mi
+Dublin,July,Ireland,68 °F,53 °F,60 °F,"2.49""",80%,53 °F,18 mph,"29.96 ""Hg",13 mi
+Dublin,August,Ireland,67 °F,52 °F,60 °F,"2.87""",82%,53 °F,19 mph,"29.95 ""Hg",13 mi
+Dublin,September,Ireland,64 °F,49 °F,56 °F,"2.42""",84%,51 °F,19 mph,"29.98 ""Hg",12 mi
+Dublin,October,Ireland,58 °F,45 °F,51 °F,"3.10""",85%,46 °F,21 mph,"29.88 ""Hg",11 mi
+Dublin,November,Ireland,51 °F,40 °F,46 °F,"3.21""",88%,42 °F,23 mph,"29.85 ""Hg",11 mi
+Dublin,December,Ireland,48 °F,37 °F,42 °F,"3.02""",88%,39 °F,24 mph,"29.88 ""Hg",10 mi
+Nairobi,January,Kenya,79 °F,59 °F,69 °F,"2.34""",65%,55 °F,16 mph,"29.96 ""Hg",9 mi
+Nairobi,February,Kenya,81 °F,59 °F,70 °F,"1.90""",60%,54 °F,16 mph,"29.95 ""Hg",9 mi
+Nairobi,March,Kenya,81 °F,61 °F,71 °F,"2.88""",64%,56 °F,17 mph,"29.95 ""Hg",9 mi
+Nairobi,April,Kenya,78 °F,61 °F,69 °F,"2.92""",74%,59 °F,13 mph,"29.98 ""Hg",9 mi
+Nairobi,May,Kenya,75 °F,60 °F,67 °F,"2.50""",76%,58 °F,10 mph,"30.03 ""Hg",9 mi
+Nairobi,June,Kenya,73 °F,57 °F,65 °F,"0.79""",74%,55 °F,8 mph,"30.06 ""Hg",9 mi
+Nairobi,July,Kenya,72 °F,55 °F,64 °F,"0.43""",71%,53 °F,9 mph,"30.07 ""Hg",9 mi
+Nairobi,August,Kenya,74 °F,55 °F,64 °F,"0.69""",70%,53 °F,10 mph,"30.07 ""Hg",9 mi
+Nairobi,September,Kenya,77 °F,56 °F,67 °F,"0.62""",65%,53 °F,12 mph,"30.04 ""Hg",9 mi
+Nairobi,October,Kenya,79 °F,59 °F,69 °F,"1.88""",65%,55 °F,14 mph,"30.00 ""Hg",9 mi
+Nairobi,November,Kenya,76 °F,60 °F,68 °F,"3.88""",74%,58 °F,16 mph,"29.98 ""Hg",9 mi
+Nairobi,December,Kenya,77 °F,60 °F,68 °F,"3.03""",72%,57 °F,16 mph,"29.99 ""Hg",9 mi

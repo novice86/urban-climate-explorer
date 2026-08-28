@@ -1,0 +1,10 @@
+1. Which sections of the website are restricted for crawling?
+For general web crawlers, Wikipedia restricts access to backend scripts, APIs, 
+and administrative directories to conserve server resources and prevent indexing of non-content pages. 
+Specific restricted paths include backend directories (like /w/), dynamically generated pages (/wiki/Special:) and so on.
+
+2. Are there specific rules for certain user agents?
+Yes, Wikipedia has explicit rules that completely disallow certain user agents from crawling any part of the site. 
+This primarily targets bots designed to download or copy entire sites in recursive mode (such as HTTrack, Offline Explorer, and WebCopier) 
+to prevent severe server strain.
+

@@ -152,4 +152,4 @@ finally:
     driver.quit()
 
 # Write data to csv file with UTF-8 encoding
-pd.DataFrame(all_weather_records).to_csv("climate_data.csv", index=False, encoding="utf-8-sig")
+pd.DataFrame(all_weather_records).to_csv("./data/climate_data.csv", index=False, encoding="utf-8-sig")

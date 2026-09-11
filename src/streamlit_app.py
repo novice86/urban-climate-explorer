@@ -10,11 +10,20 @@ st.title("🌍 Global City Climate Analysis")
 st.markdown("Explore temperature stability, extreme precipitation, and geographic climate trends across 139 global cities.")
 
 # Cache the data so the app doesn't hit the database every time a slider moves
+from pathlib import Path
+
 @st.cache_data
 def load_data():
-    with sqlite3.connect('../db/city_climate_data.db') as conn:
+    # Get the exact directory where streamlit_app.py lives
+    current_dir = Path(__file__).parent
+    
+    # Go up one level, then into db/city_climate_data.db
+    db_path = current_dir.parent / "db" / "city_climate_data.db"
+    
+    with sqlite3.connect(db_path) as conn:
         df = pd.read_sql_query("SELECT * FROM city_climate_data", conn)
     return df
+
 
 df = load_data()
 conditions = [

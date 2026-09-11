@@ -94,7 +94,7 @@ st.divider()
 st.subheader("3. Seasonal Temperature Swings")
 st.write("Compare monthly temperature profiles. Select cities below:")
 
-# Widget 3: Multi-select for specific city comparison
+# Multi-select for specific city comparison
 available_cities = sorted(filtered_df['city'].unique())
 # Default to a couple of cities if available to show immediate results
 default_cities = available_cities[:2] if len(available_cities) >= 2 else available_cities

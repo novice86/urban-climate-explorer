@@ -87,7 +87,20 @@ try:
     for city, url in city_links:
         driver.get(url)
 
-        country = extract_country(url)
+        # Grab the text from the element
+        header_text = driver.find_element(By.CSS_SELECTOR, "h1.headline-banner__title").text
+
+        # Split exactly at " in " and take the second half
+        location_string = header_text.split(" in ", 1)[1]
+
+        # Split by commas and strip spaces
+        parts = [p.strip() for p in location_string.split(',')]
+
+        # Unpack based on whether the region exists (3 parts) or not (2 parts)
+        if len(parts) == 3:
+            city, region, country = parts[0], parts[1], parts[2]
+        else:
+            city, region, country = parts[0], None, parts[1]
 
         # Wait until the target table is present in the DOM
         wait.until(EC.presence_of_element_located((By.ID, "climateTable")))
@@ -105,8 +118,9 @@ try:
                 # Start dictionaty for this specific month
                 record = {
                     "city": city,
-                    "month": month.capitalize(),
-                    "country": country
+                    "region": region,
+                    "country": country,
+                    "month": month.capitalize()
                 }
 
                 # Iterate over <p> tags to extract data the key-value pairs
